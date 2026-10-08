@@ -1,0 +1,7 @@
+Reglas para este proyecto:
+1. Antes de crear o modificar cualquier archivo, explica: qué vas a cambiar,
+   por qué, y cómo verificaremos que es correcto. Espera mi aprobación.
+2. Nunca crees, leas ni subas claves, contraseñas ni archivos .env.
+3. Usa solo información que esté en el repositorio. Si falta algo, dilo.
+4. Haz commits con mensajes claros, solo cuando yo lo pida.
+5. No crees código en src/ hasta que el docente autorice el desarrollo.

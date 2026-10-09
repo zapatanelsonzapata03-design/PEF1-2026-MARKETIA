@@ -1,5 +1,4 @@
-# PEF1-2026-MARKETIA
-# MarketIA
+# PEF1-2026-MarketIA
 
 Asistente con inteligencia artificial para que más negocios de Cochabamba
 nazcan bien planificados.
@@ -39,8 +38,18 @@ Python + FastAPI · LLM vía OmniRoute (piloto) · PostgreSQL · React
 Fase de planificación y auditoría de madurez. Hito: presentación en clase
 el 24 de octubre de 2026 (40 %). Desarrollo aún no iniciado.
 
-## Planificación
-Ver `docs/04-planificacion/`.
+## Estructura del repositorio
+
+- `equipo/`: información de los integrantes, roles y acuerdos.
+- `docs/01-proyecto/`: informe final y resumen del problema.
+- `docs/02-requisitos/`: requisitos funcionales, usuarios y metas.
+- `docs/03-arquitectura/`: arquitectura y flujo del sistema.
+- `docs/04-planificacion/`: cronograma, hitos, riesgos y costos.
+- `docs/05-estadistica/`: validación, muestra e hipótesis.
+- `docs/06-auditoria/`: cuestionario y hallazgos.
+- `docs/07-evidencias/`: capturas y registro de prompts.
+- `docs/08-presentacion/`: diapositivas de la presentación.
+- `src/`: reservado; no iniciar desarrollo hasta recibir autorización.
 
 ## Materia
 Probabilidad y Estadística · UNIFRANZ · Docente: Diego Patrick Cárdenas ·

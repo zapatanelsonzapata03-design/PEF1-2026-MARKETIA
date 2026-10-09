@@ -1,0 +1,4 @@
+Nelson Zapata Jiménez
+Rol: Líder del motor y la IA
+
+Construye la parte interna del programa, conecta la IA y hace las pruebas técnicas.

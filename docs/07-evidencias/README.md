@@ -1,24 +1,36 @@
 # Evidencias del proyecto
 
-Guardar aquí únicamente evidencia real y pertinente del proyecto. No hay
-capturas, cotizaciones ni resultados de encuesta cargados actualmente.
+Guardar aquí únicamente **evidencia real**. Está prohibido crear capturas,
+cotizaciones o resultados de ejemplo que puedan confundirse con observaciones
+reales.
 
-## Evidencias previstas
+## Kit listo para usar
+| Archivo | Para qué |
+|---|---|
+| [`protocolo-entrevistas.md`](protocolo-entrevistas.md) | Guion y método de entrevistas a emprendedores de Cochabamba |
+| [`consentimiento-informado.md`](consentimiento-informado.md) | Texto de consentimiento |
+| [`ficha-registro-entrevista.md`](ficha-registro-entrevista.md) | Ficha por entrevista |
+| [`plantilla-tabulacion.csv`](plantilla-tabulacion.csv) | Tabla para cargar respuestas |
+| [`registro-entrevistas.md`](registro-entrevistas.md) | Registro y resumen de entrevistas realizadas |
+| [`guion-cotizaciones.md`](guion-cotizaciones.md) | Cómo obtener 2 cotizaciones |
+| [`solicitud-autorizacion-docente.md`](solicitud-autorizacion-docente.md) | Borrador de solicitud y espacio para la respuesta |
 
-- Capturas de fuentes revisadas y cotizaciones locales, con datos sensibles
-  ocultos cuando sea necesario.
-- Protocolo y resultados agregados de entrevistas/encuesta, sin identificadores
-  personales.
-- Registro de prompts y salidas de prueba del LLM, usando entradas no
-  sensibles y señalando proveedor/modelo y fecha cuando sea posible.
-- Registros de tiempo, costo y resultado de cada prueba técnica.
+## Evidencia existente
+- Informe final: [`../01-proyecto/MarketIA_informe_final.pdf`](../01-proyecto/MarketIA_informe_final.pdf).
+  Su **Anexo B** contiene capturas de una prueba de OmniRoute con un caso
+  (cafetería) y de la topología de proveedores. Es evidencia **preliminar de un
+  solo caso**. La salida de ejemplo no incluye costos variables (materia
+  prima) ni personal en la utilidad, y debe repetirse con costos completos y
+  calcularse con las fórmulas fijas antes de usarla como resultado.
 
-## Registro mínimo
+## Evidencia por reunir
+- Capturas de Trello, de la protección de `main` en GitHub y de OmniRoute.
+- Resultados agregados de entrevistas (sin datos personales).
+- Cotizaciones reales con datos sensibles ocultos.
+- Registro de la prueba de viabilidad: fecha, modelo, tiempo, costo y resultado.
+- Respuesta escrita del docente a la solicitud de autorización.
 
-Para cada evidencia, indicar fecha, propósito, responsable, fuente, relación
-con el criterio del cuestionario y limitaciones. No crear capturas ni resultados
-de ejemplo que puedan confundirse con observaciones reales.
-
-No incluir claves, contraseñas, tokens, archivos de entorno, datos personales
-identificables ni información de terceros sin permiso. No almacenar secretos en
-este repositorio.
+## Registro mínimo por evidencia
+Fecha, propósito, responsable, fuente, criterio del cuestionario que respalda y
+limitaciones. No incluir claves, contraseñas, tokens, archivos de entorno ni
+datos personales.

@@ -7,3 +7,5 @@ Reglas para este proyecto:
 5. No crees código en src/ hasta que el docente autorice el desarrollo.
 6. Usa docs/decisiones.md como fuente de decisiones ratificadas; las propuestas
    pendientes de aprobación no son acuerdos.
+7. No inventes entrevistas, cotizaciones, actas, autorizaciones ni resultados de
+   pruebas. Solo prepara plantillas; los datos reales los aportan las personas.

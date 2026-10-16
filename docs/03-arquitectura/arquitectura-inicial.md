@@ -112,3 +112,18 @@ src/
 
 Este árbol es una propuesta futura; `src/` debe continuar vacío hasta recibir
 autorización expresa para iniciar el desarrollo.
+
+## Evidencia preliminar de OmniRoute (informe final, Anexo B)
+El informe incluye capturas de una prueba con **un solo caso** (cafetería
+pequeña, inversión de Bs 20 000) y de la topología de proveedores (OpenCode
+Free, Mistral, Gemini y Groq). Sirve como evidencia de que el enrutador se
+configuró y respondió; **no reemplaza la prueba de viabilidad**
+(`plan de validación`, 10 ideas, latencia y costo). La salida de ejemplo no
+descuenta costos variables ni personal de la utilidad, por lo que no debe
+usarse como resultado: repetir el caso con costos completos y calcular con las
+fórmulas fijas. La captura de solicitudes recientes parece mostrar algunas
+fallidas; documentar cómo se manejan los fallos y reintentos.
+
+## Responsabilidades (alineadas con roles)
+Diseño del sistema y configuración de OmniRoute: Nelson. Prototipo de pantallas:
+Cristián. Ver decisión D11 en [`decisiones.md`](../decisiones.md).

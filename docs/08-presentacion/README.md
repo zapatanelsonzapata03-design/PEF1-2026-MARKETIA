@@ -1,22 +1,25 @@
 # Presentación del proyecto
 
-El README registra una presentación en clase el 24 de octubre de 2026. No hay
-diapositivas ni guion disponibles en esta carpeta.
+Presentación en clase: sábado 24 de octubre de 2026 (hito del 40 %). El informe
+prevé **6 diapositivas**. Guardar aquí las diapositivas finales. No incluir
+datos personales, resultados no verificados ni credenciales.
 
-## Orden sugerido
+## Guion propuesto (6 diapositivas)
 
-1. Problema y evidencia verificable.
-2. Usuario prioritario y necesidad.
-3. MVP y exclusiones.
-4. Flujo y arquitectura propuesta.
-5. Fórmulas y separación entre cálculos y estimaciones de IA.
-6. Validación planificada o resultados reales, distinguiendo ambos.
-7. Riesgos, mitigaciones y decisiones que requieran autorización.
-8. Cronograma y responsabilidades del equipo.
+| N.º | Diapositiva | Contenido | Responsable |
+|---:|---|---|---|
+| 1 | Problema y evidencia | Explicación de 30 segundos; fuentes **verificadas**; resultados de entrevistas **solo si se realizaron** | Alex |
+| 2 | Usuario, solución y MVP | Usuario prioritario, MVP, qué NO incluye | Cristián |
+| 3 | Cómo funciona | Flujo del usuario; separación entre cálculos fijos y estimaciones de IA; arquitectura | Nelson |
+| 4 | Plan y equipo | Hitos 40, 80 y 100 %, sprints, roles, horas y reuniones | Alex |
+| 5 | Costos y viabilidad | Costos piloto y comercial, punto de equilibrio del proyecto, riesgos principales (R1, R2, R3) | Alex |
+| 6 | Validación y próximos pasos | Plan estadístico, resultados reales o pendientes (distinguirlos), solicitudes de autorización | Nelson y Cristián |
 
-Antes de presentar, confirmar con el docente la materia del proyecto: el README
-indica Probabilidad y Estadística, mientras que el cuestionario adjunto está
-titulado Programación II - P2. No hay una confirmación registrada.
-
-Guardar diapositivas y materiales finales en esta carpeta. No incluir datos
-personales, resultados no verificados ni credenciales.
+## Reglas
+- Distinguir siempre lo que está **hecho** de lo que está **planificado**.
+- Si las entrevistas o la prueba de OmniRoute no se realizaron, decir que están
+  planificadas con fecha; no mostrar números de ejemplo.
+- Mostrar el caso del Anexo B solo con una advertencia: la IA sin costos
+  variables daba una utilidad poco realista, lo que justifica las fórmulas fijas.
+- Confirmar la materia con el docente antes de presentar (D15).
+- Ensayo: viernes 23 de octubre (reunión de las 20:00).

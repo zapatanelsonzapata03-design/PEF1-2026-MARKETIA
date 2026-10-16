@@ -1,79 +1,96 @@
 # Auditoría del cuestionario de aprobación
 
 **Base de revisión:** Cuestionario de Aprobación del Proyecto - Programación II,
-adjuntado por el equipo, y documentos que constan en este repositorio.
+el [informe final](../01-proyecto/MarketIA_informe_final.pdf) y los documentos de
+este repositorio.
 
-Esta auditoría enlaza evidencia documental y acciones de cierre para las 52
-preguntas. **“Documentado como propuesta” no significa aprobado ni demostrado.**
-No se encontraron actas de ratificación, respuestas de entrevistas, cotizaciones
-ni resultados de pruebas. La fecha de cierre de los pendientes no está
-registrada; el equipo debe acordarla.
+## Cómo leer esta auditoría
 
-| N.º | Estado actual | Evidencia en el repositorio | Para cerrar el criterio | Fecha de cierre |
+- **Documentado**: existe un documento que responde la pregunta.
+- **Falta ratificar**: depende de completar el [acta 01](../actas/acta-01-ratificacion.md).
+- **Falta evidencia real**: depende de datos que solo se obtienen fuera del
+  repositorio (entrevistas, cotizaciones, pruebas, respuesta del docente).
+
+**Todas las preguntas tienen respuesta documentada. Ninguna se marca "Cumple"
+porque la evidencia real y las ratificaciones aún no existen.** Las fechas de
+cierre son propuestas del equipo y se confirman en el acta. La aprobación final
+corresponde al docente.
+
+| N.º | Estado actual | Evidencia en el repositorio | Para cerrar el criterio | Fecha de cierre propuesta |
 |---:|---|---|---|---|
-| 1 | Texto breve propuesto | [Resumen del problema](../01-proyecto/resumen-del-problema.md) | Ensayar y confirmar que se explica en menos de 30 segundos sin tecnología. | Por acordar |
-| 2 | Usuario prioritario propuesto | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md), [decisiones](../decisiones.md) | Ratificar el grupo prioritario y validarlo con emprendedores. | Por acordar |
-| 3 | Pendiente de evidencia | [Referencias](../01-proyecto/referencias.md), [protocolo](../07-evidencias/registro-entrevistas.md) | Completar y verificar fuentes, cotizaciones y entrevistas/encuesta. | Por acordar |
-| 4 | Consecuencias propuestas; no verificadas | [Resumen del problema](../01-proyecto/resumen-del-problema.md) | Contrastar las consecuencias con entrevistas y fuentes revisadas. | Por acordar |
-| 5 | Valor e indicadores propuestos | [Objetivos](../02-requisitos/objetivos.md) | Medir costo por informe y disposición de pago; ratificar el valor para usuario. | Por acordar |
-| 6 | Justificación documentada como propuesta | [Resumen del problema](../01-proyecto/resumen-del-problema.md) | Validar la necesidad y comparar alternativas con evidencia de usuarios. | Por acordar |
-| 7 | Objetivo con umbral de tiempo existente | [README](../../README.md), [objetivos](../02-requisitos/objetivos.md) | Ratificar condiciones de medida y comprobar el umbral. | Por acordar |
-| 8 | Objetivos específicos propuestos | [Objetivos](../02-requisitos/objetivos.md) | Ratificar indicadores y umbrales; ejecutar pruebas. | Por acordar |
-| 9 | Trazabilidad documentada | [Objetivos](../02-requisitos/objetivos.md) | Validar la relación con evidencia real del problema y los usuarios. | Por acordar |
-| 10 | Umbrales definidos como propuesta | [Objetivos](../02-requisitos/objetivos.md), [resultados](../05-estadistica/resultados.md) | Recopilar resultados reales y compararlos con cada umbral. | Por acordar |
-| 11 | Necesidades priorizadas como propuesta | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md) | Confirmar prioridad y necesidades con usuarios. | Por acordar |
-| 12 | Correspondencia función-necesidad documentada | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md) | Validar la correspondencia mediante entrevistas/pruebas. | Por acordar |
-| 13 | Funciones y reglas descritas como borrador | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md) | Ratificar campos, reglas, errores y comportamiento esperado. | Por acordar |
-| 14 | Criterios de aceptación propuestos | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md) | Aprobar criterios y convertirlos en casos de prueba. | Por acordar |
-| 15 | Requisitos de calidad propuestos | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md) | Ratificar umbrales y evaluar seguridad, privacidad, usabilidad y compatibilidad. | Por acordar |
-| 16 | Alcance propuesto | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md) | Ratificar entregables y alcance del MVP. | Por acordar |
-| 17 | Exclusiones enumeradas como propuesta | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md), [decisiones](../decisiones.md) | Ratificar explícitamente las exclusiones. | Por acordar |
-| 18 | Funciones fuera de MVP enumeradas | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md) | Ratificar priorización y separar versiones. | Por acordar |
-| 19 | Esfuerzo estimado; disponibilidad real pendiente | [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md) | Confirmar horas semanales, fechas, recursos y viabilidad de la estimación. | Por acordar |
-| 20 | Recorte del 40 % propuesto | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md) | Ratificar qué se conserva y qué se elimina, y sus efectos en objetivos. | Por acordar |
-| 21 | MVP v1.0 definido como propuesta | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md), [decisiones](../decisiones.md) | Ratificarlo con el equipo y el docente. | Por acordar |
-| 22 | Valor del MVP justificado como propuesta | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md) | Validar que el MVP resuelve una necesidad real. | Por acordar |
-| 23 | Horas y tareas propuestas; fechas Fase B sin definir | [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md) | Confirmar calendario, disponibilidad y autorización docente. | Por acordar |
-| 24 | Versiones posteriores separadas como propuesta | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md) | Ratificar planificación de v1.1 y v2. | Por acordar |
-| 25 | Tecnologías candidatas identificadas | [Arquitectura](../03-arquitectura/arquitectura-inicial.md) | Confirmar capacidades, recursos y viabilidad del equipo. | Por acordar |
-| 26 | Dificultades e incertidumbres enumeradas | [Arquitectura](../03-arquitectura/arquitectura-inicial.md) | Ejecutar validaciones autorizadas y documentar resultados. | Por acordar |
-| 27 | Prueba de viabilidad y umbrales propuestos | [Arquitectura](../03-arquitectura/arquitectura-inicial.md), [preparación](../09-preparacion.md) | Obtener autorización, ejecutar la prueba y evaluar resultados. | Por acordar |
-| 28 | Justificación tecnológica propuesta | [Arquitectura](../03-arquitectura/arquitectura-inicial.md) | Validar la justificación con experiencia, recursos y costos reales. | Por acordar |
-| 29 | Dependencias externas identificadas parcialmente | [Arquitectura](../03-arquitectura/arquitectura-inicial.md), [preparación](../09-preparacion.md) | Confirmar proveedor, hosting, recursos, permisos, versiones y condiciones. | Por acordar |
-| 30 | Flujo y contrato inicial propuestos | [Arquitectura](../03-arquitectura/arquitectura-inicial.md) | Ratificar contratos y límites; implementación requiere autorización docente. | Por acordar |
-| 31 | Categorías de datos y origen propuestos | [Datos y pruebas](../03-arquitectura/datos-seguridad-pruebas.md) | Confirmar fuentes, datos almacenados y flujo hacia proveedores. | Por acordar |
-| 32 | Controles de privacidad propuestos | [Datos y pruebas](../03-arquitectura/datos-seguridad-pruebas.md), [decisiones](../decisiones.md) | Aprobar aviso, consentimiento, acceso, retención, borrado y permisos. | Por acordar |
-| 33 | Fórmulas y tres casos ilustrativos documentados | [Datos y pruebas](../03-arquitectura/datos-seguridad-pruebas.md) | Ratificar fórmulas, completar siete casos y probarlos. | Por acordar |
-| 34 | Estrategia de pruebas propuesta | [Datos y pruebas](../03-arquitectura/datos-seguridad-pruebas.md), [plan estadístico](../05-estadistica/plan-validacion.md) | Ratificar el plan y registrar pruebas reales. | Por acordar |
-| 35 | Gantt de Fase A propuesto; no ratificado | [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md) | Confirmar o actualizar fechas y elaborar calendario ejecutable para Fase B. | Por acordar |
-| 36 | Responsables sugeridos por tarea | [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md) | Ratificar asignaciones con cada integrante. | Por acordar |
-| 37 | Estimaciones propuestas; no son disponibilidad confirmada | [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md) | Confirmar estimaciones y capacidad semanal de cada persona. | Por acordar |
-| 38 | Dependencias propuestas en tablas | [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md) | Confirmar dependencias y reflejarlas en el calendario aprobado. | Por acordar |
-| 39 | Desarrollo, integración, pruebas, correcciones y documentación incluidos | [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md) | Confirmar alcance, fechas y responsables por tarea. | Por acordar |
-| 40 | Bloqueos y respuesta propuesta | [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md) | Asignar responsables y confirmar las mitigaciones. | Por acordar |
-| 41 | Entregables verificables propuestos | [Roles y acuerdos](../../equipo/roles-y-acuerdos.md) | Ratificar responsabilidades y respaldos. | Por acordar |
-| 42 | Flujo Git propuesto, sin configuración comprobada | [Roles y acuerdos](../../equipo/roles-y-acuerdos.md), [decisiones](../decisiones.md) | Aprobar el flujo; configurar protecciones y herramientas si se acuerdan. | Por acordar |
-| 43 | Cinco riesgos identificados; valoración preliminar | [Plan de riesgos](../04-planificacion/plan-desarrollo-y-riesgos.md) | Ratificar probabilidad, impacto y prioridad. | Por acordar |
-| 44 | Mitigaciones y planes B propuestos | [Plan de riesgos](../04-planificacion/plan-desarrollo-y-riesgos.md) | Asignar seguimiento y verificar controles. | Por acordar |
-| 45 | Cobertura cruzada propuesta | [Roles y acuerdos](../../equipo/roles-y-acuerdos.md) | Ratificar respaldos y documentar mecanismo de continuidad. | Por acordar |
-| 46 | Decisiones D1–D10 registradas como propuestas/pendientes | [Decisiones](../decisiones.md), [preparación](../09-preparacion.md) | Ratificar decisiones y obtener autorización docente; no hay acta registrada. | Por acordar |
-| 47 | Método de demanda identificado como incertidumbre | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md), [arquitectura](../03-arquitectura/arquitectura-inicial.md) | Definir método, supuestos y rúbrica antes de depender de la estimación. | Por acordar |
-| 48 | Dependencias y recursos listados; disponibilidad no confirmada | [Preparación](../09-preparacion.md) | Confirmar recursos, permisos y accesos sin publicar secretos. | Por acordar |
-| 49 | Primer trabajo propuesto para cada integrante | [Preparación](../09-preparacion.md), [plan](../04-planificacion/plan-desarrollo-y-riesgos.md) | Ratificar tareas y respetar autorización docente antes de programar. | Por acordar |
-| 50 | README y ruta de lectura actualizados | [README](../../README.md) | Confirmar que decisiones, evidencia y plan estén ratificados y completos. | Por acordar |
-| 51 | Escenarios de fracaso identificados | [Prueba de fracaso](prueba-de-fracaso.md) | Ratificar escenarios principales y vincularlos con riesgos priorizados. | Por acordar |
-| 52 | Controles propuestos, aún no comprobados | [Prueba de fracaso](prueba-de-fracaso.md), [plan de riesgos](../04-planificacion/plan-desarrollo-y-riesgos.md) | Asignar responsables y comprobar cada control con evidencia. | Por acordar |
+| 1 | Documentado | [Problema](../01-proyecto/resumen-del-problema.md) | Ensayar con cronómetro que se explica en menos de 30 s | Jue 22 oct |
+| 2 | Documentado; falta ratificar D1 | [Problema](../01-proyecto/resumen-del-problema.md), [Decisiones](../decisiones.md) | Ratificar D1 y confirmarlo con las entrevistas | Vie 16 oct / 20 oct |
+| 3 | Documentado; **falta evidencia real** | [Referencias](../01-proyecto/referencias.md), [Protocolo de entrevistas](../07-evidencias/protocolo-entrevistas.md), [Cotizaciones](../07-evidencias/guion-cotizaciones.md) | Verificar fuentes, 2 cotizaciones y entrevistas | 19 al 20 oct |
+| 4 | Documentado como hipótesis | [Problema](../01-proyecto/resumen-del-problema.md), [Protocolo de entrevistas](../07-evidencias/protocolo-entrevistas.md) | Contrastar con entrevistas (bloques B y C) | Mar 20 oct |
+| 5 | Documentado; falta medir | [Objetivos](../02-requisitos/objetivos.md), [Protocolo de entrevistas](../07-evidencias/protocolo-entrevistas.md) | Medir costo por informe (prueba de viabilidad) y disposición de pago (entrevistas) | Mar 20 oct |
+| 6 | Documentado; falta evidencia de usuarios | [Problema](../01-proyecto/resumen-del-problema.md), [Informe final](../01-proyecto/MarketIA_informe_final.pdf), [Protocolo de entrevistas](../07-evidencias/protocolo-entrevistas.md) | Respaldar con entrevistas (bloque E) y cotizaciones | Mar 20 oct |
+| 7 | Documentado | [README](../../README.md), [Objetivos](../02-requisitos/objetivos.md) | Ratificar condiciones de medición (D12) | Vie 16 oct |
+| 8 | Documentado | [Objetivos](../02-requisitos/objetivos.md) | Ratificar indicadores y umbrales | Vie 16 oct |
+| 9 | Documentado | [Objetivos](../02-requisitos/objetivos.md), [Informe final](../01-proyecto/MarketIA_informe_final.pdf) | Ratificar; contrastar con evidencia real | Vie 16 oct |
+| 10 | Documentado; OE5 pendiente de medir | [Objetivos](../02-requisitos/objetivos.md), [Plan de validación](../05-estadistica/plan-validacion.md) | Medir y registrar en `resultados.md` | Dic |
+| 11 | Documentado; falta validar | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md), [Protocolo de entrevistas](../07-evidencias/protocolo-entrevistas.md) | Confirmar necesidades con entrevistas | Mar 20 oct |
+| 12 | Documentado; falta validar | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md), [Protocolo de entrevistas](../07-evidencias/protocolo-entrevistas.md) | Confirmar correspondencia función-necesidad | Mar 20 oct |
+| 13 | Documentado | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md) | Ratificar campos, reglas y errores | Vie 16 oct |
+| 14 | Documentado | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md) | Convertir en casos de prueba (A6) | Lun 19 oct |
+| 15 | Documentado | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md) | Ratificar umbrales de RNF | Vie 16 oct |
+| 16 | Documentado | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md), [Decisiones](../decisiones.md) | Ratificar D2 | Vie 16 oct |
+| 17 | Documentado | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md), [Decisiones](../decisiones.md) | Ratificar D5 | Vie 16 oct |
+| 18 | Documentado | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md) | Ratificar priorización | Vie 16 oct |
+| 19 | Documentado; falta confirmar disponibilidad | [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md), [Roles y acuerdos](../../equipo/roles-y-acuerdos.md) | Confirmar horas (21 h fase A; 8 h semanales) en el acta | Vie 16 oct |
+| 20 | Documentado | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md) | Ratificar el recorte del 40 % | Vie 16 oct |
+| 21 | Documentado; falta ratificar D2 | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md), [Decisiones](../decisiones.md) | Ratificar con el equipo y el docente | Vie 16 oct |
+| 22 | Documentado; falta validar | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md), [Protocolo de entrevistas](../07-evidencias/protocolo-entrevistas.md) | Validar con entrevistas | Mar 20 oct |
+| 23 | Documentado (hitos y 112 h estimadas); falta confirmar | [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md), [Informe final](../01-proyecto/MarketIA_informe_final.pdf) | Confirmar calendario y autorización docente | Vie 16 oct |
+| 24 | Documentado | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md) | Ratificar v1.1 y v2 | Vie 16 oct |
+| 25 | Documentado; falta confirmar capacidades | [Arquitectura](../03-arquitectura/arquitectura-inicial.md) | Confirmar con la prueba de viabilidad | Lun 19 oct |
+| 26 | Documentado | [Arquitectura](../03-arquitectura/arquitectura-inicial.md) | Ejecutar validaciones autorizadas y documentar | Lun 19 oct |
+| 27 | Plan de validación documentado; prueba pendiente de autorización | [Arquitectura](../03-arquitectura/arquitectura-inicial.md), [Plan de validación](../05-estadistica/plan-validacion.md), [Informe final](../01-proyecto/MarketIA_informe_final.pdf) | Obtener autorización, ejecutar la prueba. Evidencia preliminar: Anexo B (1 caso) | Lun 19 oct |
+| 28 | Documentado | [Arquitectura](../03-arquitectura/arquitectura-inicial.md) | Validar justificación con costos reales | Lun 19 oct |
+| 29 | Documentado; falta confirmar hosting y cuentas | [Arquitectura](../03-arquitectura/arquitectura-inicial.md), [Preparación](../09-preparacion.md) | Elegir hosting y confirmar accesos sin publicar secretos | Antes del 6 nov |
+| 30 | Documentado | [Arquitectura](../03-arquitectura/arquitectura-inicial.md) | Ratificar contrato de API | Vie 16 oct |
+| 31 | Documentado | [Datos y pruebas](../03-arquitectura/datos-seguridad-pruebas.md) | Confirmar fuentes y flujo hacia el proveedor | Vie 16 oct |
+| 32 | Documentado; falta ratificar D6 | [Datos y pruebas](../03-arquitectura/datos-seguridad-pruebas.md), [Decisiones](../decisiones.md) | Aprobar aviso, consentimiento, retención y borrado | Vie 16 oct |
+| 33 | **10 casos sintéticos documentados**; faltan 3 negocios reales y ejecución | [Datos y pruebas](../03-arquitectura/datos-seguridad-pruebas.md) | Revisión independiente (Cristián) y 3 casos reales anonimizados | Mié 21 oct |
+| 34 | Documentado | [Datos y pruebas](../03-arquitectura/datos-seguridad-pruebas.md), [Plan de validación](../05-estadistica/plan-validacion.md) | Ratificar y registrar pruebas reales | Vie 16 oct |
+| 35 | Documentado (Fase A y B con fechas); falta ratificar | [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md), [Informe final](../01-proyecto/MarketIA_informe_final.pdf) | Ratificar fechas del plan y del informe | Vie 16 oct |
+| 36 | Documentado | [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md), [Roles y acuerdos](../../equipo/roles-y-acuerdos.md) | Ratificar asignaciones y corregir el informe (D11) | Vie 16 oct |
+| 37 | Documentado (horas por tarea) | [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md) | Confirmar estimaciones | Vie 16 oct |
+| 38 | Documentado | [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md) | Reflejar en el tablero de Trello | Mar 20 oct |
+| 39 | Documentado | [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md) | Confirmar tareas y responsables | Vie 16 oct |
+| 40 | Documentado | [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md) | Confirmar mitigaciones | Vie 16 oct |
+| 41 | Documentado | [Roles y acuerdos](../../equipo/roles-y-acuerdos.md) | Ratificar responsabilidades y respaldos | Vie 16 oct |
+| 42 | Acuerdo propuesto; **falta comprobar configuración** | [Roles y acuerdos](../../equipo/roles-y-acuerdos.md), [Decisiones](../decisiones.md) | Proteger `main`, activar pull requests, captura del tablero | Mar 20 oct |
+| 43 | Documentado (8 riesgos, 3 principales marcados) | [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md), [Informe final](../01-proyecto/MarketIA_informe_final.pdf) | Ratificar prioridad | Vie 16 oct |
+| 44 | Documentado | [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md) | Asignar seguimiento | Vie 16 oct |
+| 45 | Documentado | [Roles y acuerdos](../../equipo/roles-y-acuerdos.md) | Ratificar respaldos | Vie 16 oct |
+| 46 | **Falta acta**: decisiones D1 a D15 listas para ratificar | [Decisiones](../decisiones.md), [Acta 01](../actas/acta-01-ratificacion.md), [Preparación](../09-preparacion.md) | Reunión y acta; respuesta del docente (D10, D15) | Vie 16 oct / 20 oct |
+| 47 | Documentado; método de demanda mitigado por D3 y supuestos visibles | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md), [Arquitectura](../03-arquitectura/arquitectura-inicial.md) | Definir rúbrica (OE3) y probar en A4 | Lun 19 oct |
+| 48 | **Falta confirmar**: autorización, hosting y cuentas | [Preparación](../09-preparacion.md) | Enviar solicitud y registrar respuesta | Vie 16 oct / 20 oct |
+| 49 | Documentado | [Preparación](../09-preparacion.md), [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md) | Ratificar primer trabajo por integrante | Vie 16 oct |
+| 50 | Documentado | [README](../../README.md) | Revisar con alguien ajeno al equipo | Jue 22 oct |
+| 51 | Documentado | [Prueba de fracaso](prueba-de-fracaso.md) | Ratificar escenarios | Vie 16 oct |
+| 52 | Documentado; controles sin comprobar | [Prueba de fracaso](prueba-de-fracaso.md), [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md) | Verificar cada control con evidencia | Jue 22 oct |
 
 ## Datos reales que aún no constan
-
-- Referencias completas y verificables de las cifras mencionadas anteriormente.
+- Verificación de las referencias del informe (enlaces y cifras).
 - Cotizaciones de al menos dos proveedores locales.
-- Entrevistas o encuesta y resultados agregados de ocho o más emprendedores.
-- Costo y latencia medidos de la prueba del LLM.
-- Siete casos adicionales de referencia de cálculos.
-- Horas semanales, fechas confirmadas y día/hora de reunión.
-- Proveedor de hosting y respuesta/autorización del docente.
-- Confirmación de la materia del proyecto.
+- Entrevistas a 8 o más emprendedores y su resumen agregado.
+- Costo y latencia medidos de la prueba del LLM (A4).
+- Tres casos de negocios reales para comparar con las fórmulas.
+- Acta de ratificación completada y confirmada por los tres integrantes.
+- Respuesta escrita del docente (autorización y materia).
+- Capturas de Trello y de la protección de `main`.
+- Proveedor de hosting elegido.
 
-No afirmar que el proyecto cumple los criterios que dependen de esta evidencia
-hasta que se incorpore y revise. La aprobación final corresponde al docente.
+## Resumen de acciones por fecha
+| Fecha | Acción |
+|---|---|
+| Vie 16 oct | Reunión, acta y envío de la solicitud al docente |
+| 16 al 19 oct | Referencias y cotizaciones |
+| 17 al 20 oct | Entrevistas |
+| Lun 19 oct | Prueba de viabilidad (con autorización) y criterios de aceptación |
+| Mar 20 oct | Capturas de Trello y GitHub; cargar entrevistas |
+| Mié 21 oct | 10 casos revisados y 3 negocios reales |
+| Jue 22 oct | Actualizar esta auditoría solo con evidencia real |
+| Vie 23 oct | Ensayo |
+| Sáb 24 oct | Presentación |

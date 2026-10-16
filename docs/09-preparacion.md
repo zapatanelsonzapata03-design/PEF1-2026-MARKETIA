@@ -1,36 +1,41 @@
 # Preparación para desarrollar
 
-Estado consolidado según lo que actualmente consta en el repositorio. “No
-registrado” no significa necesariamente que el recurso no exista; significa que
-no hay evidencia disponible aquí.
+Estado según lo que consta en el repositorio. "No registrado" significa que no
+hay evidencia aquí, no necesariamente que el recurso no exista.
 
-| Requisito o decisión | Estado en el repositorio | Paso necesario |
+## 1. Estado de los requisitos
+
+| Requisito o decisión | Estado en el repositorio | Paso necesario | Fecha propuesta |
+|---|---|---|---|
+| Ratificación de D1 a D15 | Propuestas listas; acta sin completar | Reunión y [acta 01](actas/acta-01-ratificacion.md) | Vie 16 oct |
+| Autorización para la prueba de viabilidad técnica | No registrada | Enviar [solicitud](07-evidencias/solicitud-autorizacion-docente.md); guardar respuesta | Enviar 16 oct; respuesta antes del 20 oct |
+| Autorización para iniciar el desarrollo | No registrada | Misma solicitud; `src/` sin código hasta tener respuesta | Respuesta antes del 24 oct |
+| Usuario y problema validados | Protocolo listo; sin entrevistas | Aplicar entrevistas ([protocolo](07-evidencias/protocolo-entrevistas.md)) | 17 al 20 oct |
+| Referencias verificadas | Transcritas del informe; sin verificar | Verificar enlaces y cifras ([referencias](01-proyecto/referencias.md)) | Lun 19 oct |
+| Cotizaciones locales | No registradas | [Guion](07-evidencias/guion-cotizaciones.md) | 16 al 19 oct |
+| Datos y permisos para la prueba de LLM | No registrados | Usar solo casos de ejemplo; consentimiento si hay personas | Antes de A4 |
+| Proveedor y hosting | No registrados | Elegir y documentar tras A4 | Antes del 6 nov |
+| Base de datos y política de retención | No registradas | Confirmar recurso y aprobar D6 | Antes de B6 |
+| Diez casos de referencia | **Diez casos sintéticos documentados**; faltan 3 negocios reales | Revisión independiente y 3 casos reales | Mié 21 oct |
+| Horas semanales y reuniones | **Propuestas** (21 h en fase A; 8 h semanales después; lun, mié y vie 20:00) | Confirmar en el acta | Vie 16 oct |
+| Herramienta de tareas | Trello (según el informe); sin evidencia | Captura del tablero en `07-evidencias/` | Mar 20 oct |
+| Protección de `main` y pull requests | No comprobada | Configurar en GitHub y guardar captura | Mar 20 oct |
+| Materia del proyecto | README e informe: Probabilidad y Estadística; cuestionario: Programación II - P2 | Confirmar con el docente (D15) | Respuesta antes del 20 oct |
+
+## 2. Qué construye cada uno primero
+Hasta tener la autorización docente, el trabajo se limita a documentación y
+planificación; no se inicia desarrollo en `src/`.
+
+| Integrante | Ahora (fase A) | Primero al autorizarse el desarrollo (26 oct) |
 |---|---|---|
-| Ratificación de D1–D9 por el equipo | No registrada | Revisar `docs/decisiones.md` en reunión y guardar acta. |
-| Autorización para la prueba de viabilidad técnica | No registrada | Solicitarla al docente y documentar su respuesta. |
-| Autorización para iniciar el desarrollo | No registrada | Solicitarla por separado y respetar la restricción de no añadir código a `src/` antes de recibirla. |
-| Usuario y problema validados | No registrado | Completar entrevistas/encuesta y referencias en los documentos indicados. |
-| Datos y permisos para la prueba de LLM | No registrados | Acordar datos no sensibles y autorización; revisar términos sin incluir credenciales en el repositorio. |
-| Proveedor y disponibilidad de hosting | No registrados | Elegir y documentar proveedor después de confirmar requisitos y costo. |
-| Base de datos disponible y política de retención | No registradas | Confirmar recurso y aprobar política antes de persistir datos reales. |
-| Diez casos de referencia de cálculos | Tres casos ilustrativos documentados | Completar siete y validar todos antes de implementar. |
-| Horas semanales y día/hora de reunión del equipo | No registrados | Confirmar disponibilidad y registrar el acuerdo. |
-| Materia del proyecto | README indica Probabilidad y Estadística; el cuestionario adjunto está titulado Programación II - P2 | Confirmar con el docente cuál debe figurar en los documentos. |
+| Alex | Acta, solicitud al docente, referencias, cotizaciones, informe y diapositivas | Informe final, coordinación y evidencias |
+| Nelson | Prueba de viabilidad (con autorización), validación de los casos de fórmulas | B1 esqueleto y contrato de API; B2 motor de cálculos |
+| Cristián | Entrevistas, criterios de aceptación, plan de pruebas | B4 formulario con validación |
 
-No colocar claves, contraseñas, tokens ni valores de archivos de entorno en este
-documento. La existencia de acceso a un servicio debe confirmarse sin publicar
-su secreto.
+## 3. Nuevo integrante: qué leer
+README → `docs/decisiones.md` → `docs/02-requisitos/` → `docs/04-planificacion/`
+→ `equipo/roles-y-acuerdos.md`. El informe final está en
+`docs/01-proyecto/MarketIA_informe_final.pdf`.
 
-## Primer trabajo propuesto por integrante
-
-Estas asignaciones proceden del paquete de mejoras y requieren ratificación:
-
-- **Alex Vásquez Pérez:** coordinar las decisiones, referencias, cronograma,
-  actas e informe.
-- **Nelson Zapata Jiménez:** preparar las fórmulas y casos de referencia y,
-  solo tras autorización, realizar la prueba de viabilidad técnica.
-- **Cristián García Bustamante:** preparar el protocolo de entrevistas/pruebas
-  y los criterios de usabilidad.
-
-Hasta que se confirme la autorización docente, el primer trabajo se limita a
-documentación y planificación; no se inicia desarrollo en `src/`.
+No colocar claves, contraseñas, tokens ni archivos de entorno en este
+repositorio.

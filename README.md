@@ -1,109 +1,92 @@
 # PEF1-2026-MarketIA
 
-MarketIA propone orientar a emprendedores de Cochabamba al planificar un
-negocio, mediante un informe con cálculos de costos y punto de equilibrio,
-FODA y una estimación de demanda.
+MarketIA orienta a emprendedores de Cochabamba al planificar un negocio
+mediante un informe con cálculos de costos y punto de equilibrio, FODA y una
+estimación de demanda, en español y en bolivianos.
 
-## Problema planteado
+**Informe final:** [`docs/01-proyecto/MarketIA_informe_final.pdf`](docs/01-proyecto/MarketIA_informe_final.pdf)
 
-El proyecto plantea que los emprendedores pueden carecer de orientación
-accesible y oportuna para evaluar su idea. El README anterior incluía cifras
-de fracaso e informalidad y afirmaciones de costos sin referencias completas
-en el repositorio. No se presentan como hechos verificados hasta completar
-`docs/01-proyecto/referencias.md` y reunir evidencia local.
+## Problema en 30 segundos
+Mucha gente en Cochabamba abre un negocio sin saber si le va a dar ganancia.
+Un estudio de viabilidad profesional puede ser caro y demorar días, así que la
+persona decide sin un análisis claro. MarketIA ayuda a estimar cuánto necesita
+vender para cubrir sus costos y qué riesgos debería revisar.
+
+Las cifras de fracaso e informalidad del informe provienen de Los Tiempos
+(2026) y López Castro et al. (2026); están transcritas en
+[`referencias.md`](docs/01-proyecto/referencias.md) y **falta verificarlas**.
+No se presentan como hechos comprobados hasta entonces.
 
 ## Objetivo general
-
 Generar para un negocio en Cochabamba un informe de viabilidad con FODA,
 demanda, costos y punto de equilibrio en menos de cinco minutos y a un costo
-accesible para un microemprendedor. Los indicadores para comprobarlo están en
-[`docs/02-requisitos/objetivos.md`](docs/02-requisitos/objetivos.md); son
-propuestas pendientes de ratificación y medición.
+accesible. Indicadores en [`objetivos.md`](docs/02-requisitos/objetivos.md).
 
-## Usuario prioritario y MVP propuestos
+## Usuario y MVP
+**Usuario prioritario:** emprendedor o microempresario de Cochabamba que planifica
+un negocio de comercio o servicios simples.
 
-**Usuario:** emprendedor o microempresario de Cochabamba que está planificando
-un negocio de comercio o servicios simples. Debe ratificarse y validarse con
-usuarios.
+**MVP v1.0:** formulario → cálculos fijos (costos y punto de equilibrio) → FODA y
+estimación de demanda con IA, etiquetados y con supuestos visibles → informe en
+pantalla. La persona ingresa los competidores y precios que conoce.
 
-**MVP v1.0 propuesto:** formulario → cálculos fijos → FODA y estimación de
-demanda con IA, etiquetados y con supuestos visibles → informe en pantalla.
-En el MVP, la persona ingresaría los competidores y precios que conoce; no se
-haría búsqueda automática. La exportación PDF propia y la investigación
-automática de mercado se postergan. Revisar y ratificar el alcance en
-[`docs/02-requisitos/alcance-mvp-y-requisitos.md`](docs/02-requisitos/alcance-mvp-y-requisitos.md)
-y las decisiones en [`docs/decisiones.md`](docs/decisiones.md).
+**No incluye el MVP:** cuentas e inicio de sesión, pagos, aplicación móvil
+nativa, cobertura fuera de Cochabamba, búsqueda automática de competencia,
+versión para asesores, historial, panel administrativo, otros idiomas y
+exportación PDF propia. Los planes de pago del informe son proyección 2027.
+Detalle en [`alcance-mvp-y-requisitos.md`](docs/02-requisitos/alcance-mvp-y-requisitos.md).
 
-## Qué no incluye el MVP propuesto
+## Tecnologías candidatas
+Python + FastAPI, React, PostgreSQL y un LLM vía OmniRoute (piloto), sujetos a
+una prueba de viabilidad. Ver [`arquitectura-inicial.md`](docs/03-arquitectura/arquitectura-inicial.md).
 
-Cuentas e inicio de sesión, pagos, aplicación móvil nativa, cobertura fuera de
-Cochabamba, búsqueda automática de competencia/precios, versión para asesores,
-historial, panel administrativo, idiomas distintos del español ni exportación
-PDF propia. Son propuestas del paquete de mejoras y requieren ratificación del
-equipo.
-
-## Tecnologías y equipo
-
-Tecnologías candidatas del README original: Python + FastAPI, React,
-PostgreSQL y un LLM vía OmniRoute como piloto. Su uso depende de las decisiones
-y pruebas de viabilidad documentadas en
-[`docs/03-arquitectura/arquitectura-inicial.md`](docs/03-arquitectura/arquitectura-inicial.md).
-
+## Equipo
 | Integrante | Rol |
 |---|---|
 | Alex Vásquez Pérez | Coordinador del proyecto |
 | Nelson Zapata Jiménez | Líder del motor y la IA |
 | Cristián García Bustamante | Líder de la pantalla y la calidad |
 
+Horas, reuniones y flujo de trabajo: [`equipo/roles-y-acuerdos.md`](equipo/roles-y-acuerdos.md).
+Tareas en Trello (enlace del tablero: **agregar aquí**); código y revisiones en GitHub.
+
+## Hitos
+| Fecha | Avance |
+|---|---|
+| Sábado 24 de octubre de 2026 | 40 %: presentación en clase |
+| Martes 24 de noviembre de 2026 | 80 %: sistema integrado |
+| Sábado 19 de diciembre de 2026 | 100 %: lanzamiento del proyecto finalizado |
+
 ## Cómo empezar: lectura recomendada
+1. [`docs/01-proyecto/`](docs/01-proyecto/resumen-del-problema.md): problema, evidencia y [referencias](docs/01-proyecto/referencias.md).
+2. [`docs/decisiones.md`](docs/decisiones.md): decisiones D1 a D15 y estado de ratificación.
+3. [`docs/02-requisitos/`](docs/02-requisitos/alcance-mvp-y-requisitos.md): alcance, MVP, requisitos y [objetivos](docs/02-requisitos/objetivos.md).
+4. [`docs/03-arquitectura/`](docs/03-arquitectura/arquitectura-inicial.md): diseño, datos, seguridad y [pruebas](docs/03-arquitectura/datos-seguridad-pruebas.md).
+5. [`docs/04-planificacion/`](docs/04-planificacion/plan-desarrollo-y-riesgos.md): Gantt, sprints, horas y riesgos.
+6. [`docs/05-estadistica/`](docs/05-estadistica/plan-validacion.md): validación y [resultados](docs/05-estadistica/resultados.md).
+7. [`docs/07-evidencias/`](docs/07-evidencias/README.md): entrevistas, cotizaciones y evidencias.
+8. [`docs/06-auditoria/`](docs/06-auditoria/cuestionario-aprobacion.md): estado de las 52 preguntas y [prueba de fracaso](docs/06-auditoria/prueba-de-fracaso.md).
+9. [`docs/09-preparacion.md`](docs/09-preparacion.md) y [`docs/08-presentacion/`](docs/08-presentacion/README.md).
 
-1. [`docs/01-proyecto/resumen-del-problema.md`](docs/01-proyecto/resumen-del-problema.md):
-   problema y evidencia por reunir.
-2. [`docs/decisiones.md`](docs/decisiones.md): propuestas de decisión y estado
-   de ratificación.
-3. [`docs/02-requisitos/alcance-mvp-y-requisitos.md`](docs/02-requisitos/alcance-mvp-y-requisitos.md)
-   y [`docs/02-requisitos/objetivos.md`](docs/02-requisitos/objetivos.md):
-   funcionalidades, criterios y metas.
-4. [`docs/03-arquitectura/arquitectura-inicial.md`](docs/03-arquitectura/arquitectura-inicial.md)
-   y [`docs/03-arquitectura/datos-seguridad-pruebas.md`](docs/03-arquitectura/datos-seguridad-pruebas.md):
-   diseño, datos, seguridad y pruebas propuestas.
-5. [`docs/04-planificacion/plan-desarrollo-y-riesgos.md`](docs/04-planificacion/plan-desarrollo-y-riesgos.md)
-   y [`docs/09-preparacion.md`](docs/09-preparacion.md): tareas, riesgos y
-   requisitos previos.
-6. [`docs/06-auditoria/cuestionario-aprobacion.md`](docs/06-auditoria/cuestionario-aprobacion.md):
-   estado documental de las 52 preguntas.
-7. [`docs/01-proyecto/referencias.md`](docs/01-proyecto/referencias.md),
-   [`docs/05-estadistica/plan-validacion.md`](docs/05-estadistica/plan-validacion.md)
-   y [`docs/07-evidencias/README.md`](docs/07-evidencias/README.md): fuentes,
-   validación y evidencias por reunir.
-8. [`docs/06-auditoria/prueba-de-fracaso.md`](docs/06-auditoria/prueba-de-fracaso.md)
-   y [`docs/08-presentacion/README.md`](docs/08-presentacion/README.md):
-   riesgos de fracaso y preparación de la exposición.
+## Qué construir primero
+Hasta que el docente autorice el desarrollo no se escribe código en `src/`.
+Autorizado (previsto el 26 de octubre): Nelson, esqueleto de la API y motor de
+cálculos; Cristián, formulario; Alex, coordinación, informe y evidencias.
 
+## Archivos para asistentes de IA
 `.clinerules` y `.github/copilot-instructions.md` son instrucciones para
-asistentes de IA que trabajen con el repositorio; indican cómo respetar las
-restricciones del proyecto. Las decisiones ratificadas deben registrarse en
-`docs/decisiones.md`; una propuesta no ratificada no es un acuerdo.
+asistentes de IA que trabajen con el repositorio. Las decisiones ratificadas se
+registran en `docs/decisiones.md`; una propuesta no ratificada no es un acuerdo.
 
-## Estado y próximos pasos
-
-El README original registra como hito la presentación del 24 de octubre de
-2026. El Gantt de la fase A del
-[plan de desarrollo](docs/04-planificacion/plan-desarrollo-y-riesgos.md)
-propone fechas entre el 15 y el 24 de octubre; el equipo debe confirmarlas,
-actualizarlas si ya no son viables y asignar disponibilidad real. No hay
-autorización docente, resultados de entrevistas, cotizaciones ni pruebas
-técnicas registrados en el repositorio.
-
-Antes de desarrollar: ratificar las decisiones, validar referencias y
-necesidades, completar los datos reales pendientes en
-[`docs/09-preparacion.md`](docs/09-preparacion.md), y solicitar autorización
-docente. **`src/` debe permanecer sin código hasta que el docente autorice el
-desarrollo.**
+## Estado actual
+Toda la documentación está redactada. **Pendiente de acciones humanas:**
+completar el [acta 01](docs/actas/acta-01-ratificacion.md), recibir la
+respuesta del docente, aplicar las entrevistas, obtener cotizaciones, verificar
+referencias y ejecutar la prueba de viabilidad. Hasta entonces no se afirma
+que el problema, los precios o el rendimiento estén validados.
 
 ## Materia
-
-El README original registra Probabilidad y Estadística · UNIFRANZ · docente
-Diego Patrick Cárdenas · paralelo 3. El cuestionario adjunto está titulado
-“Programación II - P2”. Esta diferencia requiere confirmación del docente; no
-se unifica hasta que exista una respuesta registrada.
+El informe y el README indican Probabilidad y Estadística · UNIFRANZ · docente
+Diego Patrick Cárdenas · paralelo 3. El cuestionario de aprobación está
+titulado "Programación II - P2". Se pidió confirmación al docente (decisión
+D15); hasta recibir respuesta se mantienen ambos nombres.

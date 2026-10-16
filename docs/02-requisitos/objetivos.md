@@ -37,3 +37,22 @@ proporción observada e intervalo de confianza del 95 %. Con muestras pequeñas,
 se debe especificar un método apropiado y describir la incertidumbre; un
 resultado de prueba no demuestra por sí solo que el comportamiento se
 generalice a toda la población.
+
+## Correspondencia con las metas del informe final
+
+El [informe final](../01-proyecto/MarketIA_informe_final.pdf) define seis metas con
+fecha. Esta tabla las vincula con los objetivos de arriba y precisa lo que el
+informe deja ambiguo. Las precisiones son **propuestas para ratificar** (D12).
+
+| Meta del informe | Fecha | Objetivo relacionado | Precisión propuesta |
+|---|---|---|---|
+| 1. Reunir datos de competencia, precios y tendencias; reducir ≥ 70 % el tiempo de investigación | 13 nov | Nuevo OE6 | Medir contra una **línea base** cronometrada a mano en 3 casos (ver plan de validación). En el MVP los datos de competidores los ingresa la persona o los reúne el equipo en visitas de campo (D3). |
+| 2. La IA escribe el informe en máximo 5 minutos | 20 nov | OE1 | Condición de OE1: 18 de 20 ejecuciones en ≤ 5 min. |
+| 3. Al menos 30 personas lo usan sin ayuda | 8 dic | OE4 (ampliado) | Prueba piloto con 30. Éxito propuesto: al menos 24 de 30 (80 %) completan el flujo sin ayuda; reportar IC del 95 %. |
+| 4. Costos, ingresos y punto de equilibrio comparados con 3 negocios reales | 12 dic | OE2 | Los 10 casos sintéticos verifican las fórmulas; los 3 negocios reales verifican el uso. Tolerancia propuesta: diferencia relativa ≤ 10 % entre el punto de equilibrio calculado y el registrado por el dueño. |
+| 5. Al menos 80 % califica el informe como útil | 12 dic | OE3 y OE4 | Contraste H₀: p ≤ 0,80 con la tabla de decisión: con n = 30 se necesitan ≥ 28 respuestas favorables. |
+| 6. El proyecto se sostiene solo | 2027 | Fuera del alcance académico | Se aborda como proyección: 142 a 306 suscriptores en el escenario comercial (sección 7 del informe). La disposición de pago se explora en las entrevistas. |
+
+**Nuevo OE6:** reducir al menos 70 % el tiempo para obtener el análisis completo
+frente a hacerlo a mano. Indicador: tiempo promedio con MarketIA frente a la
+línea base. Evidencia: registro de tiempos en `docs/05-estadistica/resultados.md`.

@@ -11,3 +11,5 @@ Reglas para este proyecto (MarketIA, Probabilidad y Estadística, UNIFRANZ):
 6. No hagas commit ni push. Yo los hago.
 7. Usa docs/decisiones.md como fuente de decisiones ratificadas; las propuestas
    pendientes de aprobación no son acuerdos.
+8. No inventes entrevistas, cotizaciones, actas, autorizaciones ni resultados
+   de pruebas. Solo prepara plantillas; los datos reales los aportan las personas.

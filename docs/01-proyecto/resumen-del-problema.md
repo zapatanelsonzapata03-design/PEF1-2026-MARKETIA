@@ -1,6 +1,6 @@
 # Resumen del problema y valor
 
-> Síntesis elaborada a partir del README y del paquete de mejoras. La
+> Síntesis elaborada a partir del README, del informe final y del paquete de mejoras. La
 > explicación breve, las consecuencias y la propuesta de valor deben
 > contrastarse con evidencia y entrevistas antes de presentarlas como hechos
 > demostrados.
@@ -59,8 +59,8 @@ alternativas han sido descartadas por los usuarios.
 El README original atribuye cifras sobre fracaso de emprendimientos e
 informalidad a Los Tiempos (2026) y López Castro et al. (2026), y afirma que
 los estudios profesionales cuestan cientos de dólares y demoran días. Las
-referencias completas, cotizaciones y evidencia local todavía no constan en el
-repositorio. Ver `docs/01-proyecto/referencias.md`.
+referencias del informe ya están transcritas en `referencias.md` y falta
+verificarlas; las cotizaciones y la evidencia local todavía no constan.
 
 Plan de evidencia propuesto:
 
@@ -77,6 +77,24 @@ Plan de evidencia propuesto:
 No se inventan fuentes, precios, tiempos ni respuestas. Hasta recopilar esa
 evidencia, no se puede afirmar que el problema o la accesibilidad del precio
 estén validados.
+
+## Alternativas que tiene hoy un emprendedor (según el informe final)
+
+| | Estudio profesional | IA del extranjero | MarketIA (propuesta) |
+|---|---|---|---|
+| Costo | Varios cientos de dólares (sin cotización propia aún) | Suscripción en dólares | Bs 0 a Bs 80 al mes (proyección 2027) |
+| Tiempo | Días o semanas | Minutos | Menos de 5 minutos (meta) |
+| Idioma y contexto | Local | Inglés y otros países | Español y datos de Bolivia |
+| Facilidad para un microemprendedor | Baja | Media-baja | Alta (meta; no probada) |
+
+Esta comparación proviene del informe y **no está respaldada todavía** con
+cotizaciones ni capturas de herramientas reales; ver
+[`referencias.md`](referencias.md). Quien lea el repositorio debe tomarla como
+una hipótesis del equipo, no como resultado.
+
+## Fuentes citadas en el informe
+Las referencias del informe están transcritas en
+[`referencias.md`](referencias.md), con el estado de verificación de cada una.
 
 ## Valor esperado e indicadores
 

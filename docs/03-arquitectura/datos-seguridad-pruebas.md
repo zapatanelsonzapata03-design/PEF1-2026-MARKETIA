@@ -48,26 +48,37 @@ unidades y el periodo de los costos. Si `P ≤ CVu`, el margen no es positivo y
 no se calcula el punto de equilibrio; el mensaje propuesto es: “Inviable con
 estos datos: el margen es cero o negativo”.
 
-### Casos ilustrativos, no validados con negocios reales
+### Diez casos de referencia (sintéticos)
 
-Los dos primeros casos son ejemplos aritméticos del paquete de mejoras; no son
-datos observados de negocios. El tercero comprueba el margen cero.
+Los casos siguientes son **aritméticos y sintéticos**: sirven para probar las
+fórmulas y los límites. **No son datos de negocios reales.** Se calcularon con
+aritmética decimal exacta (`PEu` redondeado hacia arriba, `PEb = PEu × P`).
+Hay que revisarlos de forma independiente (tarea A5: Cristián revisa los
+cálculos de Nelson) y completar **3 casos con negocios reales de Cochabamba**,
+con autorización y datos anonimizados, para la comparación de la Meta 4 del
+informe.
 
-| Caso | P (Bs/unidad) | CVu (Bs/unidad) | CF (Bs/periodo) | Resultado esperado |
-|---|---:|---:|---:|---|
-| 1 | 20 | 12 | 2000 | MC = 8; PEu = 250; PEb = 5000 Bs. |
-| 2 | 35 | 20 | 3500 | MC = 15; CF/MC = 233,33…; PEu = 234; PEb = 8190 Bs. |
-| 3 | 10 | 10 | 1000 | MC = 0; error controlado, no calcular PE. |
+| Caso | P (Bs/u) | CVu (Bs/u) | CF (Bs/periodo) | Resultado esperado | Qué prueba |
+|---|---:|---:|---:|---|---|
+| 1 | 20 | 12 | 2000 | MC = 8; PEu = 250; PEb = 5000 | División exacta |
+| 2 | 35 | 20 | 3500 | MC = 15; CF/MC = 233,33; PEu = 234; PEb = 8190 | Redondeo hacia arriba |
+| 3 | 10 | 10 | 1000 | MC = 0; error "Inviable con estos datos" | Margen cero |
+| 4 | 12 | 5 | 1800 | MC = 7; CF/MC = 257,14; PEu = 258; PEb = 3096 | Redondeo hacia arriba |
+| 5 | 8 | 3,5 | 900 | MC = 4,5; PEu = 200; PEb = 1600 | Decimales con división exacta |
+| 6 | 50 | 32,5 | 4200 | MC = 17,5; PEu = 240; PEb = 12000 | Decimales con división exacta |
+| 7 | 15 | 18 | 1000 | MC = −3; error "Inviable con estos datos" | Margen negativo |
+| 8 | 25 | 10 | 0 | MC = 15; PEu = 0; PEb = 0 | Costo fijo cero |
+| 9 | 7,5 | 4,2 | 1325 | MC = 3,3; CF/MC = 401,52; PEu = 402; PEb = 3015 | Decimales con redondeo |
+| 10 | 100 | 60 | 12000 | MC = 40; PEu = 300; PEb = 30000 | Valores grandes |
 
-Faltan siete casos para completar la propuesta de diez. Deben ser revisados y
-aprobados; si se presentan como datos reales, necesitan una fuente o
-autorización y anonimización. También faltan casos para valores negativos,
-cero, decimales y entradas inválidas.
+Casos de entrada inválida que también deben probarse (el sistema responde con
+un mensaje de error y no calcula): precio, costo variable o costo fijo
+negativos; campos vacíos; texto en lugar de número.
 
 ## Estrategia de pruebas propuesta
 
-1. **Unitarias:** probar las fórmulas con diez casos aprobados, valores límite,
-   cero, negativos y decimales.
+1. **Unitarias:** probar las fórmulas con los diez casos de referencia, los
+   límites y las entradas inválidas.
 2. **Contrato del LLM:** validar la salida contra un esquema definido; simular
    respuestas mal formadas, errores y reintentos.
 3. **Integración:** verificar el flujo formulario → API → informe y los estados

@@ -1,57 +1,90 @@
 # Roles y acuerdos de trabajo
 
-> Las responsabilidades se basan en la información del equipo que ya consta
-> en el repositorio; los entregables y acuerdos operativos siguientes son
-> propuestas del paquete de mejoras y requieren ratificación en una reunión.
+> Los roles provienen del README y del informe final. El reparto de tareas, las
+> horas y las reuniones son **propuestas listas para ratificar** en el
+> [acta 01](../docs/actas/acta-01-ratificacion.md). Se vuelven acuerdos cuando
+> el acta se completa y se guarda su evidencia.
 
-## Responsabilidades y entregables propuestos
+## 1. Roles y entregables verificables
 
-| Integrante | Rol | Entregables verificables propuestos | Respaldo propuesto |
+| Integrante | Rol | Entregables verificables | Respaldo |
 |---|---|---|---|
-| Alex Vásquez Pérez | Coordinador del proyecto | Registro de decisiones, calendario y actas; referencias y evidencias; informe final y diapositivas. | Cristián García Bustamante en documentación. |
-| Nelson Zapata Jiménez | Líder del motor y la IA | Tras autorización docente: contrato y endpoint `/analisis`, motor de cálculos con casos de referencia, integración con LLM y prueba de viabilidad documentada. | Cristián García Bustamante en API y documentación de pruebas. |
-| Cristián García Bustamante | Líder de la pantalla y la calidad | Tras autorización docente: formulario, pantalla de informe, protocolo y resultados de pruebas de usabilidad, manual de usuario. | Nelson Zapata Jiménez en interfaz y pruebas cruzadas. |
+| Alex Vásquez Pérez | Coordinador del proyecto | Decisiones y actas, calendario, referencias y evidencias, costos del proyecto, informe final, diapositivas | Cristián (documentación) |
+| Nelson Zapata Jiménez | Líder del motor y la IA | Diseño del sistema y configuración de OmniRoute, prueba de viabilidad, endpoint `/analisis`, motor de cálculos con 10 casos aprobados, integración con el LLM, pruebas técnicas y de fórmulas | Cristián (API y pruebas) |
+| Cristián García Bustamante | Líder de la pantalla y la calidad | Prototipo de pantallas, formulario, pantalla de informe, persistencia mínima, pruebas de recorrido y de usabilidad, guías de usuario | Nelson (interfaz y pruebas cruzadas) |
 
-Nelson concentra varias tareas técnicas en la propuesta; la revisión cruzada y
-la documentación buscan reducir el riesgo de dependencia de una sola persona.
-Los entregables y respaldos no se consideran acuerdos hasta su ratificación.
+### Ajuste necesario en el informe (decisión D11)
+El informe asigna algunas tareas en sentido contrario a los roles. Para que
+repositorio e informe digan lo mismo, se propone corregir el informe:
 
-## Flujo de trabajo Git propuesto
+| Dónde en el informe | Dice | Debe decir |
+|---|---|---|
+| Etapa 1, tarea 2 (diseño del sistema y OmniRoute) | Cristián | Nelson |
+| Etapa 1, tarea 3 (prototipo de pantallas) | Nelson | Cristián |
+| Etapa 1, tarea 4 (prueba FODA e informe con IA) | Cristián | Nelson |
+| Etapas 2 y 3, tareas 11, 12 y 13 (módulos de datos, IA y costos) | Cristián (y Alex en la 13) | Nelson (Alex apoya en la 13 con las fórmulas) |
+| Etapas 2 y 3, tarea 14 (pantalla web) | Nelson | Cristián |
+| Tabla de pruebas: "De fórmulas" | Cristián | Nelson, con revisión de Cristián |
+| Tabla de pruebas: "De facilidad de uso" | Nelson | Cristián |
 
-1. No subir cambios directamente a `main`; solicitar al equipo que configure
-   protección de rama si está disponible.
-2. Crear ramas por tarea, por ejemplo `feat/<área>-<descripción>` y
-   `docs/<descripción>`.
-3. Integrar cambios mediante pull request y obtener la aprobación de otro
-   integrante.
-4. Considerar terminada una tarea cuando cumple su criterio de aceptación,
-   tiene las pruebas necesarias y la documentación actualizada.
-5. Registrar cada tarea con responsable, estimación y etiqueta; usar un tablero
-   solo después de que el equipo confirme la herramienta y su configuración.
-6. Acordar una reunión semanal de 30 minutos; el día, hora y canal están
-   pendientes.
-7. Registrar decisiones ratificadas en `docs/decisiones.md` y distinguirlas de
-   propuestas no aprobadas.
+## 2. Horas semanales (propuesta)
 
-Estos pasos son propuestas, no configuración efectiva de GitHub ni acuerdos
-ratificados. No se han creado issues, tablero ni protecciones de rama.
+| Periodo | Compromiso por persona | Qué incluye |
+|---|---|---|
+| Fase A: 15 al 24 de octubre | **21 horas** en total (≈ 16 h por semana, intensivo) | Tareas de la fase A (15 a 18 h según la persona) y 4 reuniones |
+| Fase B: 26 de octubre al 19 de diciembre | **8 horas por semana** | 2,25 h de reuniones y 5,75 h de trabajo individual |
 
-## Revisión e integración
+Cálculo de capacidad en la fase B (8 semanas): 3 personas × 8 h × 8 semanas =
+192 h; reuniones: 54 h; **trabajo disponible: 138 h**. Trabajo estimado: 112 h.
+Margen: 26 h (≈ 23 %), que se reserva para correcciones. Si alguien no puede
+cumplir estas horas, se aplica el recorte del 40 % del
+[documento de requisitos](../docs/02-requisitos/alcance-mvp-y-requisitos.md).
 
-Se propone que una persona distinta a quien hizo el cambio revise cada pull
-request y compruebe los criterios de aceptación. Para las tareas de motor,
-interfaz y documentación, al menos dos integrantes deberían conocer las
-decisiones, contratos y pruebas necesarios para continuar el trabajo. El equipo
-debe confirmar un mecanismo viable y su frecuencia.
+Estas cifras son un compromiso propuesto, no un dato de disponibilidad real.
+Cada integrante debe confirmarlas o corregirlas en el acta.
 
-## Continuidad si alguien no está disponible
+## 3. Reuniones (propuesta)
 
-- Mantener fórmulas, contrato de API, decisiones y casos de prueba
-  documentados.
-- Usar los respaldos propuestos en la tabla, sujeto a ratificación.
-- Realizar revisiones cruzadas para compartir contexto.
-- Si Nelson no está disponible, evaluar que Cristián continúe sobre el
-  contrato aprobado y las pruebas existentes; reducir alcance solo con acuerdo
-  del equipo.
+| Reunión | Cuándo | Duración | Medio |
+|---|---|---|---|
+| Reunión de seguimiento | Lunes, miércoles y viernes, 20:00 | 45 min | Videollamada |
+| Planificación de sprint | Lunes de la primera semana de cada sprint, 20:00 | 60 min (reemplaza la del lunes) | Videollamada |
+| Cierre y retrospectiva | Viernes de la segunda semana del sprint, 20:00 | 60 min (reemplaza la del viernes) | Videollamada |
+| Ratificación (acta 01) | Viernes 16 de octubre de 2026, 20:00 | 60 min | Videollamada |
 
-No hay todavía un acta que demuestre aprobación de estos acuerdos.
+Calendario de la fase A: viernes 16, lunes 19, miércoles 21 y viernes 23 de
+octubre. Presentación en clase: sábado 24 de octubre. Los sprints de dos
+semanas están en el [plan](../docs/04-planificacion/plan-desarrollo-y-riesgos.md).
+
+Cada reunión termina con una nota de 3 líneas en el grupo: qué se avanzó, qué
+bloquea y qué sigue. Una vez por sprint se guarda un acta breve en `docs/actas/`.
+
+## 4. Herramientas y flujo de trabajo
+
+1. **Trello:** una tarjeta por tarea con responsable, fecha y estado (pendiente,
+   en curso, en revisión, terminada).
+2. **GitHub:** `main` protegida; no se sube directo a ella.
+3. Ramas por tarea: `feat/<área>-<descripción>` y `docs/<descripción>`.
+4. Todo cambio entra por pull request con aprobación de **otra persona**.
+5. Una tarea está terminada cuando cumple su criterio de aceptación, tiene
+   pruebas y la documentación actualizada.
+6. Las decisiones se registran en [`docs/decisiones.md`](../docs/decisiones.md).
+7. Evidencia de que esto se cumple: capturas del tablero y de la configuración de
+   `main` en `docs/07-evidencias/`. Hasta que existan, estos pasos son
+   acuerdos propuestos, no configuración comprobada.
+
+## 5. Revisión e integración
+Una persona distinta a quien hizo el cambio revisa cada pull request y
+comprueba los criterios de aceptación. Al menos dos integrantes conocen las
+decisiones, el contrato de API y las pruebas de cada componente. Cada semana,
+en la reunión del viernes, se revisan los pull requests abiertos.
+
+## 6. Continuidad si alguien no está disponible
+- Fórmulas, contrato de API, decisiones y casos de prueba están documentados.
+- Cada componente tiene un respaldo (tabla 1).
+- Si falta Nelson: Cristián continúa sobre el contrato aprobado y las pruebas
+  existentes, y se aplica el recorte del 40 %.
+- Si falta Cristián: Nelson continúa con una interfaz mínima y Alex asume las
+  pruebas con usuarios.
+- Si falta Alex: Cristián asume actas y evidencias, y Nelson el seguimiento del
+  calendario.

@@ -1,84 +1,87 @@
 # Resumen del problema y valor
 
-> Documento de preparación. Las afirmaciones y propuestas deben verificarse
-> con el equipo y el docente antes de presentarse como resultados comprobados.
+> Síntesis elaborada a partir del README y del paquete de mejoras. La
+> explicación breve, las consecuencias y la propuesta de valor deben
+> contrastarse con evidencia y entrevistas antes de presentarlas como hechos
+> demostrados.
 
-## Problema
+## Explicación en 30 segundos, sin tecnología
 
-El README del proyecto plantea que muchos emprendimientos en Bolivia fracasan,
-que una parte importante de las microempresas opera informalmente y que obtener
-un estudio profesional de viabilidad puede ser costoso y demorado. También
-señala que algunas herramientas extranjeras pueden ser menos accesibles para
-emprendedores locales.
+> Mucha gente en Cochabamba abre un negocio sin saber si le va a dar ganancia.
+> Un estudio de viabilidad profesional puede ser caro y demorar días, así que
+> la persona puede terminar decidiendo sin un análisis claro. MarketIA propone
+> ayudar a estimar cuánto necesita vender para cubrir sus costos y qué riesgos
+> debería revisar.
 
-El README atribuye dos cifras a Los Tiempos (2026) y a López Castro et al.
-(2026), pero esas fuentes completas, sus enlaces y el método de obtención no
-están incorporados al repositorio. Por ello, las cifras aún no constituyen
-evidencia verificable dentro de este proyecto.
+Esta redacción es una propuesta de exposición, no un resultado de investigación.
+El README del proyecto aún debe respaldar con fuentes las afirmaciones sobre
+costo, duración y frecuencia de decisiones sin análisis.
 
-## Explicación breve propuesta
+## Usuarios
 
-> Una persona que quiere emprender en Cochabamba necesita evaluar su idea,
-> pero puede no contar con un análisis de mercado y viabilidad accesible. MarketIA
-> propone reunir información de la idea, analizar el mercado y presentar una
-> orientación sobre demanda, costos y punto de equilibrio en un informe.
+El usuario prioritario propuesto es un emprendedor o microempresario de
+Cochabamba que está planificando abrir un negocio de comercio o servicios
+simples. Asesores e incubadoras y estudiantes quedan como usuarios secundarios
+para una versión posterior. El equipo debe ratificar esta prioridad y validarla
+con participantes.
 
-Esta explicación resume la propuesta actual; el equipo debe confirmar que
-representa fielmente a sus usuarios y que puede respaldar las afirmaciones
-sobre el problema.
+## Consecuencias a validar
 
-## Personas usuarias
+El paquete de mejoras propone investigar si las personas:
 
-El README identifica como usuarios previstos a:
+- Invierten ahorros sin conocer su punto de equilibrio.
+- Fijan precios sin saber su margen.
+- Descubren tarde a la competencia o los costos fijos.
+- Abandonan un negocio o lo operan en la informalidad.
 
-- Emprendedores y microempresarios.
-- Estudiantes.
-- Asesores e incubadoras.
+Estas consecuencias son hipótesis de trabajo. El repositorio no contiene
+entrevistas o encuestas que las confirmen.
 
-No se documentan todavía entrevistas, necesidades priorizadas ni diferencias
-de uso entre estos grupos.
+## Por qué la solución propuesta responde al problema
 
-## Consecuencias y valor esperado
+La necesidad que el equipo quiere atender es tomar decisiones sobre una idea
+de negocio con orientación accesible. El MVP propone combinar:
 
-Según la descripción existente, las consecuencias posibles son dificultad para
-planificar un negocio, tiempo y costo para obtener un estudio profesional, y
-menor acceso a herramientas que no estén adaptadas al contexto local. Estas
-consecuencias requieren fuentes o validación directa con usuarios.
+1. Cálculo determinista del punto de equilibrio, que puede compararse con casos
+   de referencia.
+2. FODA como resumen estructurado de riesgos y oportunidades.
+3. Estimación de demanda con supuestos explícitos, sin presentarla como dato
+   verificado.
+4. Un informe en pantalla con resultados legibles.
 
-El valor que el proyecto se propone entregar es un informe de viabilidad para
-una idea de negocio en Cochabamba, en menos de cinco minutos y a un costo
-accesible. El umbral de tiempo aparece en el objetivo del README; el precio
-objetivo y la forma de medir "accesible" todavía no están definidos.
+El paquete enumera como alternativas a contrastar un estudio profesional,
+plantillas de hoja de cálculo y herramientas extranjeras. No hay una
+comparación documentada ni evidencia suficiente para afirmar que estas
+alternativas han sido descartadas por los usuarios.
 
-## Relación entre problema, solución y resultado
+## Evidencia disponible y faltante
 
-| Elemento | Definición disponible |
-|---|---|
-| Problema | Dificultad para obtener orientación de viabilidad accesible y oportuna para una idea de negocio. |
-| Usuarios | Emprendedores y microempresarios, estudiantes, asesores e incubadoras. |
-| Solución propuesta | Formulario de idea, investigación de mercado, análisis FODA y demanda, cálculos de costos y punto de equilibrio, e informe en pantalla y PDF. |
-| Resultado esperado | Un informe de viabilidad para un negocio en Cochabamba en menos de cinco minutos. |
-| Evidencia por completar | Fuentes completas de las afirmaciones, validación del problema con usuarios y método para medir costo, utilidad y calidad del informe. |
+El README original atribuye cifras sobre fracaso de emprendimientos e
+informalidad a Los Tiempos (2026) y López Castro et al. (2026), y afirma que
+los estudios profesionales cuestan cientos de dólares y demoran días. Las
+referencias completas, cotizaciones y evidencia local todavía no constan en el
+repositorio. Ver `docs/01-proyecto/referencias.md`.
 
-## Indicadores iniciales
+Plan de evidencia propuesto:
 
-- **Tiempo de generación:** el objetivo del README establece menos de cinco
-  minutos. Falta acordar desde qué acción hasta qué resultado se mide y en qué
-  condiciones.
-- **Cobertura del informe:** debe tratar los elementos enumerados en el
-  objetivo: FODA, demanda, costos y punto de equilibrio. Falta acordar cómo se
-  evaluará la exactitud y utilidad de cada elemento.
-- **Accesibilidad del costo:** está enunciada como objetivo, pero no hay precio
-  máximo, comparación ni método de evaluación registrados.
-- **Utilidad para usuarios:** no se documenta una prueba con usuarios ni un
-  umbral de aceptación.
+- Completar y revisar las referencias bibliográficas antes de citar cifras.
+- Comparar al menos dos cotizaciones de estudios locales, guardando evidencia
+  en `docs/07-evidencias/`.
+- Realizar entrevistas o una encuesta a ocho o más emprendedores de
+  Cochabamba, con protocolo aprobado y registro agregado/anónimo. Ver
+  `docs/07-evidencias/registro-entrevistas.md`.
+- Usar las respuestas para evaluar problema, consecuencias, información
+  deseada y disposición de pago; informar método y limitaciones en
+  `docs/05-estadistica/`.
 
-## Evidencia que debe reunirse
+No se inventan fuentes, precios, tiempos ni respuestas. Hasta recopilar esa
+evidencia, no se puede afirmar que el problema o la accesibilidad del precio
+estén validados.
 
-1. Referencias completas y verificables para las afirmaciones ya citadas en el
-   README (autor o institución, título, fecha y enlace o copia autorizada).
-2. Evidencia directa del problema en los grupos de usuarios identificados.
-3. Criterios acordados para evaluar utilidad, calidad del análisis y costo
-   accesible.
+## Valor esperado e indicadores
 
-No se añaden cifras ni fuentes nuevas en este documento.
+El objetivo general del README plantea un informe de viabilidad en menos de
+cinco minutos y a costo accesible. La meta de tiempo se propone medir desde el
+envío hasta que el informe aparezca; el precio accesible debe definirse con
+datos de encuesta y el costo técnico por informe. Ver `docs/02-requisitos/objetivos.md`
+para indicadores propuestos.

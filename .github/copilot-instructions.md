@@ -9,3 +9,5 @@ Reglas para este proyecto (MarketIA, Probabilidad y Estadística, UNIFRANZ):
    (coordinador), Nelson Zapata Jiménez (motor e IA), Cristián García
    Bustamante (pantalla y calidad).
 6. No hagas commit ni push. Yo los hago.
+7. Usa docs/decisiones.md como fuente de decisiones ratificadas; las propuestas
+   pendientes de aprobación no son acuerdos.

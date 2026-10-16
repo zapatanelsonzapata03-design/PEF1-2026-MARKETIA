@@ -1,56 +1,69 @@
-# Plan inicial de validación estadística y funcional
+# Plan de validación estadística y funcional
 
-> Plan por completar antes de recolectar datos. No se registran en el
-> repositorio una muestra, respuestas, observaciones ni hipótesis aprobadas.
+> Plan propuesto; no hay participantes, mediciones ni resultados registrados.
+> Confirmar con el equipo y el docente antes de recopilar datos.
 
-## Propósito
+## Propósitos
 
-Comprobar que el sistema produce el informe dentro del tiempo objetivo y que
-sus funciones principales son correctas y útiles para los grupos de usuarios
-previstos. La calidad de una estimación de demanda requiere además un método y
-una referencia de comparación que todavía no están definidos.
+- Medir tiempo y proporción de ejecuciones que cumplen OE1.
+- Verificar exactitud aritmética frente a casos revisados (OE2).
+- Evaluar utilidad y transparencia del FODA/demanda (OE3).
+- Medir éxito de tareas y satisfacción de usuarios (OE4).
+- Calcular costo por informe y contrastar disposición de pago (OE5).
 
-## Plan de medición propuesto
+Los indicadores y umbrales propuestos están descritos en
+`docs/02-requisitos/objetivos.md`.
 
-| Aspecto | Medición propuesta | Pendiente |
-|---|---|---|
-| Tiempo de generación | Medir desde el envío de la idea hasta que el informe queda disponible; comparar con el umbral de menos de cinco minutos del objetivo. | Definir entorno, número de ejecuciones, tratamiento de errores y estadístico de resumen. |
-| Cálculos financieros | Comparar costos y punto de equilibrio con casos calculados independientemente usando las fórmulas aprobadas. | Acordar fórmulas, casos, unidades, tolerancia y persona que valida. |
-| FODA y demanda | Revisar resultados con criterios de calidad y evidencia del contexto. | Definir rúbrica, fuentes de referencia, evaluadores y tratamiento de incertidumbre. |
-| Mercado | Verificar que los datos de competencia, precios y tendencias sean trazables y vigentes. | Seleccionar fuentes autorizadas, cobertura geográfica y criterios de vigencia. |
-| Usabilidad | Observar tareas con personas del grupo de usuarios prioritario. | Seleccionar usuarios, tareas, instrumento, consentimiento y criterio de éxito. |
+## Muestra y recolección
 
-## Hipótesis inicial para discusión
+| Evaluación | Muestra propuesta | Método y dato que se registraría |
+|---|---:|---|
+| Problema y disposición de pago | Al menos 8 emprendedores de Cochabamba | Entrevista breve o encuesta; preguntas y salvaguardas en `docs/07-evidencias/registro-entrevistas.md`. |
+| Usabilidad | 5 emprendedores | Observar si completan el flujo sin ayuda y registrar satisfacción en escala 1–5. |
+| Rendimiento | 20 ejecuciones | Medir desde “Enviar” hasta informe visible; registrar latencia y resultado por ejecución. |
+| Cálculos | 10 casos de referencia | Comparar resultado del sistema con cálculo independiente y tolerancia de ±0,01 Bs. |
+| Calidad de IA | 10 ideas y 3 evaluadores | Rúbrica 1–5 en coherencia, relevancia local, supuestos visibles y utilidad. |
 
-El README fija como objetivo generar el informe en menos de cinco minutos. Se
-propone evaluar esa meta de forma operativa, midiendo el tiempo de cada
-ejecución desde el envío hasta la disponibilidad del informe. El equipo y el
-docente deben decidir el tamaño y selección de la muestra de ejecuciones, las
-condiciones de prueba, el estadístico que se informará y cómo tratar
-ejecuciones fallidas antes de formular una hipótesis estadística definitiva.
+Los tamaños anteriores son propuestas del paquete; requieren ratificación.
+Definir la selección de participantes, fechas, entorno, quién evalúa y cómo
+tratar datos faltantes antes de empezar. No se deben registrar datos personales
+innecesarios.
 
-No se establece una hipótesis sobre exactitud de demanda porque el repositorio
-no contiene un método de estimación ni datos de referencia.
+## Hipótesis y análisis propuestos
 
-## Muestra y tratamiento de datos
+- **OE1:** proporción de ejecuciones que terminan en ≤ 5 minutos. Umbral
+  propuesto: al menos 18 de 20. Reportar numerador, denominador y proporción.
+- **OE4:** proporción de participantes que completa el flujo sin ayuda.
+  Umbral propuesto: al menos 4 de 5. Reportar también respuestas de
+  satisfacción y limitaciones de la muestra.
+- **OE2:** evaluar cada caso por separado y reportar errores absolutos de las
+  cantidades monetarias; tolerancia propuesta de ±0,01 Bs.
+- **OE3:** calcular resultados de la rúbrica por criterio y evaluador; reportar
+  promedio y variabilidad, además del umbral propuesto de 3,5/5.
+- **OE5:** registrar costo de generación por informe y respuestas agregadas de
+  disposición a pagar; el costo máximo aceptable está pendiente de medición.
 
-La población de usuarios prevista en el README incluye emprendedores y
-microempresarios, estudiantes, y asesores o incubadoras. No se define cuál
-grupo se estudiará primero, el marco de selección, el tamaño de muestra ni el
-método de muestreo. Deben acordarse antes de recoger respuestas.
+Para OE1 y OE4 se propone reportar intervalos de confianza del 95 % para las
+proporciones, junto con tamaño de muestra. Dado el tamaño pequeño, elegir y
+documentar un método adecuado (por ejemplo, intervalo binomial exacto) y
+explicar que estos resultados exploratorios no representan automáticamente a
+toda la población de Cochabamba. El equipo debe confirmar el análisis antes de
+recopilar datos.
 
-No se deben recolectar datos personales sin definir propósito, información a
-recabar, consentimiento, acceso, almacenamiento y eliminación.
+## Reglas de protección de participantes
 
-## Evidencia y reporte
+- Explicar propósito académico y pedir consentimiento antes de participar.
+- No solicitar nombre, correo, teléfono, cédula ni dirección exacta.
+- Permitir no responder; guardar resultados agregados o códigos no
+  identificables.
+- No compartir descripciones de negocio con un proveedor externo hasta aprobar
+  el aviso, el consentimiento y la revisión de privacidad.
+- No incluir datos personales, secretos ni respuestas identificables en
+  registros, capturas o repositorio.
 
-Para cada prueba se propone guardar, sin incluir datos personales innecesarios:
+## Registro de resultados
 
-- Identificador del caso y versión del sistema evaluado.
-- Entradas de prueba no sensibles y fuente de los valores esperados.
-- Fecha y condiciones de ejecución.
-- Resultado observado, comparación y defectos encontrados.
-- Decisión de aceptación, corrección o repetición.
-
-El repositorio todavía no contiene registros de pruebas ni resultados; no se
-presentan resultados ficticios.
+`resultados.md` es una plantilla sin mediciones. Completarla solo con datos
+reales, indicando fecha, versión, método, tamaño de muestra, resultados,
+intervalos cuando correspondan, limitaciones y decisión respecto a cada
+umbral.

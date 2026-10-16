@@ -41,12 +41,12 @@ el 24 de octubre de 2026 (40 %). Desarrollo aún no iniciado.
 ## Estructura del repositorio
 
 - `equipo/`: información de los integrantes, roles y acuerdos.
-- `docs/01-proyecto/`: informe final y resumen del problema.
-- `docs/02-requisitos/`: requisitos funcionales, usuarios y metas.
-- `docs/03-arquitectura/`: arquitectura y flujo del sistema.
-- `docs/04-planificacion/`: cronograma, hitos, riesgos y costos.
-- `docs/05-estadistica/`: validación, muestra e hipótesis.
-- `docs/06-auditoria/`: cuestionario y hallazgos.
+- `docs/01-proyecto/resumen-del-problema.md`: problema, valor y evidencia disponible.
+- `docs/02-requisitos/alcance-mvp-y-requisitos.md`: alcance y requisitos propuestos.
+- `docs/03-arquitectura/arquitectura-inicial.md`: arquitectura candidata y decisiones pendientes.
+- `docs/04-planificacion/plan-desarrollo-y-riesgos.md`: tareas, responsables propuestos y riesgos.
+- `docs/05-estadistica/plan-validacion.md`: plan inicial de validación y datos por definir.
+- `docs/06-auditoria/cuestionario-aprobacion.md`: revisión de los 52 criterios del cuestionario.
 - `docs/07-evidencias/`: capturas y registro de prompts.
 - `docs/08-presentacion/`: diapositivas de la presentación.
 - `src/`: reservado; no iniciar desarrollo hasta recibir autorización.

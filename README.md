@@ -79,11 +79,20 @@ asistentes de IA que trabajen con el repositorio. Las decisiones ratificadas se
 registran en `docs/decisiones.md`; una propuesta no ratificada no es un acuerdo.
 
 ## Estado actual
-Toda la documentación está redactada. **Pendiente de acciones humanas:**
-completar el [acta 01](docs/actas/acta-01-ratificacion.md), recibir la
-respuesta del docente, aplicar las entrevistas, obtener cotizaciones, verificar
-referencias y ejecutar la prueba de viabilidad. Hasta entonces no se afirma
-que el problema, los precios o el rendimiento estén validados.
+Actualizado el 21 de octubre de 2026. Documentación redactada. Avance de las
+acciones que dependen del equipo y de terceros:
+
+- [ ] Acta 01 completada (`docs/actas/acta-01-ratificacion.md`)
+- [ ] Solicitud enviada al docente y respuesta guardada (`docs/07-evidencias/`)
+- [ ] Referencias verificadas (`docs/01-proyecto/verificacion-referencias.md`)
+- [ ] Entrevistas aplicadas: __ de 8 (`docs/07-evidencias/registro-entrevistas.md`)
+- [ ] Cotizaciones obtenidas: __ de 2
+- [ ] 10 casos de fórmulas revisados por una segunda persona
+- [ ] Prueba de viabilidad de OmniRoute (`docs/07-evidencias/registro-prueba-viabilidad.md`)
+- [ ] Tablero de Trello y protección de `main` (`docs/07-evidencias/evidencia-organizacion.md`)
+
+Lo que no tiene casilla marcada **no está validado**. El desarrollo en `src/`
+empieza solo con autorización del docente.
 
 ## Materia
 El informe y el README indican Probabilidad y Estadística · UNIFRANZ · docente

@@ -6,7 +6,7 @@ Las referencias de esta página provienen del **informe final**
 verificar que cada enlace abra y que la cifra citada aparezca realmente en la
 fuente**; hasta entonces no deben presentarse como respaldo comprobado.
 
-## 1. Lista de referencias (formato APA, tal como figuran en el informe)
+## 1. Lista de referencias 
 
 | N.º | Referencia | Dónde se usa en el informe | Verificada (fecha y quién) |
 |---:|---|---|---|

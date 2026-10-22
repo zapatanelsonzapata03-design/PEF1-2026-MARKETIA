@@ -111,7 +111,7 @@ punto de equilibrio con las **fórmulas fijas**, no con la IA.
 | Punto de equilibrio en Bs (fórmula fija) | |
 | ¿La estimación de la IA es coherente con el cálculo? | |
 
-## 5. Decisión
+ Decisión
 
 - [ ] OmniRoute es viable para el piloto
 - [ ] Activar el plan B de proveedor (indicar cuál: ____________)

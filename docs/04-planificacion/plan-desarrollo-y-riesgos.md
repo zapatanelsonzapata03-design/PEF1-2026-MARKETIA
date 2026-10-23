@@ -110,9 +110,12 @@ gantt
 | B11 | Visita a competidores y datos reales (informe, tarea 10) | Nelson 3, Alex 3, Cristián 2 | 8 | A1 |
 | B12 | Correcciones y ajustes finales | Nelson 4, Cristián 4 | 8 | B8 |
 
-**Total: 112 horas.** Por persona: Nelson 41, Cristián 44, Alex 27. Capacidad
-de trabajo individual en las 8 semanas: 46 h (5,75 h por semana). Cristián
-queda ajustado; Alex tiene margen (≈ 19 h) para apoyar pruebas y documentación.
+**Total estimado: 112 horas.** Por persona: Nelson 41, Cristián 44, Alex 27.
+La disponibilidad propuesta es de 3 h por persona al día; los días de trabajo
+por semana y la distribución entre reuniones y trabajo individual aún deben
+confirmarse. No se calcula todavía la capacidad total ni el margen frente a
+esta estimación. El cálculo anterior basado en 8 h semanales por persona queda
+reemplazado.
 
 ## 4. Tareas que pueden bloquear al equipo
 

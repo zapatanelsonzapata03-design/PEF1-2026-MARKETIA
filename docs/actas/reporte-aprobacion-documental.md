@@ -23,7 +23,7 @@ repositorio no contiene confirmaciones individuales ni aprobaciones de GitHub
 atribuibles a cada integrante. Por ese motivo, este archivo conserva la
 declaración como **aprobación comunicada por la coordinación**, no como acta
 firmada, evidencia individual independiente o ratificación de todas las
-decisiones D1–D15.
+decisiones D1–D16.
 
 La aprobación del equipo no reemplaza las autorizaciones o decisiones que
 corresponden al docente. Los estados de pruebas, accesos, cotizaciones y

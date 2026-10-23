@@ -32,8 +32,8 @@ Emprendedor o microempresario de Cochabamba que planifica un negocio de comercio
 Fuente: [`alcance-mvp-y-requisitos.md`](../02-requisitos/alcance-mvp-y-requisitos.md). **Estado:** Documentado; D1 falta ratificar en el acta.
 
 **3. ¿Qué evidencia demuestra que el problema es real, relevante o necesario?**
-El repositorio contiene ocho resúmenes de entrevistas reportados (E01–E08), con tres respuestas clave por entrevista, no fichas completas de las 24 preguntas. No constan fichas originales ni evidencia de consentimiento o autorización; no se presentan como una muestra completa verificada. Dos capturas del 22/10 muestran consultas enviadas, pero no respuestas, precios ni plazos, ni acreditan dos proveedores distintos. Las referencias siguen pendientes de verificación.
-Fuente: [`registro-entrevistas.md`](../07-evidencias/registro-entrevistas.md), [`guion-cotizaciones.md`](../07-evidencias/guion-cotizaciones.md), [`referencias.md`](../01-proyecto/referencias.md). **Estado:** Evidencia preliminar; validación pendiente.
+El repositorio contiene ocho resúmenes de entrevistas reportados (E01–E08), con tres respuestas clave por entrevista, no fichas completas de las 24 preguntas. No constan fichas originales ni evidencia de consentimiento o autorización; no se presentan como una muestra completa verificada. Dos capturas del 22/10 muestran consultas enviadas, pero no respuestas, precios ni plazos, ni acreditan dos proveedores distintos. Nelson reportó que los nueve enlaces de referencia abren y que contrastó las afirmaciones; quedan correcciones o delimitaciones por aplicar y una revisión por otra persona sigue pendiente.
+Fuente: [`registro-entrevistas.md`](../07-evidencias/registro-entrevistas.md), [`guion-cotizaciones.md`](../07-evidencias/guion-cotizaciones.md), [`referencias.md`](../01-proyecto/referencias.md), [`verificacion-referencias.md`](verificacion-referencias.md). **Estado:** Entrevistas y referencias con evidencia preliminar; validación y correcciones pendientes.
 
 **4. ¿Qué consecuencias tiene actualmente ese problema?**
 Los ocho resúmenes aportados describen dificultades relacionadas con competencia, planificación, costos y herramientas básicas. Son evidencia cualitativa preliminar; faltan fichas completas y consentimiento para valorar el procedimiento y no permiten generalizar a toda la población.
@@ -222,7 +222,7 @@ Fuente: [`roles-y-acuerdos.md`](../../equipo/roles-y-acuerdos.md). **Estado:** D
 ## 10. Preparación para desarrollar
 
 **46. ¿Hay alguna decisión fundamental sin tomar que bloquee el inicio?**
-Sí: las decisiones D1 a D15 siguen como propuestas porque el acta 01 no está completada; el registro docente muestra el envío del enlace, pero no una respuesta escrita que autorice desarrollo. También falta confirmar la materia (D15). El equipo reportó su aprobación del paquete documental; eso no completa el acta ni sustituye autorización docente.
+Sí: las decisiones D1 a D16 siguen como propuestas porque el acta 01 no está completada; D16 se añadió como propuesta y tampoco está ratificada. El registro docente muestra el envío del enlace, pero no una respuesta escrita que autorice desarrollo. También falta confirmar la materia (D15). El equipo reportó su aprobación del paquete documental; eso no completa el acta ni sustituye autorización docente.
 Fuente: [`decisiones.md`](../decisiones.md), [`acta-01-ratificacion.md`](../actas/acta-01-ratificacion.md), [`solicitud-autorizacion-docente.md`](../07-evidencias/solicitud-autorizacion-docente.md), [`reporte-aprobacion-documental.md`](../actas/reporte-aprobacion-documental.md). **Estado:** Pendiente.
 
 **47. ¿Hay algún requisito importante que todavía no comprendan?**

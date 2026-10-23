@@ -25,6 +25,7 @@ participantes y evidencia (por ejemplo, captura de la reunión o del chat).
 | D13 | Muestras | Entrevistas exploratorias: 8 a 10 emprendedores (Fase A). Pruebas tempranas de usabilidad: 5 personas. Prueba piloto: 30 personas (diciembre). Si el tiempo lo permite, ampliar a 43. | P34 |
 | D14 | Herramientas de seguimiento | Trello para tareas (columnas: pendiente, en curso, en revisión, terminada), GitHub para código y pull requests, Drive y WhatsApp para documentos y avisos. Exportar capturas de Trello a `docs/07-evidencias/`. | P36, P42 |
 | D15 | Materia | Confirmar con el docente si el proyecto corresponde a Probabilidad y Estadística o a Programación II - P2. Hasta recibir respuesta, el README menciona ambas. | P46 |
+| D16 | Contrato API único | **Propuesta del revisor (23/10/2026), no ratificada:** adoptar `POST /analisis` (formulario completo → cálculos fijos + FODA/demanda → informe) y `GET /health` como contrato del MVP, porque cumple el flujo de una sola pantalla y el objetivo de 5 minutos; los endpoints `calcular` y `analizar-foda` quedan como refactor interno o v1.1. Los campos y errores siguen los de RF-01 a RF-05. | P30 |
 
 ## Registro de ratificación
 

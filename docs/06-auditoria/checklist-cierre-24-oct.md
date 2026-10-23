@@ -15,9 +15,9 @@
       [`solicitud-autorizacion-docente.md`](../07-evidencias/solicitud-autorizacion-docente.md).
       No iniciar desarrollo, entrevistas ni prueba técnica sin autorización
       expresa correspondiente.
-- [ ] **Referencias:** verificar las nueve fuentes y las afirmaciones en
-      [`verificacion-referencias.md`](verificacion-referencias.md); corregir
-      cifras o enlaces solo después de comprobar la fuente.
+- [ ] **Referencias:** revisión de enlaces y afirmaciones reportada por Nelson;
+      aplicar las correcciones/delimitaciones pendientes al PDF y obtener revisión por
+      otra persona en [`verificacion-referencias.md`](verificacion-referencias.md).
 - [ ] **Entrevistas:** confirmar autorización y consentimiento antes de aplicar
       el protocolo; registrar únicamente entrevistas reales y anonimizadas en
       [`registro-entrevistas.md`](../07-evidencias/registro-entrevistas.md).

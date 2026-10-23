@@ -30,6 +30,8 @@ acta de ratificación ni reemplaza la decisión del docente. Ver
 [`reporte-aprobacion-documental.md`](../actas/reporte-aprobacion-documental.md)
 y las [respuestas razonadas](respuestas-cuestionario.md).
 
+**Revisión documental preliminar del 23/10/2026:** ver [`revision-preliminar-2026-10-23.md`](revision-preliminar-2026-10-23.md) (36 documentados, 14 parciales, 2 bloqueantes; no constituye aprobación docente ni revisión independiente).
+
 | N.º | Estado actual | Evidencia en el repositorio | Para cerrar el criterio | Fecha propuesta original (no acredita cumplimiento) |
 |---:|---|---|---|---|
 | 1 | Documentado | [Problema](../01-proyecto/resumen-del-problema.md) | Ensayar con cronómetro que se explica en menos de 30 s | Jue 22 oct |

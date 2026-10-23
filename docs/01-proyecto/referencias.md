@@ -34,7 +34,7 @@ descartada según ese registro.
 | Alrededor de 7 de cada 10 emprendimientos fracasan en Bolivia. | Los Tiempos (2026) | Verificada por Nelson (22/10/2026): la nota habla de 70 % / unos siete de cada diez | Mantener. |
 | Cerca del 78,5 % de la actividad económica es informal. | Los Tiempos (2026) | Verificada por Nelson (22/10/2026): cifra atribuida al CEES en la nota | Mantener; citar al CEES como origen. |
 | Alrededor del 70 % de las microempresas son informales, lo que dificulta créditos y asesoría. | López Castro et al. (2026) | **No coincide** (verificación 22/10/2026): el artículo no da ese dato para microempresas | **Quitar la afirmación o reformularla** con la cifra real de la fuente; no atribuirla a López Castro et al. Corregir también el informe PDF. |
-| Un estudio profesional cuesta varios cientos de dólares y demora días o semanas. | Ninguna | **Sin cotizaciones recibidas**; los importes de entrevistas son declaraciones no verificadas | Obtener 2 cotizaciones reales con [`guion-cotizaciones.md`](../07-evidencias/guion-cotizaciones.md); si no se obtienen, quitar la generalización o identificar claramente la declaración reportada. |
+| Un estudio profesional cuesta varios cientos de dólares y demora días o semanas. | Video de Tesis con Marvin en TikTok (08/10/2021), compartido por el equipo | El video muestra `$217` y `$1.000`, pero no se distinguen los servicios, plazos ni vigencia de cada importe. No es una cotización para MarketIA. | Mantener los importes solo como referencia pública atribuida y limitada; obtener 2 cotizaciones reales para sustentar el costo y plazo del alcance solicitado. |
 | Las herramientas de IA extranjeras están en inglés y se pagan en dólares. | Kimi AI, Delve AI, Thunderbit, Shopify | Fuentes comerciales; no se documentó revisión de idiomas y precios de servicios concretos | Verificar 2 o 3 herramientas concretas (captura de idioma y precio) o quitar la generalización. |
 | Las IAs cobran por cantidad de texto procesado. | Google (2026); eesel AI (2026) | Sin verificar | Citar la página de precios de Google (fuente primaria) y dejar eesel solo como apoyo. |
 | OmniRoute es gratuito, de código abierto y reparte las consultas entre varios proveedores. | OmniRoute (2026) | Sin verificar | Revisar el repositorio (licencia, funcionamiento) y los términos de cada proveedor gratuito. |
@@ -56,6 +56,8 @@ descartada según ese registro.
 - Cotizaciones de estudios de viabilidad:
   [`guion-cotizaciones.md`](../07-evidencias/guion-cotizaciones.md).
 - Hay ocho resúmenes de entrevistas reportados (sin fichas completas ni
-  consentimiento verificable) y dos solicitudes de cotización sin respuesta.
-  No se presentan como validación formal; ver
-  [`registro-entrevistas.md`](../07-evidencias/registro-entrevistas.md).
+  consentimiento verificable), dos solicitudes de cotización sin respuesta y
+  una referencia pública de precios que no es una cotización. No se presentan
+  como validación formal; ver
+  [`registro-entrevistas.md`](../07-evidencias/registro-entrevistas.md) y
+  [`guion-cotizaciones.md`](../07-evidencias/guion-cotizaciones.md).

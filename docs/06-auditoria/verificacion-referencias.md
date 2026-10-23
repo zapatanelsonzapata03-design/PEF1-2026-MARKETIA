@@ -9,15 +9,15 @@
 
 | N.º | Fuente (resumen) | ¿Abre el enlace? | Fecha de consulta | Quién | Nota (enlace corregido, fuente eliminada, etc.) |
 |---:|---|:-:|---|---|---|
-| 1 | Delve AI (2026), herramientas de investigación de mercado con IA | | | | |
-| 2 | eesel AI (2026), precios de la API de Gemini | | | | |
-| 3 | Google (2026), precios de la API de Gemini | | | | |
-| 4 | Kimi AI (2026), herramientas de IA para estudios de mercado | | | | |
-| 5 | López Castro, Apiquian Guitart y Mata Mata (2026), éxito y fracaso de emprendimientos en Bolivia | | | | |
-| 6 | Los Tiempos (10 de agosto de 2026), estudio sobre emprendimientos que fracasan en Bolivia | | | | |
-| 7 | OmniRoute (2026), repositorio en GitHub | | | | |
-| 8 | Shopify (2026), IA en investigación de mercados | | | | |
-| 9 | Thunderbit (2025), herramientas de IA para investigación de mercados | | | | |
+| 1 | Delve AI (2026), herramientas de investigación de mercado con IA |si |22/10/26 |nelson |funciona |
+| 2 | eesel AI (2026), precios de la API de Gemini |si |22/10/26 |nelson |funciona |
+| 3 | Google (2026), precios de la API de Gemini |si |22/10/26 |nelson |funciona |
+| 4 | Kimi AI (2026), herramientas de IA para estudios de mercado |si |22/10/26 |nelson |funciona |
+| 5 | López Castro, Apiquian Guitart y Mata Mata (2026), éxito y fracaso de emprendimientos en Bolivia |si |22/10/26 |nelson |funciona |
+| 6 | Los Tiempos (10 de agosto de 2026), estudio sobre emprendimientos que fracasan en Bolivia |si |22/10/26 |nelson |funciona |
+| 7 | OmniRoute (2026), repositorio en GitHub |si |22/10/26 |nelson |funciona |
+| 8 | Shopify (2026), IA en investigación de mercados |si |22/10/26 |nelson |funciona |
+| 9 | Thunderbit (2025), herramientas de IA para investigación de mercados |si |22/10/26 |nelson |funciona |
 
 **Estado al 22/10/2026: pendiente.** No se ha documentado aquí la apertura de
 las fuentes ni una comprobación de sus cifras. En particular, la observación

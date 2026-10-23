@@ -45,3 +45,15 @@ Las dos capturas acreditan el envío de una consulta, no la recepción de una
 cotización. Muestran el mismo texto y no acreditan solicitudes a dos proveedores
 distintos; por tanto, no satisfacen el requisito de dos cotizaciones. Registrar
 respuesta y proveedor adicional cuando el equipo los obtenga.
+
+## Referencia pública de precio
+
+| Fuente | Precio visible | Alcance y limitaciones |
+|---|---|---|
+| [Video de Tesis con Marvin en TikTok](https://www.tiktok.com/@tesisconmarvin/video/7016784898119732485), con fecha visible 08/10/2021 | En pantalla aparecen `$217` y `$1.000`; el equipo identifica los importes como dólares estadounidenses | Referencia pública compartida por el equipo, no cotización solicitada para MarketIA. El video no permite determinar qué servicios, entregables o plazos corresponden a cada importe ni si los precios siguen vigentes. |
+
+Según lo informado por el equipo, el autor es un asesor de Bolivia. Esta
+referencia ofrece un rango orientativo de precios publicados, pero no demuestra
+el costo de un estudio con el alcance solicitado arriba. No reemplaza las dos
+cotizaciones de proveedores distintos ni permite afirmar que un estudio
+profesional en Cochabamba cueste exactamente esos importes.

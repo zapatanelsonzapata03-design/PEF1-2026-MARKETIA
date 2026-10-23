@@ -111,7 +111,7 @@ reporta:
 | Comercio | 4.169.984,4 | 4.227.276,2 |
 | Servicios a las empresas | 1.559.674,4 | 1.600.373,5 |
 
-Valores en **miles de bolivianos de 1990**. La hoja marca los datos de 2024 con
+Valores en **miles de bolivianos de 1990**. La hoja marca los años 2017–2024 con
 “(p)”, es decir, preliminares. La fuente de trabajo se conserva en
 [`INE-cuadro-06-01-01-PIB-1980-2024.xlsx`](INE-cuadro-06-01-01-PIB-1980-2024.xlsx).
 
@@ -124,6 +124,28 @@ alcanzable (TAM, SAM o SOM) ni como evidencia de demanda. Para estimar ese
 mercado se requiere información desagregada de población o unidades económicas
 pertinentes y validación local; el plan y las limitaciones de esa validación
 están en [`../05-estadistica/plan-validacion.md`](../05-estadistica/plan-validacion.md).
+
+### Contexto departamental: Cochabamba
+
+El Cuadro 3.01.01 del INE permite precisar el contexto territorial con el PIB
+de Cochabamba por actividad económica. La serie reporta:
+
+| Actividad económica | 2023 (preliminar) | 2024 (preliminar) |
+|---|---:|---:|
+| PIB departamental (precios de mercado) | 7.991.469,2 | 8.405.601,3 |
+| Comercio | 672.349,0 | 708.476,0 |
+| Servicios a las empresas | 290.277,2 | 307.710,3 |
+
+Valores en **miles de bolivianos de 1990**. La hoja marca con “(p)” todos los
+años de 2017 a 2024. El archivo se conserva en
+[`INE-cuadro-03-01-01-PIB-Cochabamba-1988-2024.xlsx`](INE-cuadro-03-01-01-PIB-Cochabamba-1988-2024.xlsx);
+la referencia y el enlace de descarga están en [`referencias.md`](referencias.md).
+
+El PIB departamental mide producción agregada de unidades productivas
+residentes, no el número de emprendimientos ni de personas que podrían usar
+MarketIA. Estas cifras mejoran el contexto regional, pero no bastan para
+calcular el mercado objetivo, TAM/SAM/SOM, demanda del producto ni disposición
+de pago.
 
 ## Valor esperado e indicadores
 

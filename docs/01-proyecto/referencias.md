@@ -67,7 +67,7 @@ descartada según ese registro.
 Instituto Nacional de Estadística (INE). (s. f.). *Cuadro 6.01.01: Bolivia,
 serie histórica del producto interno bruto a precios constantes por año según
 actividad económica, 1980–2024* [hoja de cálculo; valores en miles de
-bolivianos de 1990, 2024 preliminar]. Archivo facilitado por el equipo y
+bolivianos de 1990; 2017–2024 preliminares]. Archivo facilitado por el equipo y
 conservado en
 [`INE-cuadro-06-01-01-PIB-1980-2024.xlsx`](INE-cuadro-06-01-01-PIB-1980-2024.xlsx).
 La hoja identifica al INE como fuente, pero el archivo facilitado no indica
@@ -77,3 +77,16 @@ Se utiliza únicamente para contextualizar la producción nacional de
 actividades relacionadas con comercio y servicios. Al ser un agregado
 macroeconómico nacional, no estima el número de clientes potenciales ni el
 tamaño del mercado objetivo de MarketIA en Cochabamba.
+
+Instituto Nacional de Estadística (INE). (s. f.). *Cuadro 3.01.01:
+Cochabamba: producto interno bruto a precios constantes, según actividad
+económica, 1988–2024* [hoja de cálculo; valores en miles de bolivianos de
+1990; 2017–2024 preliminares]. Disponible en la [página de PIB departamental
+del INE](https://www.ine.gob.bo/index.php/estadisticas-economicas/pib-y-cuentas-nacionales/producto-interno-bruto-departamental/producto-interno-bruto-departamental/)
+y en su
+[archivo de descarga](https://nube.ine.gob.bo/index.php/s/TPp9wVaoTi9eRxp/download);
+copia consultada el 23/10/2026 en
+[`INE-cuadro-03-01-01-PIB-Cochabamba-1988-2024.xlsx`](INE-cuadro-03-01-01-PIB-Cochabamba-1988-2024.xlsx).
+La metodología del INE describe el PIB departamental como producción de las
+unidades residentes en cada departamento; este indicador no cuenta clientes
+potenciales ni mide la demanda de MarketIA.

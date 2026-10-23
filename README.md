@@ -49,8 +49,9 @@ y la [sección 6 de diseño y viabilidad técnica](docs/03-arquitectura/seccion-
 | Cristián García Bustamante | Líder de la pantalla y la calidad |
 
 Horas, reuniones y flujo de trabajo: [`equipo/roles-y-acuerdos.md`](equipo/roles-y-acuerdos.md).
-Tareas en Trello: enlace pendiente de registrar cuando exista evidencia del
-tablero en [`docs/07-evidencias/evidencia-organizacion.md`](docs/07-evidencias/evidencia-organizacion.md).
+El tablero de Trello está documentado con una captura y un enlace de invitación
+para observarlo; la cobertura completa de tareas sigue pendiente
+([evidencia](docs/07-evidencias/evidencia-organizacion.md)).
 Código y revisiones en GitHub.
 
 ## Hitos
@@ -86,7 +87,7 @@ asistentes de IA que trabajen con el repositorio. Las decisiones ratificadas se
 registran en `docs/decisiones.md`; una propuesta no ratificada no es un acuerdo.
 
 ## Estado actual
-Actualizado el 22 de octubre de 2026. El repositorio registra el envío del
+Actualizado el 23 de octubre de 2026. El repositorio registra el envío del
 enlace del proyecto al docente el 15 de octubre; no consta una respuesta escrita
 ni autorización posterior.
 Avance de las acciones que dependen del equipo y de terceros:
@@ -94,11 +95,12 @@ Avance de las acciones que dependen del equipo y de terceros:
 - [ ] Acta 01 completada (`docs/actas/acta-01-ratificacion.md`)
 - [ ] Autorización docente para el desarrollo y la prueba técnica (`docs/07-evidencias/solicitud-autorizacion-docente.md`)
 - [ ] Referencias verificadas (`docs/06-auditoria/verificacion-referencias.md`)
-- [ ] Entrevistas: seis resúmenes reportados y anonimizados; faltan fichas E01–E02, consentimiento y verificación (`docs/07-evidencias/registro-entrevistas.md`)
+- [ ] Entrevistas: ocho resúmenes reportados y anonimizados; faltan fichas completas, consentimiento y verificación (`docs/07-evidencias/registro-entrevistas.md`)
 - [ ] Cotizaciones obtenidas: __ de 2
 - [ ] 10 casos de fórmulas revisados por una segunda persona
 - [ ] Prueba de viabilidad de OmniRoute, solo con autorización (`docs/07-evidencias/registro-prueba-viabilidad.md`)
-- [ ] Tablero de Trello y protección de `main` (`docs/07-evidencias/evidencia-organizacion.md`)
+- [x] Evidencia visual de un tablero Trello (`docs/07-evidencias/trello-tablero-2026-10-23.png`)
+- [ ] Cobertura de tareas/responsables/fechas y protección de `main` (`docs/07-evidencias/evidencia-organizacion.md`)
 
 Lo que no tiene casilla marcada **no está validado**. El desarrollo en `src/`
 empieza solo con una nueva autorización expresa del docente. Las tareas con

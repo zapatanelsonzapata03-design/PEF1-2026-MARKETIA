@@ -44,16 +44,25 @@ quien administre esa cuenta debe hacer este cambio.
 | Fecha de configuración | |
 | Quién la configuró | |
 | Aprobaciones exigidas | |
-| Captura | |
+| Configuración visible en captura | Require a pull request before merging; 1 aprobación requerida; "Require an additional approval for unattributed Copilot pull requests" marcado |
+| Captura | [`proteccion-main-2026-10-23.png`](proteccion-main-2026-10-23.png) |
+
+La captura muestra estos controles en la configuración de reglas de rama, pero
+el recorte no deja visible el patrón de rama al que se aplica ni confirma por
+sí solo que la regla esté guardada y activa específicamente para `main`. Falta
+verificar ese alcance en la configuración completa.
 
 ## 3. Pull requests y ramas
 
 | Campo | Dato |
 |---|---|
-| Pull request abierto al revisar el repositorio | Número ___ · Estado: ( ) fusionado ( ) cerrado ( ) sigue abierto |
+| Captura del listado | [`pull-request-revisado-2026-10-23.png`](pull-request-revisado-2026-10-23.png) muestra la lista filtrada de PR cerradas; PR #9 aparece como fusionada |
 | Convención de ramas acordada | `feat/<área>-<descripción>` y `docs/<descripción>` |
 | Revisor de cada pull request | Una persona distinta a la autora |
 | Revisión semanal de pull requests abiertos | Viernes, reunión de las 20:00 |
+
+La captura del listado acredita el estado visible de cierre/fusión, no que cada
+PR haya recibido una aprobación de revisión independiente.
 
 ## 4. Reuniones
 

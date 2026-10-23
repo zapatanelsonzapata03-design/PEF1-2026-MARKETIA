@@ -16,7 +16,7 @@ porque la evidencia real y las ratificaciones aún no existen.** Las fechas de
 cierre son propuestas del equipo y se confirman en el acta. La aprobación final
 corresponde al docente.
 
-**Corte actualizado al 22 de octubre de 2026:** el registro de autorización
+**Corte actualizado al 23 de octubre de 2026:** el registro de autorización
 documenta el envío del enlace del repositorio al docente el 15 de octubre, pero
 no contiene una respuesta escrita (ver
 [`solicitud-autorizacion-docente.md`](../07-evidencias/solicitud-autorizacion-docente.md)).
@@ -67,19 +67,19 @@ y las [respuestas razonadas](respuestas-cuestionario.md).
 | 33 | Diez ejemplos sintéticos y recálculo aritmético preliminar; revisión independiente y ejecución del sistema no documentadas | [Datos y pruebas](../03-arquitectura/datos-seguridad-pruebas.md), [borrador de revisión](../03-arquitectura/revision-formulas-borrador.md) | Revisión independiente documentada por Cristián, pruebas del sistema y tres casos reales anonimizados con permiso | Reprogramar |
 | 34 | Documentado | [Datos y pruebas](../03-arquitectura/datos-seguridad-pruebas.md), [Plan de validación](../05-estadistica/plan-validacion.md) | Ratificar y registrar pruebas reales | Vie 16 oct |
 | 35 | Documentado (Fase A y B con fechas); falta ratificar | [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md), [Informe final](../01-proyecto/MarketIA_informe_final.pdf) | Ratificar fechas del plan y del informe | Vie 16 oct |
-| 36 | Documentado | [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md), [Roles y acuerdos](../../equipo/roles-y-acuerdos.md) | Ratificar asignaciones y corregir el informe (D11) | Vie 16 oct |
+| 36 | Plan documentado; captura muestra tarjetas en Trello, pero no verifica todas las tareas, responsables o fechas | [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md), [evidencia del tablero](../07-evidencias/evidencia-organizacion.md) | Verificar cobertura y responsables contra el plan; ratificar asignaciones y corregir el informe (D11) | Reprogramar |
 | 37 | Documentado (horas por tarea) | [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md) | Confirmar estimaciones | Vie 16 oct |
-| 38 | Documentado | [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md) | Reflejar en el tablero de Trello | Mar 20 oct |
+| 38 | Dependencias documentadas en el plan; la captura muestra un tablero y tarjetas, pero no permite verificar su reflejo completo | [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md), [evidencia del tablero](../07-evidencias/evidencia-organizacion.md) | Verificar en Trello las dependencias entre tareas | Reprogramar |
 | 39 | Documentado | [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md) | Confirmar tareas y responsables | Vie 16 oct |
 | 40 | Documentado | [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md) | Confirmar mitigaciones | Vie 16 oct |
 | 41 | Documentado | [Roles y acuerdos](../../equipo/roles-y-acuerdos.md) | Ratificar responsabilidades y respaldos | Vie 16 oct |
-| 42 | Acuerdo propuesto; **falta comprobar configuración** | [Roles y acuerdos](../../equipo/roles-y-acuerdos.md), [Decisiones](../decisiones.md) | Proteger `main`, activar pull requests, captura del tablero | Mar 20 oct |
+| 42 | Captura acredita que existe un tablero Trello; flujo de revisión y protección de `main` no comprobados | [Roles y acuerdos](../../equipo/roles-y-acuerdos.md), [evidencia del tablero](../07-evidencias/evidencia-organizacion.md), [Decisiones](../decisiones.md) | Comprobar el flujo de revisión y adjuntar evidencia de la protección de `main` | Reprogramar |
 | 43 | Documentado (8 riesgos, 3 principales marcados) | [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md), [Informe final](../01-proyecto/MarketIA_informe_final.pdf) | Ratificar prioridad | Vie 16 oct |
 | 44 | Documentado | [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md) | Asignar seguimiento | Vie 16 oct |
 | 45 | Documentado | [Roles y acuerdos](../../equipo/roles-y-acuerdos.md) | Ratificar respaldos | Vie 16 oct |
 | 46 | **Falta acta y respuesta docente**: el repositorio registra el envío del enlace, no una respuesta escrita | [Decisiones](../decisiones.md), [Acta 01](../actas/acta-01-ratificacion.md), [registro docente](../07-evidencias/solicitud-autorizacion-docente.md) | Completar el acta con acuerdos reales y registrar cualquier respuesta docente que se reciba | Reprogramar |
 | 47 | Documentado; método de demanda mitigado por D3 y supuestos visibles | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md), [Arquitectura](../03-arquitectura/arquitectura-inicial.md) | Definir rúbrica (OE3) y probar en A4 | Lun 19 oct |
-| 48 | **Autorización no documentada**; hosting y cuentas sin evidencia | [Preparación](../09-preparacion.md), [registro docente](../07-evidencias/solicitud-autorizacion-docente.md) | Obtener autorización expresa y confirmar recursos sin publicar secretos | Reprogramar |
+| 48 | **Autorización no documentada**; hosting, cuentas y permisos siguen sin evidencia; tablero Trello visible | [Preparación](../09-preparacion.md), [registro docente](../07-evidencias/solicitud-autorizacion-docente.md), [evidencia del tablero](../07-evidencias/evidencia-organizacion.md) | Obtener autorización expresa y confirmar recursos sin publicar secretos | Reprogramar |
 | 49 | Documentado | [Preparación](../09-preparacion.md), [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md) | Ratificar primer trabajo por integrante | Vie 16 oct |
 | 50 | Documentado | [README](../../README.md) | Revisar con alguien ajeno al equipo | Jue 22 oct |
 | 51 | Documentado | [Prueba de fracaso](prueba-de-fracaso.md) | Ratificar escenarios | Vie 16 oct |
@@ -88,12 +88,12 @@ y las [respuestas razonadas](respuestas-cuestionario.md).
 ## Datos reales que aún no constan
 - Verificación de las referencias del informe (enlaces y cifras).
 - Dos cotizaciones reales de proveedores locales; las capturas actuales muestran solicitudes, no respuestas.
-- Fichas completas y consentimiento verificable para las entrevistas; E01–E02 no constan en el repositorio.
+- Fichas completas y consentimiento verificable para las ocho entrevistas reportadas.
 - Costo y latencia medidos de la prueba del LLM (A4).
 - Tres casos de negocios reales para comparar con las fórmulas.
 - Acta de ratificación completada y confirmada por los tres integrantes.
 - Respuesta escrita del docente sobre autorización y materia; el repositorio registra el envío del enlace, pero no una respuesta.
-- Capturas de Trello y de la protección de `main`.
+- Evidencia de cobertura del tablero Trello y captura de la protección de `main` (la captura actual acredita que el tablero existe, no su cobertura total).
 - Proveedor de hosting elegido.
 
 ## Resumen de acciones por fecha

@@ -1,6 +1,6 @@
 # Respuestas al cuestionario de aprobación
 
-**Equipo MarketIA · corte: 22 de octubre de 2026**
+**Equipo MarketIA · corte: 23 de octubre de 2026**
 
 > Cada respuesta resume lo que ya existe en este repositorio y enlaza su
 > fuente. El campo **Estado** es honesto: "Documentado" significa que hay un
@@ -177,16 +177,16 @@ Sí: fase A (A1 a A9) y fase B (B1 a B12), con diagramas Gantt por fase.
 Fuente: [`plan-desarrollo-y-riesgos.md`](../04-planificacion/plan-desarrollo-y-riesgos.md). **Estado:** Documentado; fechas de fase A vencidas, deben reprogramarse.
 
 **36. ¿Cada tarea tiene responsable?**
-Sí, en las tablas del plan (por ejemplo B2 Nelson, B4 Cristián, B9 Alex).
-Fuente: ídem. **Estado:** Documentado; falta ratificar y reflejar en Trello.
+El plan asigna responsables por tarea (por ejemplo B2 Nelson, B4 Cristián, B9 Alex). La captura de Trello muestra algunas tarjetas, pero no permite comprobar que todas las tareas del plan estén reflejadas ni que cada tarjeta tenga responsable y fecha.
+Fuente: [`plan-desarrollo-y-riesgos.md`](../04-planificacion/plan-desarrollo-y-riesgos.md), [`evidencia-organizacion.md`](../07-evidencias/evidencia-organizacion.md). **Estado:** Asignaciones documentadas; verificación completa del tablero pendiente.
 
 **37. ¿Las tareas tienen estimaciones razonables?**
 Sí, en horas por tarea: 49 h en la fase A y 112 h en la fase B.
 Fuente: ídem. **Estado:** Documentado; falta confirmar.
 
 **38. ¿Las dependencias están identificadas?**
-Sí, en la columna "Depende de" (por ejemplo B3 depende de A4 y B1).
-Fuente: ídem. **Estado:** Documentado.
+Sí, en la columna "Depende de" del plan (por ejemplo B3 depende de A4 y B1). La captura no muestra dependencias entre tarjetas de Trello.
+Fuente: [`plan-desarrollo-y-riesgos.md`](../04-planificacion/plan-desarrollo-y-riesgos.md), [`evidencia-organizacion.md`](../07-evidencias/evidencia-organizacion.md). **Estado:** Documentado en el plan; reflejo en Trello pendiente de comprobar.
 
 **39. ¿El Gantt contempla desarrollo, integración, pruebas, correcciones y documentación?**
 Sí: B1 a B6 desarrollo, B7 integración, B8 y B10 pruebas y mediciones, B12 correcciones, B9 documentación e informe final.
@@ -203,9 +203,9 @@ Alex: actas, calendario, referencias, informe y evidencias. Nelson: motor de cá
 Fuente: [`roles-y-acuerdos.md`](../../equipo/roles-y-acuerdos.md). **Estado:** Documentado; falta ratificar en el acta.
 
 **42. ¿Hay mecanismo acordado para revisar e integrar el trabajo?**
-Propuesto: ramas por tarea, pull request con aprobación de otra persona, `main` protegida, revisión semanal los viernes. No hay captura de la protección de `main` ni del tablero de Trello.
-La coordinación reporta que los integrantes aprobaron el paquete documental usando una cuenta; el repositorio no registra aprobaciones individuales de GitHub ni evidencia de que el mecanismo esté configurado.
-Fuente: [`roles-y-acuerdos.md`](../../equipo/roles-y-acuerdos.md), [`reporte-aprobacion-documental.md`](../actas/reporte-aprobacion-documental.md), [`evidencia-organizacion.md`](../07-evidencias/evidencia-organizacion.md). **Estado:** Aprobación del paquete reportada; mecanismo de revisión y protección pendiente de comprobar.
+Se proponen ramas por tarea, pull request con aprobación de otra persona, `main` protegida y revisión semanal los viernes. La captura acredita que existe un tablero Trello con listas y tarjetas; no acredita la protección de `main`, las aprobaciones entre personas ni que el flujo se aplique.
+La coordinación reporta que los integrantes aprobaron el paquete documental usando una cuenta; el repositorio no registra aprobaciones individuales de GitHub.
+Fuente: [`roles-y-acuerdos.md`](../../equipo/roles-y-acuerdos.md), [`reporte-aprobacion-documental.md`](../actas/reporte-aprobacion-documental.md), [`evidencia-organizacion.md`](../07-evidencias/evidencia-organizacion.md). **Estado:** Tablero evidenciado; mecanismo de revisión pendiente de comprobar.
 
 **43. ¿Cuáles son los tres riesgos que más podrían hacer fracasar o retrasar el proyecto?**
 R1: poco tiempo del equipo y alcance mayor al tiempo. R2: la IA se equivoca, inventa datos o responde con formato inválido. R3: poca gente quiere pagar o no se valida la necesidad.
@@ -230,8 +230,8 @@ Sí: el método para estimar la demanda (niveles bajo, medio, alto) aún no tien
 Fuente: [`alcance-mvp-y-requisitos.md`](../02-requisitos/alcance-mvp-y-requisitos.md). **Estado:** Documentado; pendiente de rúbrica.
 
 **48. ¿Falta alguna dependencia, permiso, acceso o recurso necesario para comenzar?**
-El repositorio no documenta autorización docente, hosting, cuentas ni acceso confirmado a OmniRoute; Trello y protección de `main` tampoco tienen evidencia registrada. La plantilla de verificación permanece en blanco.
-Fuente: [`09-preparacion.md`](../09-preparacion.md), [`09-accesos-y-hosting.md`](../09-accesos-y-hosting.md). **Estado:** Pendiente.
+El repositorio no documenta autorización docente, hosting, cuentas ni acceso confirmado a OmniRoute; existe evidencia visual de un tablero Trello, pero la protección de `main` no está comprobada.
+Fuente: [`09-preparacion.md`](../09-preparacion.md), [`09-accesos-y-hosting.md`](../09-accesos-y-hosting.md), [`evidencia-organizacion.md`](../07-evidencias/evidencia-organizacion.md). **Estado:** Pendiente.
 
 **49. Si mañana tuvieran que programar, ¿cada integrante sabría qué construir primero?**
 Sí, tras la autorización: Nelson, esqueleto de la API y motor de cálculos (B1, B2); Cristián, formulario (B4); Alex, coordinación, informe y evidencias.

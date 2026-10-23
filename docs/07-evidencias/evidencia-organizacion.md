@@ -1,8 +1,9 @@
 # Evidencia de organización del equipo
 
-> Respalda la pregunta 42 (mecanismo para revisar e integrar el trabajo). Guardar
-> las capturas en esta carpeta y anotar aquí su nombre. Mientras no existan,
-> estos acuerdos siguen siendo propuestas.
+> Respalda parcialmente las preguntas 36, 38 y 42. La captura acredita que se
+> ve un tablero y algunas tarjetas; no acredita que estén cargadas todas las
+> tareas, sus responsables y fechas, que el equipo siga un flujo de revisión,
+> ni que `main` esté protegida.
 >
 > La plantilla de prueba de OmniRoute está separada en
 > [`registro-prueba-viabilidad.md`](registro-prueba-viabilidad.md). La prueba
@@ -12,12 +13,20 @@
 
 | Campo | Dato |
 |---|---|
-| Enlace del tablero | https://trello.com/invite/b/6adae6323692211b8f10f761/ATTI14406b1bb31e10484325c7061f29c5d5B9A3E9FB/🧭-tablero-scrum-kanban-del-sprint|
-| Fecha de creación |22/10/26 |
-| Columnas: pendiente, en curso, en revisión, terminada | ( ) creadas |
-| Tarjetas creadas desde el plan (tareas A1 a A9 y B1 a B12) | ( ) sí |
-| Cada tarjeta tiene responsable y fecha | ( ) sí |
-| Captura | |
+| Enlace de invitación para observar el tablero | [Abrir tablero MarketIAa en Trello](https://trello.com/invite/b/6adae6323692211b8f10f761/ATTI14406b1bb31e10484325c7061f29c5d5B9A3E9FB/marketiaa) |
+| Fecha de creación reportada | 22/10/2026 |
+| Fecha visible de la captura | 23/10/2026 |
+| Listas visibles | Backlog, To Do, In Progress, Code Review / QA y Done |
+| Contadores visibles en la captura | Backlog: 4; To Do: 4; In Progress: 3; Code Review / QA: 3; Done: 8 |
+| Tarjetas del plan A1–A9 y B1–B12 | No se verifica que estén todas; la captura muestra algunas tarjetas y tareas en distintos estados |
+| Responsables y fechas en cada tarjeta | No se pueden verificar en esta captura |
+| Captura | [`trello-tablero-2026-10-23.png`](trello-tablero-2026-10-23.png) |
+
+La captura y el enlace de invitación aportado permiten documentar el tablero
+para observación; no se verificó desde el repositorio el alcance de permisos
+que Trello concede al abrir el enlace. La presencia de una lista `Done` no
+demuestra que el proyecto esté completo: también se observan tarjetas en
+Backlog, To Do, In Progress y Code Review / QA.
 
 ## 2. Protección de la rama `main` en GitHub
 

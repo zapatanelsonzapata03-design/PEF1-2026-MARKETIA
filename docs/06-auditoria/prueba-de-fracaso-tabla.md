@@ -1,6 +1,6 @@
 # Prueba de fracaso: tabla de condiciones, señales y controles
 
-**Corte: 22 de octubre de 2026** · Responde las preguntas 51 y 52 del cuestionario.
+**Corte: 23 de octubre de 2026** · Responde las preguntas 51 y 52 del cuestionario.
 
 > Los riesgos (R1 a R8) vienen del
 > [plan de desarrollo](../04-planificacion/plan-desarrollo-y-riesgos.md) y de
@@ -19,7 +19,7 @@
 | 5 | No se valida que el problema exista ni que el precio sea accesible | R3 | Menos de 8 entrevistas verificadas; falta de cotizaciones | Entrevistas documentadas, 2 cotizaciones, referencias verificadas | [`registro-entrevistas.md`](../07-evidencias/registro-entrevistas.md): ocho resúmenes reportados, sin fichas completas ni evidencia de consentimiento/autorización. Las [capturas de solicitud](../07-evidencias/guion-cotizaciones.md) no muestran respuestas ni prueban dos proveedores distintos | Evidencia parcial, revisión pendiente | Cristián y Alex |
 | 6 | Poca gente quiere pagar | R3 | Disposición de pago menor al precio propuesto | Nivel gratuito, alianzas con universidades, pregunta de pago en las entrevistas | Pregunta incluida en el protocolo; los resúmenes aportados no informan montos de disposición de pago | Propuesto, sin evidencia | Cristián y Alex |
 | 7 | Las cuotas gratuitas de IA se agotan o cambian | R4 | Errores o límites en OmniRoute | Evaluar proveedores compatibles y documentar respaldo sin secretos | Anexo B muestra evidencia preliminar de un caso/topología; no acredita proveedor de respaldo ni conmutación | Propuesto, sin evidencia | Nelson |
-| 8 | Falta una persona clave o el equipo se desorganiza | R5 | Ausencia o retraso de un integrante | Respaldos cruzados, Trello, flujo Git, reuniones L-M-V | [`roles-y-acuerdos.md`](../../equipo/roles-y-acuerdos.md); faltan acta, Trello y captura de `main` | Propuesto, sin evidencia | Alex |
+| 8 | Falta una persona clave o el equipo se desorganiza | R5 | Ausencia o retraso de un integrante | Respaldos cruzados, Trello, flujo Git, reuniones L-M-V | [`roles-y-acuerdos.md`](../../equipo/roles-y-acuerdos.md); [captura del tablero](../07-evidencias/trello-tablero-2026-10-23.png); faltan acta, cobertura de tareas y captura de `main` | Evidencia parcial, revisión pendiente | Alex |
 | 9 | El docente no autoriza a tiempo | R6 | No consta respuesta escrita a la solicitud | Registrar solicitud y respuesta; mientras tanto, solo documentación y `src/` vacío | [`solicitud-autorizacion-docente.md`](../07-evidencias/solicitud-autorizacion-docente.md) documenta el envío del enlace, no una respuesta | Pendiente de autorización | Alex |
 | 10 | Se exponen datos personales o un secreto | R7 | Datos reales en pruebas sin consentimiento; claves en el repo | No pedir datos personales, aviso y consentimiento, `.env` fuera del repo | `.gitignore` excluye `.env`; D6 por ratificar | Evidencia parcial, revisión pendiente | Nelson |
 | 11 | Las respuestas varían por modelo o sube el costo de IA o del dólar | R8 | Variación entre ejecuciones; cambio de precios | Orden fijo de proveedores, plantillas iguales, límites por usuario, revisión mensual de costos | Ninguna | Propuesto, sin evidencia | Nelson |

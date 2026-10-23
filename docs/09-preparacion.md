@@ -1,6 +1,6 @@
 # Preparación para desarrollar
 
-Estado según la evidencia disponible en el repositorio al 22 de octubre de
+Estado según la evidencia disponible en el repositorio al 23 de octubre de
 2026. "No registrado" significa que no hay evidencia aquí, no necesariamente
 que el recurso o la actividad no exista. Las fechas propuestas que ya pasaron
 no demuestran que una tarea se haya realizado; el equipo debe reprogramar lo
@@ -20,7 +20,7 @@ pendiente.
 | Base de datos y política de retención | Decisión propuesta, sin ratificación documentada | Confirmar recursos y aprobar la decisión en acta |
 | Casos de referencia | Diez casos sintéticos documentados y un recálculo aritmético preliminar; revisión independiente y pruebas del sistema pendientes | Cristián debe recalcular por su cuenta y documentar su revisión si la realiza; usar casos reales solo con autorización y anonimización |
 | Horas semanales y reuniones | Propuestas, sin ratificación en acta | Confirmar en reunión y registrar el acuerdo |
-| Herramienta de tareas | Trello se menciona en el informe; no hay evidencia del tablero | Registrar enlace y captura en [`evidencia-organizacion.md`](07-evidencias/evidencia-organizacion.md) si el tablero existe |
+| Herramienta de tareas | Captura y enlace de invitación aportado para observar un tablero Trello con cinco listas y tarjetas en varios estados; no se verifican permisos, cobertura total, responsables ni fechas | Verificar las tareas planificadas, responsables y fechas en [`evidencia-organizacion.md`](07-evidencias/evidencia-organizacion.md) |
 | Protección de `main` y pull requests | No comprobada en la evidencia del repositorio | Verificar configuración y guardar captura, sin afirmar que está activa antes de comprobarlo |
 | Accesos y hosting | Plantilla de control creada, sin completar | Registrar únicamente recursos y permisos efectivamente comprobados en [`09-accesos-y-hosting.md`](09-accesos-y-hosting.md) |
 | Materia del proyecto | README e informe: Probabilidad y Estadística; cuestionario: Programación II - P2. No consta aclaración docente | Confirmar la materia con el docente (D15) |

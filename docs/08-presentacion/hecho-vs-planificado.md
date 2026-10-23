@@ -2,7 +2,7 @@
 
 Plantilla para preparar la presentación del 24 de octubre de 2026. El apartado
 "Hecho" refleja únicamente lo documentado en el repositorio al corte del
-22/10/2026; el equipo debe actualizarlo si reúne evidencia posterior.
+23/10/2026; el equipo debe actualizarlo si reúne evidencia posterior.
 
 ## Hechos documentados al corte
 
@@ -11,7 +11,8 @@ Plantilla para preparar la presentación del 24 de octubre de 2026. El apartado
 | Existe un informe final y documentación de requisitos, arquitectura, planificación y validación propuesta | Archivos enlazados desde el [README](../../README.md) |
 | El registro del 15/10/2026 documenta el envío del enlace al docente, pero no una respuesta escrita | [`solicitud-autorizacion-docente.md`](../07-evidencias/solicitud-autorizacion-docente.md) |
 | El acta 01 aún no contiene ratificación | [`acta-01-ratificacion.md`](../actas/acta-01-ratificacion.md) |
-| No hay entrevistas registradas | [`registro-entrevistas.md`](../07-evidencias/registro-entrevistas.md) |
+| Se aportaron ocho resúmenes anonimizados; faltan fichas completas, consentimiento y autorización documentada | [`registro-entrevistas.md`](../07-evidencias/registro-entrevistas.md) |
+| Existe evidencia visual de un tablero Trello con cinco listas y tarjetas en distintos estados | [`evidencia-organizacion.md`](../07-evidencias/evidencia-organizacion.md) |
 | El repositorio mantiene `src/` sin implementación | `src/.gitkeep` |
 
 ## Pendiente o propuesto
@@ -28,7 +29,7 @@ mantener estos elementos pendientes.
 | Cotizaciones | | |
 | Revisión independiente de casos de fórmulas | | |
 | Prueba de OmniRoute (requiere autorización) | | |
-| Tablero Trello y protección de `main` | | |
+| Cobertura del tablero Trello, responsables/fechas y protección de `main` | | |
 | Siguiente fecha acordada | | |
 
 ## Guion de exposición

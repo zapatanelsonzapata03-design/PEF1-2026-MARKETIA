@@ -11,11 +11,12 @@ reales.
 | [`consentimiento-informado.md`](consentimiento-informado.md) | Texto de consentimiento |
 | [`ficha-registro-entrevista.md`](ficha-registro-entrevista.md) | Ficha por entrevista |
 | [`plantilla-tabulacion.csv`](plantilla-tabulacion.csv) | Tabla para cargar respuestas |
-| [`registro-entrevistas.md`](registro-entrevistas.md) | Seis resúmenes reportados, anonimizados; consentimiento y fichas originales no aportados |
+| [`registro-entrevistas.md`](registro-entrevistas.md) | Ocho resúmenes reportados, anonimizados; consentimiento y fichas completas no aportados |
 | [`guion-cotizaciones.md`](guion-cotizaciones.md) | Cómo obtener 2 cotizaciones |
 | [`solicitud-autorizacion-docente.md`](solicitud-autorizacion-docente.md) | Borrador de solicitud y espacio para la respuesta |
 | [`registro-prueba-viabilidad.md`](registro-prueba-viabilidad.md) | Plantilla para la prueba de OmniRoute, solo tras autorización docente |
 | [`evidencia-organizacion.md`](evidencia-organizacion.md) | Registro de evidencia del tablero, GitHub y reuniones |
+| [`trello-tablero-2026-10-23.png`](trello-tablero-2026-10-23.png) | Captura del tablero Trello; evidencia de existencia, no de tareas completas ni protección de `main` |
 | [`../03-arquitectura/revision-formulas-borrador.md`](../03-arquitectura/revision-formulas-borrador.md) | Recálculo preliminar; no reemplaza revisión independiente |
 | [`../03-arquitectura/wireframe-borrador.md`](../03-arquitectura/wireframe-borrador.md) | Wireframe propuesto; revisión de diseño pendiente |
 | [`../09-accesos-y-hosting.md`](../09-accesos-y-hosting.md) | Plantilla de accesos, autorizaciones, costos y entorno; aún sin completar |
@@ -31,7 +32,8 @@ reales.
   calcularse con las fórmulas fijas antes de usarla como resultado.
 
 ## Evidencia por reunir
-- Capturas de Trello, de la protección de `main` en GitHub y de OmniRoute.
+- URL de consulta del tablero sin código de invitación y verificación de cobertura de tareas, responsables y fechas.
+- Captura de la protección de `main` en GitHub y evidencia adicional de OmniRoute.
 - Resultados agregados de entrevistas (sin datos personales).
 - Respuestas a solicitudes de cotización; las capturas actuales solo muestran consultas enviadas.
 - Registro de la prueba de viabilidad: fecha, modelo, tiempo, costo y resultado.

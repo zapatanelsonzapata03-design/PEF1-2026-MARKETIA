@@ -61,3 +61,19 @@ descartada según ese registro.
   como validación formal; ver
   [`registro-entrevistas.md`](../07-evidencias/registro-entrevistas.md) y
   [`guion-cotizaciones.md`](../07-evidencias/guion-cotizaciones.md).
+
+## 5. Información secundaria del INE
+
+Instituto Nacional de Estadística (INE). (s. f.). *Cuadro 6.01.01: Bolivia,
+serie histórica del producto interno bruto a precios constantes por año según
+actividad económica, 1980–2024* [hoja de cálculo; valores en miles de
+bolivianos de 1990, 2024 preliminar]. Archivo facilitado por el equipo y
+conservado en
+[`INE-cuadro-06-01-01-PIB-1980-2024.xlsx`](INE-cuadro-06-01-01-PIB-1980-2024.xlsx).
+La hoja identifica al INE como fuente, pero el archivo facilitado no indica
+URL ni fecha de publicación.
+
+Se utiliza únicamente para contextualizar la producción nacional de
+actividades relacionadas con comercio y servicios. Al ser un agregado
+macroeconómico nacional, no estima el número de clientes potenciales ni el
+tamaño del mercado objetivo de MarketIA en Cochabamba.

@@ -99,6 +99,32 @@ una hipótesis del equipo, no como resultado.
 Las referencias del informe están transcritas en
 [`referencias.md`](referencias.md), con el estado de verificación de cada una.
 
+## Información secundaria del INE: contexto económico
+
+El Cuadro 6.01.01 del INE presenta el PIB de Bolivia por actividad económica
+entre 1980 y 2024, a precios constantes y en miles de bolivianos de 1990. Para
+contextualizar los rubros relacionados con el usuario prioritario, la serie
+reporta:
+
+| Actividad económica | 2023 | 2024 (preliminar) |
+|---|---:|---:|
+| Comercio | 4.169.984,4 | 4.227.276,2 |
+| Servicios a las empresas | 1.559.674,4 | 1.600.373,5 |
+
+Valores en **miles de bolivianos de 1990**. La hoja marca los datos de 2024 con
+“(p)”, es decir, preliminares. La fuente de trabajo se conserva en
+[`INE-cuadro-06-01-01-PIB-1980-2024.xlsx`](INE-cuadro-06-01-01-PIB-1980-2024.xlsx).
+
+Estos datos describen producción económica agregada a escala nacional; sirven
+como contexto macroeconómico, pero **no cuantifican el mercado objetivo de
+MarketIA**. No indican cuántos emprendedores o microempresas de comercio y
+servicios existen en Cochabamba, cuántos necesitan este análisis ni cuánto
+estarían dispuestos a pagar. Por tanto, no se presentan como tamaño de mercado
+alcanzable (TAM, SAM o SOM) ni como evidencia de demanda. Para estimar ese
+mercado se requiere información desagregada de población o unidades económicas
+pertinentes y validación local; el plan y las limitaciones de esa validación
+están en [`../05-estadistica/plan-validacion.md`](../05-estadistica/plan-validacion.md).
+
 ## Valor esperado e indicadores
 
 El objetivo general del README plantea un informe de viabilidad en menos de

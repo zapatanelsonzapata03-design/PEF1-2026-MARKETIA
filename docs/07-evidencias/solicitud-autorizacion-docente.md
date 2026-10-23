@@ -32,4 +32,4 @@ Quedamos atentos. Muchas gracias.
 | Fecha | Medio | Respuesta (texto o captura) |
 |---|---|---|
 | 15/10/2026, 14:29 | WhatsApp, chat individual con el docente | Envío del enlace del repositorio. ![Captura del envío](docente-2026-10-15-envio-repositorio.jpeg) |
-| 15/10/2026, 14:52 | WhatsApp, grupo de la materia | "Equipo MARKETIA: NO APROBADO TODAVÍA. La idea es interesante pero le falta profundizar en los requisitos mínimos de aprobación; el repositorio debe poder superar el Cuestionario de madurez del proyecto que les pase" ![Captura de la respuesta](docente-respuesta-no-aprobado.jpeg) |
+

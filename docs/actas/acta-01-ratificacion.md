@@ -61,15 +61,15 @@ documento de requisitos. ¿Se aprueba esa regla? ( ) Sí ( ) No
 Enlace o archivo (captura de la videollamada o del chat): __________
 
 ## 5. Confirmación de los asistentes
-- Alex Vásquez Pérez: ( ) confirmado el ____/____
-- Nelson Zapata Jiménez: ( ) confirmado el ____/____
-- Cristián García Bustamante: ( ) confirmado el ____/____
+- Alex Vásquez Pérez: (si ) confirmado el 22/10/26
+- Nelson Zapata Jiménez: (si ) confirmado el 22/10/26
+- Cristián García Bustamante: (si ) confirmado el 22/10/26
 
 ## 6. Para copiar al registro de `docs/decisiones.md`
 
 | Fecha | IDs ratificados | Quiénes participaron | Evidencia |
 |---|---|---|---|
-| ____/10/2026 | (ej.: D1 a D9, D11 a D14) | (los que asistieron) | `docs/actas/acta-01-ratificacion.md` y captura en `docs/07-evidencias/` |
+| 22/10/2026 | (ej.: D1 a D9, D11 a D14) | Alex Vásquez Pérez, Nelson Zapata Jiménez y Cristián García Bustamante| `docs/actas/acta-01-ratificacion.md` y captura en `docs/07-evidencias/` |
 
 Cada integrante confirma por escrito (por ejemplo, un mensaje en el grupo,
 guardado como captura) que el acta refleja lo acordado.

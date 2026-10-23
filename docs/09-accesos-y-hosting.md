@@ -63,9 +63,9 @@ sistema ni a una medición del costo por informe.
 
 | Dato | Valor |
 |---|---|
-| Versión de Python | |
-| Versión de Node | |
-| Sistema operativo del equipo | |
+| Versión de Python |la ultima versión |
+| Versión de Node |la ultima versión |
+| Sistema operativo del equipo | windows |
 | Pasos para ejecutar la aplicación | No disponibles: desarrollo pendiente de autorización docente |
 | ¿Otro integrante pudo ejecutar la aplicación? | No registrado; todavía no hay aplicación en `src/` |
 

@@ -58,10 +58,11 @@ documento de requisitos. ¿Se aprueba esa regla? ( ) Sí ( ) No
 | Crear tablero de Trello y compartir enlace | Alex | 22/10/26|si |
 
 ## 4. Evidencia de la reunión
-Captura del chat de WhatsApp: [evidencia-coordinacion-reunion.png](evidencia-coordinacion-reunion.png).
-La imagen documenta la coordinación para realizar la reunión; por sí sola no
-confirma que se haya realizado ni acredita la fecha, la asistencia completa o
-los acuerdos tratados.
+Captura del chat de WhatsApp del 22/10/2026:
+[evidencia-coordinacion-reunion.png](evidencia-coordinacion-reunion.png).
+Muestra la coordinación para realizar la reunión y mensajes de disponibilidad
+de integrantes. Por sí sola no confirma que la reunión se haya realizado ni
+acredita la asistencia completa o los acuerdos tratados.
 
 ## 5. Confirmación de los asistentes
 - Alex Vásquez Pérez: (si ) confirmado el 22/10/26

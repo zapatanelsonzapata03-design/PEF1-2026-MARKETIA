@@ -3,10 +3,10 @@
 > Completar durante o después de la reunión. **No marcar acuerdos que no
 > ocurrieron.** Marcar con una X una sola casilla por decisión.
 
-- **Fecha y hora:** ____ de octubre de 2026, ____:____
-- **Medio:** videollamada / presencial
-- **Asistentes:** Alex Vásquez Pérez ( ) · Nelson Zapata Jiménez ( ) · Cristián García Bustamante ( )
-- **Modera:** Alex Vásquez Pérez · **Toma el acta:** __________
+- **Fecha y hora:** 22 de octubre de 2026, 23:00
+- **Medio:** videollamada
+- **Asistentes:** Alex Vásquez Pérez (si ) · Nelson Zapata Jiménez (si) · Cristián García Bustamante (si)
+- **Modera:** Alex Vásquez Pérez · **Toma el acta:** aprobado
 
 ## 1. Decisiones (detalle completo en `docs/decisiones.md`)
 

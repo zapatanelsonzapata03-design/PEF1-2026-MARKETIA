@@ -73,7 +73,7 @@ y las [respuestas razonadas](respuestas-cuestionario.md).
 | 39 | Documentado | [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md) | Confirmar tareas y responsables | Vie 16 oct |
 | 40 | Documentado | [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md) | Confirmar mitigaciones | Vie 16 oct |
 | 41 | Documentado | [Roles y acuerdos](../../equipo/roles-y-acuerdos.md) | Ratificar responsabilidades y respaldos | Vie 16 oct |
-| 42 | Captura acredita que existe un tablero Trello; flujo de revisión y protección de `main` no comprobados | [Roles y acuerdos](../../equipo/roles-y-acuerdos.md), [evidencia del tablero](../07-evidencias/evidencia-organizacion.md), [Decisiones](../decisiones.md) | Comprobar el flujo de revisión y adjuntar evidencia de la protección de `main` | Reprogramar |
+| 42 | Capturas muestran tablero y ajustes que requieren PR y una aprobación; no prueban que la regla aplique a `main` ni que haya revisiones individuales | [Roles y acuerdos](../../equipo/roles-y-acuerdos.md), [evidencia de organización](../07-evidencias/evidencia-organizacion.md), [Decisiones](../decisiones.md) | Verificar patrón activo para `main` y evidencia de revisión por otra persona | Reprogramar |
 | 43 | Documentado (8 riesgos, 3 principales marcados) | [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md), [Informe final](../01-proyecto/MarketIA_informe_final.pdf) | Ratificar prioridad | Vie 16 oct |
 | 44 | Documentado | [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md) | Asignar seguimiento | Vie 16 oct |
 | 45 | Documentado | [Roles y acuerdos](../../equipo/roles-y-acuerdos.md) | Ratificar respaldos | Vie 16 oct |
@@ -93,7 +93,7 @@ y las [respuestas razonadas](respuestas-cuestionario.md).
 - Tres casos de negocios reales para comparar con las fórmulas.
 - Acta de ratificación completada y confirmada por los tres integrantes.
 - Respuesta escrita del docente sobre autorización y materia; el repositorio registra el envío del enlace, pero no una respuesta.
-- Evidencia de cobertura del tablero Trello y captura de la protección de `main` (la captura actual acredita que el tablero existe, no su cobertura total).
+- Evidencia de cobertura del tablero Trello, aplicación de la regla a `main` y revisiones individuales de PR (las capturas actuales son parciales).
 - Proveedor de hosting elegido.
 
 ## Resumen de acciones por fecha

@@ -203,9 +203,9 @@ Alex: actas, calendario, referencias, informe y evidencias. Nelson: motor de cá
 Fuente: [`roles-y-acuerdos.md`](../../equipo/roles-y-acuerdos.md). **Estado:** Documentado; falta ratificar en el acta.
 
 **42. ¿Hay mecanismo acordado para revisar e integrar el trabajo?**
-Se proponen ramas por tarea, pull request con aprobación de otra persona, `main` protegida y revisión semanal los viernes. La captura acredita que existe un tablero Trello con listas y tarjetas; no acredita la protección de `main`, las aprobaciones entre personas ni que el flujo se aplique.
+Se proponen ramas por tarea, pull request con aprobación de otra persona, `main` protegida y revisión semanal los viernes. Una captura de ajustes muestra el requisito de PR y una aprobación, pero no el patrón de rama ni que la regla se aplique a `main`; otra captura muestra un listado de PR fusionadas, no revisiones individuales. La captura de Trello muestra listas y tarjetas, no que el flujo se aplique.
 La coordinación reporta que los integrantes aprobaron el paquete documental usando una cuenta; el repositorio no registra aprobaciones individuales de GitHub.
-Fuente: [`roles-y-acuerdos.md`](../../equipo/roles-y-acuerdos.md), [`reporte-aprobacion-documental.md`](../actas/reporte-aprobacion-documental.md), [`evidencia-organizacion.md`](../07-evidencias/evidencia-organizacion.md). **Estado:** Tablero evidenciado; mecanismo de revisión pendiente de comprobar.
+Fuente: [`roles-y-acuerdos.md`](../../equipo/roles-y-acuerdos.md), [`reporte-aprobacion-documental.md`](../actas/reporte-aprobacion-documental.md), [`evidencia-organizacion.md`](../07-evidencias/evidencia-organizacion.md). **Estado:** Capturas parciales; aplicación de la regla a `main` y revisiones individuales pendientes de comprobar.
 
 **43. ¿Cuáles son los tres riesgos que más podrían hacer fracasar o retrasar el proyecto?**
 R1: poco tiempo del equipo y alcance mayor al tiempo. R2: la IA se equivoca, inventa datos o responde con formato inválido. R3: poca gente quiere pagar o no se valida la necesidad.
@@ -230,8 +230,8 @@ Sí: el método para estimar la demanda (niveles bajo, medio, alto) aún no tien
 Fuente: [`alcance-mvp-y-requisitos.md`](../02-requisitos/alcance-mvp-y-requisitos.md). **Estado:** Documentado; pendiente de rúbrica.
 
 **48. ¿Falta alguna dependencia, permiso, acceso o recurso necesario para comenzar?**
-El repositorio no documenta autorización docente, hosting, cuentas ni acceso confirmado a OmniRoute; existe evidencia visual de un tablero Trello, pero la protección de `main` no está comprobada.
-Fuente: [`09-preparacion.md`](../09-preparacion.md), [`09-accesos-y-hosting.md`](../09-accesos-y-hosting.md), [`evidencia-organizacion.md`](../07-evidencias/evidencia-organizacion.md). **Estado:** Pendiente.
+El repositorio no documenta autorización docente, hosting, cuentas ni acceso confirmado a OmniRoute; las capturas muestran un tablero y ajustes de rama con requisitos de PR/aprobación, pero no permiten confirmar que la regla esté activa para `main`.
+Fuente: [`09-preparacion.md`](../09-preparacion.md), [`09-accesos-y-hosting.md`](../09-accesos-y-hosting.md), [`evidencia-organizacion.md`](../07-evidencias/evidencia-organizacion.md). **Estado:** Pendiente de verificar el alcance de la regla y los demás recursos.
 
 **49. Si mañana tuvieran que programar, ¿cada integrante sabría qué construir primero?**
 Sí, tras la autorización: Nelson, esqueleto de la API y motor de cálculos (B1, B2); Cristián, formulario (B4); Alex, coordinación, informe y evidencias.

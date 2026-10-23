@@ -21,7 +21,7 @@ pendiente.
 | Casos de referencia | Diez casos sintéticos documentados y un recálculo aritmético preliminar; revisión independiente y pruebas del sistema pendientes | Cristián debe recalcular por su cuenta y documentar su revisión si la realiza; usar casos reales solo con autorización y anonimización |
 | Horas semanales y reuniones | Propuestas, sin ratificación en acta | Confirmar en reunión y registrar el acuerdo |
 | Herramienta de tareas | Captura y enlace de invitación aportado para observar un tablero Trello con cinco listas y tarjetas en varios estados; no se verifican permisos, cobertura total, responsables ni fechas | Verificar las tareas planificadas, responsables y fechas en [`evidencia-organizacion.md`](07-evidencias/evidencia-organizacion.md) |
-| Protección de `main` y pull requests | No comprobada en la evidencia del repositorio | Verificar configuración y guardar captura, sin afirmar que está activa antes de comprobarlo |
+| Protección de `main` y pull requests | Captura de ajustes de rama muestra requisito de PR y una aprobación; no se ve el patrón ni que esté activo para `main`. La captura del listado no acredita revisiones individuales | Verificar el patrón y estado activo para `main`, y comprobar revisiones individuales antes de dar por cumplido el flujo |
 | Accesos y hosting | Plantilla de control creada, sin completar | Registrar únicamente recursos y permisos efectivamente comprobados en [`09-accesos-y-hosting.md`](09-accesos-y-hosting.md) |
 | Materia del proyecto | README e informe: Probabilidad y Estadística; cuestionario: Programación II - P2. No consta aclaración docente | Confirmar la materia con el docente (D15) |
 

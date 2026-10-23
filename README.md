@@ -99,7 +99,7 @@ Avance de las acciones que dependen del equipo y de terceros:
 - [ ] 10 casos de fórmulas revisados por una segunda persona
 - [ ] Prueba de viabilidad de OmniRoute, solo con autorización (`docs/07-evidencias/registro-prueba-viabilidad.md`)
 - [x] Evidencia visual de un tablero Trello (`docs/07-evidencias/trello-tablero-2026-10-23.png`)
-- [ ] Cobertura de tareas/responsables/fechas y protección de `main` (`docs/07-evidencias/evidencia-organizacion.md`)
+- [ ] Cobertura de tareas/responsables/fechas y verificación de que la regla de rama capturada está activa para `main` (`docs/07-evidencias/evidencia-organizacion.md`)
 
 Lo que no tiene casilla marcada **no está validado**. El desarrollo en `src/`
 empieza solo con una nueva autorización expresa del docente. Las tareas con

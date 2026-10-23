@@ -17,6 +17,8 @@ reales.
 | [`registro-prueba-viabilidad.md`](registro-prueba-viabilidad.md) | Plantilla para la prueba de OmniRoute, solo tras autorización docente |
 | [`evidencia-organizacion.md`](evidencia-organizacion.md) | Registro de evidencia del tablero, GitHub y reuniones |
 | [`trello-tablero-2026-10-23.png`](trello-tablero-2026-10-23.png) | Captura del tablero Trello; evidencia de existencia, no de tareas completas ni protección de `main` |
+| [`proteccion-main-2026-10-23.png`](proteccion-main-2026-10-23.png) | Captura de ajustes de rama donde se ve el requisito de pull request y una aprobación; el recorte no muestra el patrón de rama |
+| [`pull-request-revisado-2026-10-23.png`](pull-request-revisado-2026-10-23.png) | Captura del listado de pull requests cerrados; incluye PR #9 como fusionada, sin mostrar revisiones individuales |
 | [`../03-arquitectura/revision-formulas-borrador.md`](../03-arquitectura/revision-formulas-borrador.md) | Recálculo preliminar; no reemplaza revisión independiente |
 | [`../03-arquitectura/wireframe-borrador.md`](../03-arquitectura/wireframe-borrador.md) | Wireframe propuesto; revisión de diseño pendiente |
 | [`../09-accesos-y-hosting.md`](../09-accesos-y-hosting.md) | Plantilla de accesos, autorizaciones, costos y entorno; aún sin completar |
@@ -33,7 +35,8 @@ reales.
 
 ## Evidencia por reunir
 - URL de consulta del tablero sin código de invitación y verificación de cobertura de tareas, responsables y fechas.
-- Captura de la protección de `main` en GitHub y evidencia adicional de OmniRoute.
+- Evidencia adicional de OmniRoute y verificación de que la regla capturada se aplica a `main`.
+- Evidencia de revisión individual de PRs; el listado de PRs cerrados no muestra aprobaciones de revisión.
 - Resultados agregados de entrevistas (sin datos personales).
 - Respuestas a solicitudes de cotización; las capturas actuales solo muestran consultas enviadas.
 - Registro de la prueba de viabilidad: fecha, modelo, tiempo, costo y resultado.

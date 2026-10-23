@@ -3,10 +3,10 @@
 > Completar durante o después de la reunión. **No marcar acuerdos que no
 > ocurrieron.** Marcar con una X una sola casilla por decisión.
 
-- **Fecha y hora:** 22 de octubre de 2026, 23:00
-- **Medio:** videollamada
-- **Asistentes:** Alex Vásquez Pérez (si ) · Nelson Zapata Jiménez (si) · Cristián García Bustamante (si)
-- **Modera:** Alex Vásquez Pérez · **Toma el acta:** aprobado
+- **Fecha y hora reportadas:** 22 de octubre de 2026, 23:00 (la captura adjunta no acredita que la reunión se realizara)
+- **Medio reportado:** videollamada (pendiente de confirmar)
+- **Asistentes registrados:** Alex Vásquez Pérez · Nelson Zapata Jiménez · Cristián García Bustamante (la captura adjunta no acredita asistencia)
+- **Modera:** Alex Vásquez Pérez · **Toma el acta:** (por completar)
 
 ## 1. Decisiones (detalle completo en `docs/decisiones.md`)
 
@@ -48,14 +48,14 @@ documento de requisitos. ¿Se aprueba esa regla? ( ) Sí ( ) No
 
 | Tarea | Responsable | Fecha límite | Hecho |
 |---|---|---|:-:|
-| Enviar solicitud al docente | Alex | 22/10/26|si |
-| Aplicar entrevistas | Cristián y Alex | 22/10/26|si |
-| Pedir 2 cotizaciones | Alex | 22/10/26|si |
-| Verificar referencias | Alex | 22/10/26|si |
-| Revisar los 10 casos de fórmulas | Cristián | 22/10/26|si |
-| Prueba de viabilidad de OmniRoute (con autorización) | Nelson | 22/10/26|si |
-| Configurar protección de `main` | Nelson | 22/10/26|si |
-| Crear tablero de Trello y compartir enlace | Alex | 22/10/26|si |
+| Enviar solicitud formal al docente y registrar su respuesta | Alex | Por acordar | No (el envío del enlace del repositorio el 15/10 no acredita una solicitud formal ni respuesta) |
+| Aplicar entrevistas | Cristián y Alex | Por acordar | Parcial (8 resúmenes; faltan fichas completas y evidencia de consentimiento) |
+| Pedir 2 cotizaciones | Alex | Por acordar | Parcial (2 consultas enviadas el 22/10; sin respuestas; la referencia pública de TikTok no es una cotización) |
+| Verificar referencias | Alex | Por acordar | Parcial (Nelson registró la revisión; falta revisión por otra persona y corregir/delimitar el informe) |
+| Revisar los 10 casos de fórmulas | Cristián | Por acordar | No (no consta revisión independiente firmada) |
+| Prueba ampliada de viabilidad de OmniRoute (10 ideas, con autorización) | Nelson | Tras la autorización | Parcial (hay evidencia preliminar de un caso del 08/10; la prueba ampliada requiere autorización) |
+| Verificar protección de `main` | Nelson | Por acordar | Parcial (la captura no muestra el patrón de rama ni confirma que la regla esté activa para `main`) |
+| Crear tablero de Trello y compartir enlace | Alex | 22/10/26 | Sí |
 
 ## 4. Evidencia de la reunión
 Captura del chat de WhatsApp del 22/10/2026:
@@ -77,3 +77,9 @@ acredita la asistencia completa o los acuerdos tratados.
 
 Cada integrante confirma por escrito (por ejemplo, un mensaje en el grupo,
 guardado como captura) que el acta refleja lo acordado.
+
+> Nota de revisión (23/10/2026): los estados de los compromisos se ajustaron a
+> la evidencia registrada en el repositorio. La captura adjunta muestra
+> coordinación y disponibilidad para reunirse; no demuestra que la reunión se
+> realizara ni acredita por sí sola su fecha, asistencia o acuerdos. Completar
+> esos datos con evidencia real si corresponde.

@@ -27,7 +27,7 @@
 | 20, 21, 24 | ✅ | Recorte del 40 %, MVP v1.0 y versiones posteriores separadas |
 | 22 | 🟡 | El valor del MVP no se ha probado con usuarios |
 | 23 | 🟡 | Hitos 40 % / 80 % / 100 % definidos, pero dependen de la autorización docente |
-| 25 | 🟡 | Sin evidencia de experiencia ni prueba previa con FastAPI, React, PostgreSQL y OmniRoute |
+| 25 | 🟡 | Hay evidencia preliminar de un caso con OmniRoute; no hay evidencia de experiencia ni prueba con FastAPI, React o PostgreSQL, ni una validación de viabilidad completa |
 | 26–28 | ✅ | Riesgos técnicos, prueba de viabilidad planificada con umbrales, justificación de tecnologías |
 | 29 | 🟡 | Hosting no elegido; `09-accesos-y-hosting.md` sin completar |
 | 30 | 🟡 | Dos contratos API en competencia; se propone D16 (`POST /analisis`) y falta ratificar |
@@ -40,9 +40,9 @@
 | 38 | ✅ | Columna "Depende de" completa en el plan |
 | 41, 43–45 | ✅ | Roles, tres riesgos principales, mitigaciones y respaldos entre integrantes |
 | 42 | 🟡 | Flujo acordado, pero la captura no prueba que la regla aplique a `main` ni hay revisiones individuales |
-| 46 | ❌ | Acta 01 en blanco; D1–D16 sin ratificar; sin respuesta escrita del docente; materia sin confirmar (D15) |
+| 46 | ❌ | El acta marca D1–D14 como aprobadas según el registro del equipo, pero la captura disponible solo muestra coordinación y no acredita la reunión ni los acuerdos. D15 sigue pendiente de confirmación docente; D16 no está ratificada y no consta respuesta escrita del docente |
 | 47 | ✅ | Identifica el requisito que no domina (método de demanda) y su mitigación |
-| 48 | ❌ | Sin autorización docente, hosting, cuentas ni acceso confirmado a OmniRoute |
+| 48 | ❌ | Sin autorización docente ni hosting seleccionado; la evidencia de una interacción preliminar con OmniRoute no confirma acceso vigente ni satisface los requisitos de autorización |
 | 49, 50 | ✅ | `09-preparacion.md` y README dicen qué construir primero y qué es el MVP |
 | 51 | ✅ | Diez condiciones de fracaso |
 | 52 | 🟡 | Controles propuestos, sin comprobar |
@@ -52,6 +52,7 @@
 - Referencias: el registro atribuido a Nelson del 22/10 ya estaba en `verificacion-referencias.md`, pero `referencias.md`, el resumen del problema y el README no estaban sincronizados. Se actualizaron para reflejar ese registro, sin presentarlo como verificación independiente. La atribución del 70 % a microempresas informales no coincide con la fuente según ese registro; no hay soporte para la generalización del costo de estudios profesionales, el idioma/precio de herramientas de IA ni el tipo de cambio de Bs 12. Deben corregirse o delimitarse y revisarse por otra persona.
 - Se corrigió el texto desactualizado que decía que no había ninguna evidencia local.
 - Se agregó la propuesta D16 (contrato único `POST /analisis`) a `decisiones.md` y al acta, para cerrar la duplicidad de contratos de la pregunta 30.
+- Se corrigieron los estados de los compromisos del acta según la evidencia disponible. La captura de WhatsApp respalda coordinación, no la realización de la reunión ni sus acuerdos.
 
 No se modificó `src/` (la preparación no exige código y no hay autorización) ni el PDF del informe.
 

@@ -23,7 +23,7 @@
 | 9 | El docente no autoriza a tiempo | R6 | No consta respuesta escrita a la solicitud | Registrar solicitud y respuesta; mientras tanto, solo documentación y `src/` vacío | [`solicitud-autorizacion-docente.md`](../07-evidencias/solicitud-autorizacion-docente.md) documenta el envío del enlace, no una respuesta | Pendiente de autorización | Alex |
 | 10 | Se exponen datos personales o un secreto | R7 | Datos reales en pruebas sin consentimiento; claves en el repo | No pedir datos personales, aviso y consentimiento, `.env` fuera del repo | `.gitignore` excluye `.env`; D6 por ratificar | Evidencia parcial, revisión pendiente | Nelson |
 | 11 | Las respuestas varían por modelo o sube el costo de IA o del dólar | R8 | Variación entre ejecuciones; cambio de precios | Orden fijo de proveedores, plantillas iguales, límites por usuario, revisión mensual de costos | Ninguna | Propuesto, sin evidencia | Nelson |
-| 12 | Las referencias del informe no se sostienen (enlaces rotos o cifras que no coinciden) | R3 | Enlace que no abre; cifra distinta a la fuente | Verificar las 9 fuentes y corregir o quitar lo que no tenga respaldo | [`verificacion-referencias.md`](verificacion-referencias.md) sin completar | Propuesto, sin evidencia | Alex |
+| 12 | Las referencias del informe no se sostienen (enlaces rotos o cifras que no coinciden) | R3 | Enlace que no abre; cifra distinta a la fuente | Verificar las 9 fuentes y corregir o quitar lo que no tenga respaldo | Nelson reportó que los nueve enlaces abren; la revisión documenta dos afirmaciones por corregir y una segunda revisión pendiente en [`verificacion-referencias.md`](verificacion-referencias.md) | Evidencia parcial, revisión pendiente | Alex |
 
 ## Cómo se actualiza esta tabla
 

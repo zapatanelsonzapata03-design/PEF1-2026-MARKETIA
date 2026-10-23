@@ -12,9 +12,10 @@ Un estudio de viabilidad profesional puede ser caro y demorar días, así que la
 persona decide sin un análisis claro. MarketIA ayuda a estimar cuánto necesita
 vender para cubrir sus costos y qué riesgos debería revisar.
 
-Las cifras de fracaso e informalidad del informe provienen de Los Tiempos
-(2026) y López Castro et al. (2026); están transcritas en
-[`referencias.md`](docs/01-proyecto/referencias.md) y fueron verificadas.
+Las cifras de fracaso e informalidad provienen de Los Tiempos (2026). La cifra
+de microempresas informales atribuida a López Castro et al. (2026) no coincide
+con la fuente y queda pendiente de corrección (ver
+[`referencias.md`](docs/01-proyecto/referencias.md)).
 
 ## Objetivo general
 Generar para un negocio en Cochabamba un informe de viabilidad con FODA,
@@ -62,13 +63,13 @@ Código y revisiones en GitHub.
 
 ## Cómo empezar: lectura recomendada
 1. [`docs/01-proyecto/`](docs/01-proyecto/resumen-del-problema.md): problema, evidencia y [referencias](docs/01-proyecto/referencias.md).
-2. [`docs/decisiones.md`](docs/decisiones.md): decisiones D1 a D15 y estado de ratificación.
+2. [`docs/decisiones.md`](docs/decisiones.md): decisiones D1 a D16 y estado de ratificación.
 3. [`docs/02-requisitos/`](docs/02-requisitos/alcance-mvp-y-requisitos.md): alcance, MVP, requisitos y [objetivos](docs/02-requisitos/objetivos.md).
 4. [`docs/03-arquitectura/`](docs/03-arquitectura/arquitectura-inicial.md): diseño, datos, seguridad y [pruebas](docs/03-arquitectura/datos-seguridad-pruebas.md).
 5. [`docs/04-planificacion/`](docs/04-planificacion/plan-desarrollo-y-riesgos.md): Gantt, sprints, horas y riesgos.
 6. [`docs/05-estadistica/`](docs/05-estadistica/plan-validacion.md): validación y [resultados](docs/05-estadistica/resultados.md).
 7. [`docs/07-evidencias/`](docs/07-evidencias/README.md): entrevistas, cotizaciones y evidencias.
-8. [`docs/06-auditoria/`](docs/06-auditoria/cuestionario-aprobacion.md): [matriz de 52 preguntas](docs/06-auditoria/cuestionario-aprobacion.md), [respuestas razonadas](docs/06-auditoria/respuestas-cuestionario.md) y [prueba de fracaso](docs/06-auditoria/prueba-de-fracaso-tabla.md).
+8. [`docs/06-auditoria/`](docs/06-auditoria/cuestionario-aprobacion.md): [matriz de 52 preguntas](docs/06-auditoria/cuestionario-aprobacion.md), [respuestas razonadas](docs/06-auditoria/respuestas-cuestionario.md), [revisión preliminar](docs/06-auditoria/revision-preliminar-2026-10-23.md) y [prueba de fracaso](docs/06-auditoria/prueba-de-fracaso-tabla.md).
 9. Diseño: [wireframe propuesto](docs/03-arquitectura/wireframe-borrador.md), [borrador de recálculo de fórmulas](docs/03-arquitectura/revision-formulas-borrador.md) y [sección de viabilidad técnica](docs/03-arquitectura/seccion-6-diseno-viabilidad-tecnica.md).
 10. [Accesos y hosting](docs/09-accesos-y-hosting.md), [`docs/09-preparacion.md`](docs/09-preparacion.md), [ruta de cierre](docs/04-planificacion/plan-de-cierre-y-ruta-a-la-aprobacion.md), [`docs/08-presentacion/`](docs/08-presentacion/README.md) y [reporte de aprobación del equipo](docs/actas/reporte-aprobacion-documental.md).
 
@@ -93,7 +94,7 @@ Avance de las acciones que dependen del equipo y de terceros:
 
 - [ ] Acta 01 completada (`docs/actas/acta-01-ratificacion.md`)
 - [ ] Autorización docente para el desarrollo y la prueba técnica (`docs/07-evidencias/solicitud-autorizacion-docente.md`)
-- [ ] Referencias verificadas (`docs/06-auditoria/verificacion-referencias.md`)
+- [x] Nelson reportó revisión de enlaces y afirmaciones el 22/10/2026; quedan correcciones/delimitaciones y revisión por otra persona (`docs/06-auditoria/verificacion-referencias.md`)
 - [ ] Entrevistas: ocho resúmenes reportados y anonimizados; faltan fichas completas, consentimiento y verificación (`docs/07-evidencias/registro-entrevistas.md`)
 - [ ] Cotizaciones obtenidas: __ de 2
 - [ ] 10 casos de fórmulas revisados por una segunda persona

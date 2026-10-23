@@ -14,12 +14,15 @@ mantienen como propuestas hasta que el equipo las ratifique.
 - El registro del 15/10/2026 documenta el envío del enlace del repositorio al
   docente, pero no una respuesta escrita ni autorización para entrevistas, la
   prueba de OmniRoute o el desarrollo.
-- El acta de ratificación está en blanco y las decisiones D1–D15 siguen
-  pendientes de ratificación.
-- En el repositorio no están registradas entrevistas, cotizaciones, capturas
-  del tablero o de la protección de `main`, ni resultados de la prueba técnica.
-- Las referencias y afirmaciones del informe continúan pendientes de
-  verificación. La sospecha sobre dos URLs no equivale a una revisión.
+- El acta de ratificación está en blanco y las decisiones D1–D16 siguen
+  pendientes de ratificación; D16 es una propuesta añadida para el contrato API.
+- Hay ocho resúmenes de entrevista reportados, capturas de solicitudes de
+  cotización, del tablero Trello y de ajustes de rama; siguen pendientes las
+  fichas completas y consentimientos, cotizaciones recibidas, verificación de
+  tareas y alcance de la regla de `main`.
+- Nelson reportó la apertura de los nueve enlaces y el contraste de las
+  afirmaciones; hay correcciones/delimitaciones para el PDF y una revisión por
+  otra persona sigue pendiente.
 - `src/` debe permanecer sin código hasta recibir autorización escrita para
   desarrollar.
 
@@ -37,15 +40,16 @@ completarlas, registrar solo hechos comprobables:
 2. **Docente:** el equipo decide si presenta una solicitud formal. Registrar
    cualquier respuesta recibida; no inferir autorización por el envío del
    enlace ni por silencio.
-3. **Fuentes y cifras:** verificar cada enlace, cifra y población; registrar
-   fecha, persona y ubicación de la evidencia en
+3. **Fuentes y cifras:** aplicar las correcciones/delimitaciones identificadas
+   al PDF y solicitar una revisión por otra persona; registrar el resultado en
    [`verificacion-referencias.md`](../06-auditoria/verificacion-referencias.md).
 4. **Validación:** entrevistas, cotizaciones, revisión de casos y prueba de
    OmniRoute solo se reportan si se realizaron de verdad y con los permisos
    necesarios. Conservar la plantilla de OmniRoute sin completar mientras no
    esté autorizada.
-5. **Organización:** agregar enlace/capturas de Trello, protección de `main` y
-   pull requests únicamente después de verificar esos datos.
+5. **Organización:** las capturas de Trello y de ajustes de rama ya están
+   registradas; verificar cobertura de tareas y que la regla se aplique a
+   `main` antes de afirmar que esos controles están configurados.
 6. **Materiales:** usar el formato
    [`hecho-vs-planificado.md`](../08-presentacion/hecho-vs-planificado.md) y
    las seis diapositivas para separar evidencia, propuestas y pendientes.

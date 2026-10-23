@@ -59,8 +59,11 @@ alternativas han sido descartadas por los usuarios.
 El README original atribuye cifras sobre fracaso de emprendimientos e
 informalidad a Los Tiempos (2026) y López Castro et al. (2026), y afirma que
 los estudios profesionales cuestan cientos de dólares y demoran días. Las
-referencias del informe ya están transcritas en `referencias.md` y falta
-verificarlas; las cotizaciones y la evidencia local todavía no constan.
+referencias fueron revisadas por Nelson el 22/10/2026: los nueve enlaces abren,
+las cifras de Los Tiempos coinciden y la cifra de microempresas informales
+atribuida a López Castro et al. **no coincide** y debe quitarse o reformularse
+(ver `referencias.md`). Las cotizaciones siguen sin respuesta y la evidencia
+local son ocho resúmenes sin fichas ni consentimiento verificables.
 
 Plan de evidencia propuesto:
 

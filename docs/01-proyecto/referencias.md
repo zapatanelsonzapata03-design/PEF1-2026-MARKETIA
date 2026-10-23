@@ -2,11 +2,14 @@
 
 Las referencias de esta página provienen del **informe final**
 ([`MarketIA_informe_final.pdf`](MarketIA_informe_final.pdf), sección
-"Referencias" y Anexo A). Figuran con los datos que trae el informe. **Falta
-verificar que cada enlace abra y que la cifra citada aparezca realmente en la
-fuente**; hasta entonces no deben presentarse como respaldo comprobado.
+"Referencias" y Anexo A). Figuran con los datos que trae el informe. **Estado al
+22/10/2026:** Nelson comprobó que los nueve enlaces abren y contrastó las
+afirmaciones del informe (ver
+[`verificacion-referencias.md`](../06-auditoria/verificacion-referencias.md)).
+Hay afirmaciones marcadas para corregir o delimitar y falta revisión por otra
+persona; hasta entonces no se presentan como respaldo comprobado.
 
-## 1. Lista de referencias 
+## 1. Lista de referencias
 
 | N.º | Referencia | Dónde se usa en el informe | Verificada (fecha y quién) |
 |---:|---|---|---|
@@ -20,23 +23,22 @@ fuente**; hasta entonces no deben presentarse como respaldo comprobado.
 | 8 | Shopify. (2026). *Cómo usar la IA en investigación de mercados.* https://www.shopify.com/es/blog/ia-investigacion-de-mercados | Secciones 3 y 5 | verificado por nelson el 22/10/26 |
 | 9 | Thunderbit. (2025). *Top 15 mejores herramientas de IA para investigación de mercados en 2026.* https://thunderbit.com/es/blog/best-ai-for-market-research | Secciones 3 y 5 | verificado por nelson el 22/10/26 |
 
-Al verificar, agregar la fecha de consulta ("Consultado el DD/MM/2026") a cada
-referencia. Algunos enlaces parecen tener guiones faltantes en la dirección
-(por ejemplo, el de Los Tiempos y el de Shopify); si no abren, buscar el título
-y corregir la dirección.
+Fecha de consulta de las nueve referencias: 22/10/2026 (Nelson). Los enlaces
+abren; la sospecha previa sobre guiones faltantes (Los Tiempos y Shopify) queda
+descartada según ese registro.
 
 ## 2. Afirmaciones del informe y su respaldo
 
 | Afirmación | Fuente indicada | Estado | Acción |
 |---|---|---|---|
-| Alrededor de 7 de cada 10 emprendimientos fracasan en Bolivia. | Los Tiempos (2026) | Sin verificar | Leer la nota y copiar la cifra textual y a qué población se refiere. |
-| Cerca del 78,5 % de la actividad económica es informal. | Los Tiempos (2026) | Sin verificar | Confirmar que la cifra está en la nota; el README anterior no la incluía. |
-| Alrededor del 70 % de las microempresas son informales, lo que dificulta créditos y asesoría. | López Castro et al. (2026) | Sin verificar | Confirmar en el artículo (página o sección). |
-| Un estudio profesional cuesta varios cientos de dólares y demora días o semanas. | Ninguna | **Sin fuente** | Obtener 2 cotizaciones reales con [`guion-cotizaciones.md`](../07-evidencias/guion-cotizaciones.md); si no se obtienen, reformular como "estimación del equipo". |
-| Las herramientas de IA extranjeras están en inglés y se pagan en dólares. | Kimi AI, Delve AI, Thunderbit, Shopify | Fuentes comerciales | Verificar con 2 o 3 herramientas concretas (captura de idioma y precio) o suavizar la frase. |
+| Alrededor de 7 de cada 10 emprendimientos fracasan en Bolivia. | Los Tiempos (2026) | Verificada por Nelson (22/10/2026): la nota habla de 70 % / unos siete de cada diez | Mantener. |
+| Cerca del 78,5 % de la actividad económica es informal. | Los Tiempos (2026) | Verificada por Nelson (22/10/2026): cifra atribuida al CEES en la nota | Mantener; citar al CEES como origen. |
+| Alrededor del 70 % de las microempresas son informales, lo que dificulta créditos y asesoría. | López Castro et al. (2026) | **No coincide** (verificación 22/10/2026): el artículo no da ese dato para microempresas | **Quitar la afirmación o reformularla** con la cifra real de la fuente; no atribuirla a López Castro et al. Corregir también el informe PDF. |
+| Un estudio profesional cuesta varios cientos de dólares y demora días o semanas. | Ninguna | **Sin cotizaciones recibidas**; los importes de entrevistas son declaraciones no verificadas | Obtener 2 cotizaciones reales con [`guion-cotizaciones.md`](../07-evidencias/guion-cotizaciones.md); si no se obtienen, quitar la generalización o identificar claramente la declaración reportada. |
+| Las herramientas de IA extranjeras están en inglés y se pagan en dólares. | Kimi AI, Delve AI, Thunderbit, Shopify | Fuentes comerciales; no se documentó revisión de idiomas y precios de servicios concretos | Verificar 2 o 3 herramientas concretas (captura de idioma y precio) o quitar la generalización. |
 | Las IAs cobran por cantidad de texto procesado. | Google (2026); eesel AI (2026) | Sin verificar | Citar la página de precios de Google (fuente primaria) y dejar eesel solo como apoyo. |
 | OmniRoute es gratuito, de código abierto y reparte las consultas entre varios proveedores. | OmniRoute (2026) | Sin verificar | Revisar el repositorio (licencia, funcionamiento) y los términos de cada proveedor gratuito. |
-| Tipo de cambio de Bs 12 por dólar, "valor actual que maneja el equipo". | Ninguna | **Sin fuente** | Citar fuente y fecha, e indicar si es tipo de cambio oficial o paralelo. |
+| Tipo de cambio de Bs 12 por dólar, "valor actual que maneja el equipo". | Ninguna | Sin fuente ni fecha que respalde Bs 12 o la comparación con el valor oficial | **Corregir o quitar**; no presentar valores como hechos hasta documentar fuente y fecha. |
 
 ## 3. Calidad de las fuentes
 
@@ -53,5 +55,7 @@ y corregir la dirección.
   [`registro-entrevistas.md`](../07-evidencias/registro-entrevistas.md).
 - Cotizaciones de estudios de viabilidad:
   [`guion-cotizaciones.md`](../07-evidencias/guion-cotizaciones.md).
-- Ninguna de estas evidencias se ha recopilado todavía. No se presentan
-  resultados hasta que existan.
+- Hay ocho resúmenes de entrevistas reportados (sin fichas completas ni
+  consentimiento verificable) y dos solicitudes de cotización sin respuesta.
+  No se presentan como validación formal; ver
+  [`registro-entrevistas.md`](../07-evidencias/registro-entrevistas.md).

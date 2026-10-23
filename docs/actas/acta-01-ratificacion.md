@@ -27,6 +27,7 @@
 | D13 | Muestras: 8 a 10 entrevistas, 5 de usabilidad, 30 en la prueba piloto (ideal 43) |si | | | |
 | D14 | Herramientas: Trello, GitHub, Drive y WhatsApp |si | | | |
 | D15 | Confirmar con el docente la materia (Probabilidad y Estadística o Programación II - P2) | | | | a espera de la confirmacion|
+| D16 | Contrato API único del MVP: `POST /analisis` y `GET /health`; endpoints separados quedan para v1.1 | | | | |
 
 ## 2. Acuerdos de trabajo (ver `equipo/roles-y-acuerdos.md`)
 

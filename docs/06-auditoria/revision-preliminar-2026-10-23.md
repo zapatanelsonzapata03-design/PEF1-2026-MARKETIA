@@ -23,7 +23,7 @@
 | 6 | 🟡 | Adecuación de la solución sin validar con usuarios (nadie vio el wireframe) |
 | 7–10 | ✅ | OE1–OE6 medibles, con trazabilidad y plan de validación |
 | 11–18 | ✅ | RF-01 a RF-05, criterios dado/cuando/entonces, RNF-01 a RNF-07, alcance y exclusiones |
-| 19 | 🟡 | 112 h frente a 138 h disponibles, pero las horas no están confirmadas por cada integrante; Cristián al límite |
+| 19 | 🟡 | 112 h de tareas estimadas; disponibilidad reportada de 3 h por persona al día. Faltan días laborables semanales para calcular capacidad y margen; requiere ratificación |
 | 20, 21, 24 | ✅ | Recorte del 40 %, MVP v1.0 y versiones posteriores separadas |
 | 22 | 🟡 | El valor del MVP no se ha probado con usuarios |
 | 23 | 🟡 | Hitos 40 % / 80 % / 100 % definidos, pero dependen de la autorización docente |

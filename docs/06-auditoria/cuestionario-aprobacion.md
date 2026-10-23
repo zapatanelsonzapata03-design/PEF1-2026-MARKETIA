@@ -52,7 +52,7 @@ y las [respuestas razonadas](respuestas-cuestionario.md).
 | 16 | Documentado | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md), [Decisiones](../decisiones.md) | Ratificar D2 | Vie 16 oct |
 | 17 | Documentado | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md), [Decisiones](../decisiones.md) | Ratificar D5 | Vie 16 oct |
 | 18 | Documentado | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md) | Ratificar priorización | Vie 16 oct |
-| 19 | Documentado; falta confirmar disponibilidad | [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md), [Roles y acuerdos](../../equipo/roles-y-acuerdos.md) | Confirmar horas (21 h fase A; 8 h semanales) en el acta | Vie 16 oct |
+| 19 | Documentado; falta confirmar disponibilidad y días de trabajo | [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md), [Roles y acuerdos](../../equipo/roles-y-acuerdos.md) | Confirmar 21 h en fase A, 3 h por día en fase B y cuántos días por semana en el acta | Reprogramar |
 | 20 | Documentado | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md) | Ratificar el recorte del 40 % | Vie 16 oct |
 | 21 | Documentado; falta ratificar D2 | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md), [Decisiones](../decisiones.md) | Ratificar con el equipo y el docente | Vie 16 oct |
 | 22 | Un resumen expresa interés en una suscripción accesible, sin monto; disposición de pago no medida | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md), [Registro anonimizado](../07-evidencias/registro-entrevistas.md) | Completar fichas y documentar respuestas de pago sin atribuir montos no declarados | Reprogramar |

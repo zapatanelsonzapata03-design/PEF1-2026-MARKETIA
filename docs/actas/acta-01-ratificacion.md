@@ -34,12 +34,12 @@
 | Punto | Propuesta | Resultado acordado |
 |---|---|---|
 | Horas por persona, fase A (hasta el 24 oct) | 21 horas | |
-| Horas por semana por persona, fase B | 8 horas | |
+| Disponibilidad por persona, fase B | 3 horas por día | |
 | Reuniones | lunes, miércoles y viernes, 20:00 a 20:45, videollamada | |
 | Planificación y cierre de sprint | lunes (inicio) y viernes de la 2.ª semana (cierre), 60 min | |
-| Disponibilidad real de Alex |3horas |realizado |
-| Disponibilidad real de Nelson |3horas |realizado |
-| Disponibilidad real de Cristián |3horas |realizado |
+| Disponibilidad real de Alex |3 horas por día |reportado |
+| Disponibilidad real de Nelson |3 horas por día |reportado |
+| Disponibilidad real de Cristián |3 horas por día |reportado |
 
 Si alguien no puede cumplir las horas, se aplica el recorte del 40 % del
 documento de requisitos. ¿Se aprueba esa regla? ( ) Sí ( ) No

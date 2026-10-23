@@ -101,7 +101,7 @@ Sí: chat con asesor IA, comparación de varias ideas, gráficos animados, proye
 Fuente: ídem. **Estado:** Documentado.
 
 **19. ¿El alcance es realista según tiempo, conocimientos y recursos?**
-Estimación: 112 h de trabajo en la fase B frente a 138 h disponibles si cada integrante da 8 h semanales (margen ≈ 23 %). Las horas son una propuesta; cada integrante debe confirmarlas en el acta. Cristián queda ajustado (44 h para 46 h de capacidad individual).
+Estimación: 112 h de tareas en la fase B. La disponibilidad reportada es de 3 h por persona al día, pero faltan los días de trabajo por semana y el reparto entre reuniones y trabajo individual. No puede calcularse aún la capacidad total ni el margen; la comparación anterior con 138 h suponía 8 h semanales por persona y queda reemplazada. La estimación de tareas y la disponibilidad deben ratificarse en el acta.
 Fuente: [`plan-desarrollo-y-riesgos.md`](../04-planificacion/plan-desarrollo-y-riesgos.md), [`roles-y-acuerdos.md`](../../equipo/roles-y-acuerdos.md). **Estado:** Documentado; falta confirmar disponibilidad.
 
 **20. Si redujeran el proyecto 40 %, ¿qué conservarían y qué eliminarían?**

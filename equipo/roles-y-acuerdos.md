@@ -27,20 +27,22 @@ repositorio e informe digan lo mismo, se propone corregir el informe:
 | Tabla de pruebas: "De fórmulas" | Cristián | Nelson, con revisión de Cristián |
 | Tabla de pruebas: "De facilidad de uso" | Nelson | Cristián |
 
-## 2. Horas semanales (propuesta)
+## 2. Disponibilidad (propuesta)
 
 | Periodo | Compromiso por persona | Qué incluye |
 |---|---|---|
 | Fase A: 15 al 24 de octubre | **21 horas** en total (≈ 16 h por semana, intensivo) | Tareas de la fase A (15 a 18 h según la persona) y 4 reuniones |
-| Fase B: 26 de octubre al 19 de diciembre | **8 horas por semana** | 2,25 h de reuniones y 5,75 h de trabajo individual |
+| Fase B: 26 de octubre al 19 de diciembre | **3 horas por día** | Días de trabajo por semana y distribución entre reuniones y trabajo individual, pendientes de confirmar |
 
-Cálculo de capacidad en la fase B (8 semanas): 3 personas × 8 h × 8 semanas =
-192 h; reuniones: 54 h; **trabajo disponible: 138 h**. Trabajo estimado: 112 h.
-Margen: 26 h (≈ 23 %), que se reserva para correcciones. Si alguien no puede
-cumplir estas horas, se aplica el recorte del 40 % del
-[documento de requisitos](../docs/02-requisitos/alcance-mvp-y-requisitos.md).
+La estimación de tareas de la fase B es de **112 h**. La disponibilidad de 3 h
+por día es una propuesta reportada; falta confirmar cuántos días por semana
+trabajará cada persona y cuánto tiempo se destinará a reuniones. Por eso, la
+capacidad total y el margen frente a las 112 h aún no se pueden calcular. El
+cálculo anterior que suponía 8 h semanales por persona queda reemplazado. Si
+alguien no puede cumplir las horas que se ratifiquen, se aplica el recorte del
+40 % del [documento de requisitos](../docs/02-requisitos/alcance-mvp-y-requisitos.md).
 
-Estas cifras son un compromiso propuesto, no un dato de disponibilidad real.
+Estas cifras son propuestas y deben confirmarse en el acta.
 Cada integrante debe confirmarlas o corregirlas en el acta.
 
 ## 3. Reuniones (propuesta)

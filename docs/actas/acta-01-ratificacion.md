@@ -3,10 +3,10 @@
 > Completar durante o después de la reunión. **No marcar acuerdos que no
 > ocurrieron.** Marcar con una X una sola casilla por decisión.
 
-- **Fecha y hora:** ____ de octubre de 2026, ____:____
-- **Medio:** videollamada / presencial
-- **Asistentes:** Alex Vásquez Pérez ( ) · Nelson Zapata Jiménez ( ) · Cristián García Bustamante ( )
-- **Modera:** Alex Vásquez Pérez · **Toma el acta:** __________
+- **Fecha y hora:** 22 de octubre de 2026, 23:00
+- **Medio:** videollamada
+- **Asistentes:** Alex Vásquez Pérez (si ) · Nelson Zapata Jiménez (si) · Cristián García Bustamante (si)
+- **Modera:** Alex Vásquez Pérez · **Toma el acta:** aprobado
 
 ## 1. Decisiones (detalle completo en `docs/decisiones.md`)
 
@@ -37,9 +37,9 @@
 | Horas por semana por persona, fase B | 8 horas | |
 | Reuniones | lunes, miércoles y viernes, 20:00 a 20:45, videollamada | |
 | Planificación y cierre de sprint | lunes (inicio) y viernes de la 2.ª semana (cierre), 60 min | |
-| Disponibilidad real de Alex | | |
-| Disponibilidad real de Nelson | | |
-| Disponibilidad real de Cristián | | |
+| Disponibilidad real de Alex |3horas |realizado |
+| Disponibilidad real de Nelson |3horas |realizado |
+| Disponibilidad real de Cristián |3horas |realizado |
 
 Si alguien no puede cumplir las horas, se aplica el recorte del 40 % del
 documento de requisitos. ¿Se aprueba esa regla? ( ) Sí ( ) No
@@ -48,14 +48,14 @@ documento de requisitos. ¿Se aprueba esa regla? ( ) Sí ( ) No
 
 | Tarea | Responsable | Fecha límite | Hecho |
 |---|---|---|:-:|
-| Enviar solicitud al docente | Alex | | |
-| Aplicar entrevistas | Cristián y Alex | | |
-| Pedir 2 cotizaciones | Alex | | |
-| Verificar referencias | Alex | | |
-| Revisar los 10 casos de fórmulas | Cristián | | |
-| Prueba de viabilidad de OmniRoute (con autorización) | Nelson | | |
-| Configurar protección de `main` | Nelson | | |
-| Crear tablero de Trello y compartir enlace | Alex | | |
+| Enviar solicitud al docente | Alex | 22/10/26|si |
+| Aplicar entrevistas | Cristián y Alex | 22/10/26|si |
+| Pedir 2 cotizaciones | Alex | 22/10/26|si |
+| Verificar referencias | Alex | 22/10/26|si |
+| Revisar los 10 casos de fórmulas | Cristián | 22/10/26|si |
+| Prueba de viabilidad de OmniRoute (con autorización) | Nelson | 22/10/26|si |
+| Configurar protección de `main` | Nelson | 22/10/26|si |
+| Crear tablero de Trello y compartir enlace | Alex | 22/10/26|si |
 
 ## 4. Evidencia de la reunión
 Captura del chat de WhatsApp: [evidencia-coordinacion-reunion.png](evidencia-coordinacion-reunion.png).
@@ -64,15 +64,15 @@ confirma que se haya realizado ni acredita la fecha, la asistencia completa o
 los acuerdos tratados.
 
 ## 5. Confirmación de los asistentes
-- Alex Vásquez Pérez: ( ) confirmado el ____/____
-- Nelson Zapata Jiménez: ( ) confirmado el ____/____
-- Cristián García Bustamante: ( ) confirmado el ____/____
+- Alex Vásquez Pérez: (si ) confirmado el 22/10/26
+- Nelson Zapata Jiménez: (si ) confirmado el 22/10/26
+- Cristián García Bustamante: (si ) confirmado el 22/10/26
 
 ## 6. Para copiar al registro de `docs/decisiones.md`
 
 | Fecha | IDs ratificados | Quiénes participaron | Evidencia |
 |---|---|---|---|
-| ____/10/2026 | (ej.: D1 a D9, D11 a D14) | (los que asistieron) | `docs/actas/acta-01-ratificacion.md` y captura en `docs/07-evidencias/` |
+| 22/10/2026 | (ej.: D1 a D9, D11 a D14) | Alex Vásquez Pérez, Nelson Zapata Jiménez y Cristián García Bustamante| `docs/actas/acta-01-ratificacion.md` y captura en `docs/07-evidencias/` |
 
 Cada integrante confirma por escrito (por ejemplo, un mensaje en el grupo,
 guardado como captura) que el acta refleja lo acordado.

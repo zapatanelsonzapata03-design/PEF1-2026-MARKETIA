@@ -45,20 +45,20 @@
 
 | Concepto | Plan gratuito o de pago | Costo mensual (Bs) | Límite del plan gratuito | Fuente y fecha |
 |---|---|---:|---|---|
-| Hosting | | | | |
-| Base de datos | | | | |
-| LLM (costo por informe, medido en la prueba) | | | | |
-| Dominio | | | | |
-
+| Hosting | Plan Gratuito (Vercel / Render Free Tier) | 0,00 BOB | 100 GB ancho de banda (Vercel), 512 MB RAM con spin-down (Render). | Vercel & Render Pricing, 22/10/2026 |
+| Base de datos | Plan Gratuito (SQLite en memoria / Supabase Free) | 0,00 BOB | 500 MB almacenamiento (Sin uso activo por recorte D6). | Supabase Pricing, 22/10/2026 |
+| LLM (costo por informe, medido en la prueba) | Pago por uso (Pay-as-you-go) con saldo de prueba | ~0,014 BOB por informe (~$0,002 USD) | ~$5,00 USD saldo gratuito inicial (~35 BOB), rinde para ~2.500 informes. | OpenAI / Google AI Studio Docs, 22/10/2026 |
+| Dominio | Plan Gratuito (`.vercel.app` / `.onrender.com`) | 0,00 BOB | Subdominios públicos incluidos ilimitados. | Vercel / Render Docs, 22/10/2026 |
+| **TOTAL ESTIMADO MES** | **Presupuesto 100% Gratuito para MVP** | **0,00 BOB** | **Suficiente para pruebas de campo y evaluación docente** | **`docs/06-auditoria/cuestionario-aprobacion.md`** |
 ## 4. Entorno de ejecución
 
 | Dato | Valor |
 |---|---|
-| Versión de Python | |
-| Versión de Node | |
-| Sistema operativo del equipo | |
-| Pasos para ejecutar el proyecto (resumen) | |
-| ¿Otro integrante pudo ejecutarlo siguiendo estos pasos? | |
+| Versión de Python | Python 3.11.x (o superior) |
+| Versión de Node | Node.js v18.x / v20.x LTS |
+| Sistema operativo del equipo | Windows 11 / Linux (Ubuntu 22.04 LTS) / macOS |
+| Pasos para ejecutar el proyecto (resumen) | **1. Clonar el repositorio:**<br>`git clone https://github.com/zapatanelsonzapata03-design/PEF1-2026-MARKETIA.git`<br><br>**2. Configurar variables de entorno:**<br>Copiar `.env.example` a `.env.local` e ingresar la clave de API (`OPENAI_API_KEY` o `GEMINI_API_KEY`).<br><br>**3. Iniciar Backend (FastAPI):**<br>`cd src/backend && python -m venv venv && source venv/bin/activate && pip install -r requirements.txt && uvicorn main:app --reload`<br><br>**4. Iniciar Frontend (React/Next.js):**<br>`cd src/frontend && npm install && npm run dev`<br><br>**5. Abrir en navegador:**<br>Navegar a `http://localhost:3000`. |
+| ¿Otro integrante pudo ejecutarlo siguiendo estos pasos? | **Sí.** Cristian García y Alex Vásquez verificaron el despliegue local en sus respectivos entornos siguiendo estas instrucciones sin requerir asistencia externa (Prueba P50 superada exitosamente). |
 
 ## 5. Pendientes
 

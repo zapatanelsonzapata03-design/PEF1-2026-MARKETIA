@@ -31,3 +31,12 @@ seis resúmenes aportados, no N=8 verificado; no se calculan frecuencias ni
 porcentajes. Los importes mencionados son relatos de participantes, no
 cotizaciones. La evidencia debe tratarse como preliminar hasta completar y
 verificar la documentación pertinente.
+
+## Recálculo aritmético preliminar
+
+Una reproducción aritmética decimal de los diez casos sintéticos del documento
+[`revision-formulas-borrador.md`](../03-arquitectura/revision-formulas-borrador.md)
+coincidió con los resultados indicados en la tabla. Esto no es una revisión
+independiente del integrante asignado, no prueba una implementación ni cubre
+casos reales. La firma de revisión, pruebas del sistema y comparación con
+negocios reales siguen pendientes.

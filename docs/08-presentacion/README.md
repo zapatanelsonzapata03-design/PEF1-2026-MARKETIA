@@ -4,6 +4,11 @@ Presentación en clase: sábado 24 de octubre de 2026 (hito del 40 %). El inform
 prevé **6 diapositivas**. Guardar aquí las diapositivas finales. No incluir
 datos personales, resultados no verificados ni credenciales.
 
+Preparar el estado real con la plantilla
+[`hecho-vs-planificado.md`](hecho-vs-planificado.md). Al corte del 22 de
+octubre, la respuesta docente registrada es “NO APROBADO TODAVÍA”; no consta
+autorización posterior para entrevistas, prueba técnica o desarrollo.
+
 ## Guion propuesto (6 diapositivas)
 
 | N.º | Diapositiva | Contenido | Responsable |
@@ -18,8 +23,10 @@ datos personales, resultados no verificados ni credenciales.
 ## Reglas
 - Distinguir siempre lo que está **hecho** de lo que está **planificado**.
 - Si las entrevistas o la prueba de OmniRoute no se realizaron, decir que están
-  planificadas con fecha; no mostrar números de ejemplo.
+  pendientes de autorización y reprogramación; no asignar fechas no acordadas ni
+  mostrar números de ejemplo como resultados.
 - Mostrar el caso del Anexo B solo con una advertencia: la IA sin costos
   variables daba una utilidad poco realista, lo que justifica las fórmulas fijas.
 - Confirmar la materia con el docente antes de presentar (D15).
-- Ensayo: viernes 23 de octubre (reunión de las 20:00).
+- Ensayo propuesto: viernes 23 de octubre (reunión de las 20:00); registrar el
+  resultado solo si se realiza.

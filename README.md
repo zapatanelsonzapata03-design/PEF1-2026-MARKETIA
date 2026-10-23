@@ -48,7 +48,9 @@ una prueba de viabilidad. Ver [`arquitectura-inicial.md`](docs/03-arquitectura/a
 | Cristián García Bustamante | Líder de la pantalla y la calidad |
 
 Horas, reuniones y flujo de trabajo: [`equipo/roles-y-acuerdos.md`](equipo/roles-y-acuerdos.md).
-Tareas en Trello (enlace del tablero: **agregar aquí**); código y revisiones en GitHub.
+Tareas en Trello: enlace pendiente de registrar cuando exista evidencia del
+tablero en [`docs/07-evidencias/evidencia-organizacion.md`](docs/07-evidencias/evidencia-organizacion.md).
+Código y revisiones en GitHub.
 
 ## Hitos
 | Fecha | Avance |
@@ -66,12 +68,14 @@ Tareas en Trello (enlace del tablero: **agregar aquí**); código y revisiones e
 6. [`docs/05-estadistica/`](docs/05-estadistica/plan-validacion.md): validación y [resultados](docs/05-estadistica/resultados.md).
 7. [`docs/07-evidencias/`](docs/07-evidencias/README.md): entrevistas, cotizaciones y evidencias.
 8. [`docs/06-auditoria/`](docs/06-auditoria/cuestionario-aprobacion.md): estado de las 52 preguntas y [prueba de fracaso](docs/06-auditoria/prueba-de-fracaso.md).
-9. [`docs/09-preparacion.md`](docs/09-preparacion.md) y [`docs/08-presentacion/`](docs/08-presentacion/README.md).
+9. [`docs/09-preparacion.md`](docs/09-preparacion.md), [`docs/04-planificacion/plan-de-cierre-y-ruta-a-la-aprobacion.md`](docs/04-planificacion/plan-de-cierre-y-ruta-a-la-aprobacion.md) y [`docs/08-presentacion/`](docs/08-presentacion/README.md).
 
 ## Qué construir primero
-Hasta que el docente autorice el desarrollo no se escribe código en `src/`.
-Autorizado (previsto el 26 de octubre): Nelson, esqueleto de la API y motor de
-cálculos; Cristián, formulario; Alex, coordinación, informe y evidencias.
+El 15 de octubre el docente respondió “NO APROBADO TODAVÍA”; esa respuesta no
+autoriza el desarrollo. No se escribe código en `src/` hasta recibir una nueva
+autorización expresa. Después de obtenerla, las primeras tareas propuestas son:
+Nelson, esqueleto de la API y motor de cálculos; Cristián, formulario; Alex,
+coordinación, informe y evidencias.
 
 ## Archivos para asistentes de IA
 `.clinerules` y `.github/copilot-instructions.md` son instrucciones para
@@ -79,20 +83,22 @@ asistentes de IA que trabajen con el repositorio. Las decisiones ratificadas se
 registran en `docs/decisiones.md`; una propuesta no ratificada no es un acuerdo.
 
 ## Estado actual
-Actualizado el 21 de octubre de 2026. Documentación redactada. Avance de las
-acciones que dependen del equipo y de terceros:
+Actualizado el 22 de octubre de 2026. El docente comunicó el 15 de octubre que
+el proyecto aún no estaba aprobado; no consta una autorización posterior.
+Avance de las acciones que dependen del equipo y de terceros:
 
 - [ ] Acta 01 completada (`docs/actas/acta-01-ratificacion.md`)
-- [ ] Solicitud enviada al docente y respuesta guardada (`docs/07-evidencias/`)
-- [ ] Referencias verificadas (`docs/01-proyecto/verificacion-referencias.md`)
+- [ ] Nueva autorización docente para el desarrollo y la prueba técnica (`docs/07-evidencias/solicitud-autorizacion-docente.md`)
+- [ ] Referencias verificadas (`docs/06-auditoria/verificacion-referencias.md`)
 - [ ] Entrevistas aplicadas: __ de 8 (`docs/07-evidencias/registro-entrevistas.md`)
 - [ ] Cotizaciones obtenidas: __ de 2
 - [ ] 10 casos de fórmulas revisados por una segunda persona
-- [ ] Prueba de viabilidad de OmniRoute (`docs/07-evidencias/registro-prueba-viabilidad.md`)
+- [ ] Prueba de viabilidad de OmniRoute, solo con autorización (`docs/07-evidencias/registro-prueba-viabilidad.md`)
 - [ ] Tablero de Trello y protección de `main` (`docs/07-evidencias/evidencia-organizacion.md`)
 
 Lo que no tiene casilla marcada **no está validado**. El desarrollo en `src/`
-empieza solo con autorización del docente.
+empieza solo con una nueva autorización expresa del docente. Las tareas con
+fechas anteriores al 22 de octubre deben reprogramarse si siguen pendientes.
 
 ## Materia
 El informe y el README indican Probabilidad y Estadística · UNIFRANZ · docente

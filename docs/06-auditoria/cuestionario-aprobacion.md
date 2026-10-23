@@ -16,10 +16,11 @@ porque la evidencia real y las ratificaciones aún no existen.** Las fechas de
 cierre son propuestas del equipo y se confirman en el acta. La aprobación final
 corresponde al docente.
 
-**Corte actualizado al 22 de octubre de 2026:** el 15 de octubre el docente
-respondió “NO APROBADO TODAVÍA” (ver
+**Corte actualizado al 22 de octubre de 2026:** el registro de autorización
+documenta el envío del enlace del repositorio al docente el 15 de octubre, pero
+no contiene una respuesta escrita (ver
 [`solicitud-autorizacion-docente.md`](../07-evidencias/solicitud-autorizacion-docente.md)).
-No consta autorización posterior para entrevistas, prueba técnica o desarrollo.
+No consta autorización para entrevistas, prueba técnica o desarrollo.
 Las fechas propuestas anteriores al 22 de octubre ya vencieron; no se
 consideran tareas realizadas y deben reprogramarse si siguen pendientes.
 
@@ -51,7 +52,7 @@ consideran tareas realizadas y deben reprogramarse si siguen pendientes.
 | 24 | Documentado | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md) | Ratificar v1.1 y v2 | Vie 16 oct |
 | 25 | Documentado; falta confirmar capacidades | [Arquitectura](../03-arquitectura/arquitectura-inicial.md) | Confirmar con la prueba de viabilidad | Lun 19 oct |
 | 26 | Documentado | [Arquitectura](../03-arquitectura/arquitectura-inicial.md) | Ejecutar validaciones autorizadas y documentar | Lun 19 oct |
-| 27 | Plan documentado; prueba no autorizada | [Arquitectura](../03-arquitectura/arquitectura-inicial.md), [Plan de validación](../05-estadistica/plan-validacion.md), [respuesta docente](../07-evidencias/solicitud-autorizacion-docente.md) | Obtener nueva autorización escrita; solo entonces ejecutar y registrar la prueba | Reprogramar tras autorización |
+| 27 | Plan documentado; benchmark de diez ideas y mediciones no registrados; autorización no consta | [Arquitectura](../03-arquitectura/arquitectura-inicial.md), [Plan de validación](../05-estadistica/plan-validacion.md), [registro docente](../07-evidencias/solicitud-autorizacion-docente.md) | Obtener autorización escrita; solo entonces ejecutar y registrar mediciones reales | Reprogramar tras autorización |
 | 28 | Documentado | [Arquitectura](../03-arquitectura/arquitectura-inicial.md) | Validar justificación con costos reales | Lun 19 oct |
 | 29 | Documentado; falta confirmar hosting y cuentas | [Arquitectura](../03-arquitectura/arquitectura-inicial.md), [Preparación](../09-preparacion.md) | Elegir hosting y confirmar accesos sin publicar secretos | Antes del 6 nov |
 | 30 | Documentado | [Arquitectura](../03-arquitectura/arquitectura-inicial.md) | Ratificar contrato de API | Vie 16 oct |
@@ -70,9 +71,9 @@ consideran tareas realizadas y deben reprogramarse si siguen pendientes.
 | 43 | Documentado (8 riesgos, 3 principales marcados) | [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md), [Informe final](../01-proyecto/MarketIA_informe_final.pdf) | Ratificar prioridad | Vie 16 oct |
 | 44 | Documentado | [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md) | Asignar seguimiento | Vie 16 oct |
 | 45 | Documentado | [Roles y acuerdos](../../equipo/roles-y-acuerdos.md) | Ratificar respaldos | Vie 16 oct |
-| 46 | **Falta acta y aprobación**: el docente respondió “NO APROBADO TODAVÍA” el 15/10 | [Decisiones](../decisiones.md), [Acta 01](../actas/acta-01-ratificacion.md), [respuesta docente](../07-evidencias/solicitud-autorizacion-docente.md) | Completar el acta con acuerdos reales y solicitar una nueva respuesta docente; no interpretar la respuesta actual como autorización | Reprogramar |
+| 46 | **Falta acta y respuesta docente**: el repositorio registra el envío del enlace, no una respuesta escrita | [Decisiones](../decisiones.md), [Acta 01](../actas/acta-01-ratificacion.md), [registro docente](../07-evidencias/solicitud-autorizacion-docente.md) | Completar el acta con acuerdos reales y registrar cualquier respuesta docente que se reciba | Reprogramar |
 | 47 | Documentado; método de demanda mitigado por D3 y supuestos visibles | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md), [Arquitectura](../03-arquitectura/arquitectura-inicial.md) | Definir rúbrica (OE3) y probar en A4 | Lun 19 oct |
-| 48 | **No autorizado aún**: la respuesta registrada es “NO APROBADO TODAVÍA”; hosting y cuentas sin evidencia | [Preparación](../09-preparacion.md), [respuesta docente](../07-evidencias/solicitud-autorizacion-docente.md) | Obtener autorización expresa y confirmar recursos sin publicar secretos | Reprogramar |
+| 48 | **Autorización no documentada**; hosting y cuentas sin evidencia | [Preparación](../09-preparacion.md), [registro docente](../07-evidencias/solicitud-autorizacion-docente.md) | Obtener autorización expresa y confirmar recursos sin publicar secretos | Reprogramar |
 | 49 | Documentado | [Preparación](../09-preparacion.md), [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md) | Ratificar primer trabajo por integrante | Vie 16 oct |
 | 50 | Documentado | [README](../../README.md) | Revisar con alguien ajeno al equipo | Jue 22 oct |
 | 51 | Documentado | [Prueba de fracaso](prueba-de-fracaso.md) | Ratificar escenarios | Vie 16 oct |
@@ -85,7 +86,7 @@ consideran tareas realizadas y deben reprogramarse si siguen pendientes.
 - Costo y latencia medidos de la prueba del LLM (A4).
 - Tres casos de negocios reales para comparar con las fórmulas.
 - Acta de ratificación completada y confirmada por los tres integrantes.
-- Nueva respuesta escrita del docente sobre autorización y materia; la respuesta registrada actualmente es “NO APROBADO TODAVÍA”.
+- Respuesta escrita del docente sobre autorización y materia; el repositorio registra el envío del enlace, pero no una respuesta.
 - Capturas de Trello y de la protección de `main`.
 - Proveedor de hosting elegido.
 

@@ -6,8 +6,9 @@ datos personales, resultados no verificados ni credenciales.
 
 Preparar el estado real con la plantilla
 [`hecho-vs-planificado.md`](hecho-vs-planificado.md). Al corte del 22 de
-octubre, la respuesta docente registrada es “NO APROBADO TODAVÍA”; no consta
-autorización posterior para entrevistas, prueba técnica o desarrollo.
+octubre, el repositorio registra el envío del enlace del proyecto al docente,
+pero no una respuesta escrita que autorice entrevistas, prueba técnica o
+desarrollo.
 
 ## Guion propuesto (6 diapositivas)
 
@@ -22,9 +23,9 @@ autorización posterior para entrevistas, prueba técnica o desarrollo.
 
 ## Reglas
 - Distinguir siempre lo que está **hecho** de lo que está **planificado**.
-- Si las entrevistas o la prueba de OmniRoute no se realizaron, decir que están
-  pendientes de autorización y reprogramación; no asignar fechas no acordadas ni
-  mostrar números de ejemplo como resultados.
+- Si las entrevistas o la prueba de OmniRoute no se realizaron, decir que no
+  constan autorización ni resultados en el repositorio; no asignar fechas no
+  acordadas ni mostrar números de ejemplo como resultados.
 - Mostrar el caso del Anexo B solo con una advertencia: la IA sin costos
   variables daba una utilidad poco realista, lo que justifica las fórmulas fijas.
 - Confirmar la materia con el docente antes de presentar (D15).

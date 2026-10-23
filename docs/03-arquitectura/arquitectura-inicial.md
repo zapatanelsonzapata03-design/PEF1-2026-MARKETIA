@@ -61,7 +61,10 @@ ratificarse.
 
 El esquema de solicitud/respuesta, validaciones, estados de error, autorización,
 límite de solicitudes y política de acceso quedan por especificar antes de
-implementar. Los endpoints son propuesta, no código existente.
+implementar. Los endpoints son propuesta, no código existente. La
+[`sección 6 de diseño y viabilidad técnica`](seccion-6-diseno-viabilidad-tecnica.md)
+documenta endpoints alternativos pendientes de ratificación; el equipo debe
+elegir y documentar un único contrato antes de implementar.
 
 ## Partes difíciles o inciertas
 

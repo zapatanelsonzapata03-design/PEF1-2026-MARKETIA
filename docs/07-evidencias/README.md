@@ -34,7 +34,8 @@ reales.
 
 La prueba preliminar de un caso del Anexo B no sustituye la prueba de viabilidad
 con diez ideas. La nueva prueba requiere autorización escrita; al corte del
-22/10/2026 no consta esa autorización.
+22/10/2026 el repositorio no registra una autorización. Ver también la
+[sección 6 de diseño y viabilidad técnica](../03-arquitectura/seccion-6-diseno-viabilidad-tecnica.md).
 
 ## Registro mínimo por evidencia
 Fecha, propósito, responsable, fuente, criterio del cuestionario que respalda y

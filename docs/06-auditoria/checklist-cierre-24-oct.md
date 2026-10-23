@@ -9,9 +9,9 @@
 
 - [ ] **Ratificación:** realizar la reunión y completar el
       [`acta 01`](../actas/acta-01-ratificacion.md) solo con acuerdos reales.
-- [ ] **Autorización docente:** hay una respuesta registrada del 15/10:
-      “NO APROBADO TODAVÍA”. Consultar si se presentará una nueva solicitud y
-      guardar cualquier respuesta real en
+- [ ] **Autorización docente:** el registro del 15/10 documenta el envío del
+      enlace del repositorio, pero no una respuesta escrita. Consultar si se
+      presentará una solicitud formal y guardar cualquier respuesta real en
       [`solicitud-autorizacion-docente.md`](../07-evidencias/solicitud-autorizacion-docente.md).
       No iniciar desarrollo, entrevistas ni prueba técnica sin autorización
       expresa correspondiente.

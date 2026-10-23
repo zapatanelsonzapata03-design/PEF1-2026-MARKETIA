@@ -11,9 +11,9 @@ mantienen como propuestas hasta que el equipo las ratifique.
 
 ## Estado de partida
 
-- El docente respondió “NO APROBADO TODAVÍA” el 15/10/2026. No consta una
-  autorización posterior para entrevistas, la prueba de OmniRoute o el
-  desarrollo.
+- El registro del 15/10/2026 documenta el envío del enlace del repositorio al
+  docente, pero no una respuesta escrita ni autorización para entrevistas, la
+  prueba de OmniRoute o el desarrollo.
 - El acta de ratificación está en blanco y las decisiones D1–D15 siguen
   pendientes de ratificación.
 - En el repositorio no están registradas entrevistas, cotizaciones, capturas
@@ -34,9 +34,9 @@ completarlas, registrar solo hechos comprobables:
 
 1. **Ratificación:** reunirse y llenar el acta con acuerdos y confirmaciones
    reales. No completar el acta por los integrantes.
-2. **Docente:** el equipo decide si presenta una nueva solicitud. Mantener la
-   respuesta actual como “NO APROBADO TODAVÍA” hasta recibir otra respuesta
-   escrita; no inferir aprobación por silencio.
+2. **Docente:** el equipo decide si presenta una solicitud formal. Registrar
+   cualquier respuesta recibida; no inferir autorización por el envío del
+   enlace ni por silencio.
 3. **Fuentes y cifras:** verificar cada enlace, cifra y población; registrar
    fecha, persona y ubicación de la evidencia en
    [`verificacion-referencias.md`](../06-auditoria/verificacion-referencias.md).
@@ -59,8 +59,8 @@ completarlas, registrar solo hechos comprobables:
 - No presentar las cifras del mercado como verificadas hasta comprobar las
   fuentes; no mostrar datos personales, credenciales ni resultados de ejemplo
   como si fueran resultados reales.
-- Decir claramente que la autorización registrada es negativa/provisional y
-  que el desarrollo no ha sido autorizado.
+- Decir claramente que el repositorio no registra autorización para el
+  desarrollo ni para las actividades que la requieren.
 - Dejar la decisión de aprobación al docente; una exposición no equivale a
   aprobación.
 

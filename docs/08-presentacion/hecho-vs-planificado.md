@@ -9,7 +9,7 @@ Plantilla para preparar la presentación del 24 de octubre de 2026. El apartado
 | Hecho | Evidencia |
 |---|---|
 | Existe un informe final y documentación de requisitos, arquitectura, planificación y validación propuesta | Archivos enlazados desde el [README](../../README.md) |
-| La respuesta docente registrada el 15/10/2026 fue “NO APROBADO TODAVÍA” | [`solicitud-autorizacion-docente.md`](../07-evidencias/solicitud-autorizacion-docente.md) |
+| El registro del 15/10/2026 documenta el envío del enlace al docente, pero no una respuesta escrita | [`solicitud-autorizacion-docente.md`](../07-evidencias/solicitud-autorizacion-docente.md) |
 | El acta 01 aún no contiene ratificación | [`acta-01-ratificacion.md`](../actas/acta-01-ratificacion.md) |
 | No hay entrevistas registradas | [`registro-entrevistas.md`](../07-evidencias/registro-entrevistas.md) |
 | El repositorio mantiene `src/` sin implementación | `src/.gitkeep` |
@@ -22,7 +22,7 @@ mantener estos elementos pendientes.
 | Tema | Estado real al presentar | Evidencia o bloqueo |
 |---|---|---|
 | Ratificación del equipo | | |
-| Nueva autorización docente | | |
+| Respuesta/autorización docente | | |
 | Verificación de referencias y cifras | | |
 | Entrevistas y consentimiento | | |
 | Cotizaciones | | |

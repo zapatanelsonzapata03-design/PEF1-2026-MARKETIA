@@ -38,7 +38,8 @@ Detalle en [`alcance-mvp-y-requisitos.md`](docs/02-requisitos/alcance-mvp-y-requ
 
 ## Tecnologías candidatas
 Python + FastAPI, React, PostgreSQL y un LLM vía OmniRoute (piloto), sujetos a
-una prueba de viabilidad. Ver [`arquitectura-inicial.md`](docs/03-arquitectura/arquitectura-inicial.md).
+una prueba de viabilidad. Ver [`arquitectura-inicial.md`](docs/03-arquitectura/arquitectura-inicial.md)
+y la [sección 6 de diseño y viabilidad técnica](docs/03-arquitectura/seccion-6-diseno-viabilidad-tecnica.md).
 
 ## Equipo
 | Integrante | Rol |
@@ -71,9 +72,10 @@ Código y revisiones en GitHub.
 9. [`docs/09-preparacion.md`](docs/09-preparacion.md), [`docs/04-planificacion/plan-de-cierre-y-ruta-a-la-aprobacion.md`](docs/04-planificacion/plan-de-cierre-y-ruta-a-la-aprobacion.md) y [`docs/08-presentacion/`](docs/08-presentacion/README.md).
 
 ## Qué construir primero
-El 15 de octubre el docente respondió “NO APROBADO TODAVÍA”; esa respuesta no
-autoriza el desarrollo. No se escribe código en `src/` hasta recibir una nueva
-autorización expresa. Después de obtenerla, las primeras tareas propuestas son:
+El registro disponible documenta el envío del enlace del repositorio al
+docente el 15 de octubre, pero no contiene una respuesta escrita que autorice
+el desarrollo. No se escribe código en `src/` hasta registrar la autorización
+correspondiente. Después de obtenerla, las primeras tareas propuestas son:
 Nelson, esqueleto de la API y motor de cálculos; Cristián, formulario; Alex,
 coordinación, informe y evidencias.
 
@@ -83,8 +85,9 @@ asistentes de IA que trabajen con el repositorio. Las decisiones ratificadas se
 registran en `docs/decisiones.md`; una propuesta no ratificada no es un acuerdo.
 
 ## Estado actual
-Actualizado el 22 de octubre de 2026. El docente comunicó el 15 de octubre que
-el proyecto aún no estaba aprobado; no consta una autorización posterior.
+Actualizado el 22 de octubre de 2026. El repositorio registra el envío del
+enlace del proyecto al docente el 15 de octubre; no consta una respuesta escrita
+ni autorización posterior.
 Avance de las acciones que dependen del equipo y de terceros:
 
 - [ ] Acta 01 completada (`docs/actas/acta-01-ratificacion.md`)

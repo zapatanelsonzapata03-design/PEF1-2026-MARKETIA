@@ -11,8 +11,8 @@ pendiente.
 | Requisito o decisión | Estado documentado | Paso pendiente |
 |---|---|---|
 | Ratificación de D1 a D15 | Acta 01 sin completar; las decisiones siguen siendo propuestas | Reunión del equipo y registro de acuerdos reales en [`acta-01-ratificacion.md`](actas/acta-01-ratificacion.md) |
-| Autorización para prueba técnica y desarrollo | El docente respondió “NO APROBADO TODAVÍA” el 15/10/2026; no consta otra respuesta | Consultar al equipo/docente si corresponde presentar una nueva solicitud; esperar autorización escrita antes de probar o desarrollar |
-| Protocolo de entrevistas | No hay entrevistas registradas; no consta autorización posterior | Confirmar aprobación del protocolo y reprogramar entrevistas; registrar datos anonimizados con consentimiento |
+| Autorización para prueba técnica y desarrollo | La solicitud registra el envío del enlace del repositorio el 15/10/2026; no consta respuesta escrita ni autorización | Consultar al equipo/docente si corresponde presentar una solicitud formal; esperar autorización escrita antes de probar o desarrollar |
+| Protocolo de entrevistas | No hay entrevistas registradas ni autorización escrita documentada | Confirmar aprobación del protocolo y reprogramar entrevistas; registrar datos anonimizados con consentimiento |
 | Referencias y cifras del informe | Transcritas; verificación pendiente | Comprobar enlaces, cifras, población y ubicación en la fuente en [`verificacion-referencias.md`](06-auditoria/verificacion-referencias.md) |
 | Cotizaciones locales | No registradas | Solicitar cotizaciones cuando el equipo pueda hacerlo y guardar respuestas reales |
 | Datos y permisos para prueba de LLM | No registrados; prueba técnica no autorizada | No usar datos reales ni realizar la prueba antes de obtener autorización |

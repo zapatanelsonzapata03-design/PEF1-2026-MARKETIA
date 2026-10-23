@@ -11,12 +11,12 @@ pendiente.
 | Requisito o decisión | Estado documentado | Paso pendiente |
 |---|---|---|
 | Ratificación de D1 a D16 | Acta 01 sin completar; las decisiones siguen siendo propuestas, incluida D16 | Reunión del equipo y registro de acuerdos reales en [`acta-01-ratificacion.md`](actas/acta-01-ratificacion.md) |
-| Autorización para prueba técnica y desarrollo | La solicitud registra el envío del enlace del repositorio el 15/10/2026; no consta respuesta escrita ni autorización | Consultar al equipo/docente si corresponde presentar una solicitud formal; esperar autorización escrita antes de probar o desarrollar |
+| Autorización para prueba técnica y desarrollo | La solicitud registra el envío del enlace del repositorio el 15/10/2026; no consta respuesta escrita ni autorización. Hay evidencia de una interacción preliminar de un caso con OmniRoute, pero no de autorización previa | Registrar cualquier autorización recibida; obtener autorización escrita antes de nuevas pruebas o de desarrollar |
 | Protocolo de entrevistas | Se aportaron ocho resúmenes; no constan fichas completas de las 24 preguntas, consentimiento ni autorización escrita | Verificar la documentación y permisos antes de presentar los resúmenes como evidencia validada |
 | Referencias y cifras del informe | Nelson reportó que los nueve enlaces abren y contrastó las afirmaciones; hay afirmaciones por corregir o delimitar y falta revisión por otra persona | Aplicar las correcciones/delimitaciones al informe PDF y obtener revisión independiente según [`verificacion-referencias.md`](06-auditoria/verificacion-referencias.md) |
 | Cotizaciones locales | Dos capturas muestran consultas enviadas; no registran respuestas ni cotizaciones recibidas | Obtener respuestas de dos proveedores distintos y guardar cotizaciones reales |
-| Datos y permisos para prueba de LLM | No registrados; prueba técnica no autorizada | No usar datos reales ni realizar la prueba antes de obtener autorización |
-| Proveedor y hosting | No registrados | Decidir y documentar recursos después de las verificaciones y autorizaciones necesarias |
+| Datos y permisos para prueba de LLM | Capturas documentan un caso de ejemplo con OmniRoute; no consta autorización escrita. La prueba ampliada de diez ideas sigue pendiente | Obtener autorización escrita antes de la prueba ampliada; no usar datos reales |
+| Proveedor y hosting | Configuración de OmniRoute reportada y documentada con evidencia preliminar; hosting de frontend/backend no registrado | Completar únicamente los recursos efectivamente elegidos y comprobados |
 | Base de datos y política de retención | Decisión propuesta, sin ratificación documentada | Confirmar recursos y aprobar la decisión en acta |
 | Casos de referencia | Diez casos sintéticos documentados y un recálculo aritmético preliminar; revisión independiente y pruebas del sistema pendientes | Cristián debe recalcular por su cuenta y documentar su revisión si la realiza; usar casos reales solo con autorización y anonimización |
 | Horas semanales y reuniones | Propuestas, sin ratificación en acta | Confirmar en reunión y registrar el acuerdo |

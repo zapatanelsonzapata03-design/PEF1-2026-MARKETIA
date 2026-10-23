@@ -1,9 +1,13 @@
-# Registro de la prueba de viabilidad de OmniRoute
+# Registro de la prueba ampliada de viabilidad de OmniRoute
 
-> Realizar esta prueba **solo con autorización escrita del docente** y fuera
-> de `src/`. Usar ideas de ejemplo, sin datos personales ni de negocios reales.
-> No guardar claves, tokens ni archivos de entorno. Completar con mediciones
-> reales; no estimar. Al 22/10/2026 no consta autorización para realizarla.
+> Esta plantilla corresponde a la prueba ampliada de diez ideas. Las capturas
+> del informe final y la evidencia del 08/10/2026 documentan una interacción
+> preliminar de un caso; no completan esta prueba ni acreditan autorización
+> previa. Realizar la prueba ampliada **solo con autorización escrita del
+> docente** y fuera de `src/`. Usar ideas de ejemplo, sin datos personales ni
+> de negocios reales. No guardar claves, tokens ni archivos de entorno.
+> Completar con mediciones reales; no estimar. Al 22/10/2026 no consta
+> autorización para la prueba ampliada.
 
 ## 1. Datos generales
 

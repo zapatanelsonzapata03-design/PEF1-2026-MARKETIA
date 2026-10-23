@@ -5,9 +5,11 @@
 > tareas, sus responsables y fechas, que el equipo siga un flujo de revisión,
 > ni que `main` esté protegida.
 >
-> La plantilla de prueba de OmniRoute está separada en
-> [`registro-prueba-viabilidad.md`](registro-prueba-viabilidad.md). La prueba
-> requiere autorización escrita del docente.
+> Las capturas de una interacción preliminar de un caso con OmniRoute están
+> registradas en [`README.md`](README.md#prueba-preliminar-de-omniroute). La
+> prueba ampliada de diez ideas tiene una plantilla separada en
+> [`registro-prueba-viabilidad.md`](registro-prueba-viabilidad.md) y requiere
+> autorización escrita del docente.
 
 ## 1. Tablero de Trello
 

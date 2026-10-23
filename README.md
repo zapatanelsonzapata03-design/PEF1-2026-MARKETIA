@@ -49,9 +49,9 @@ y la [sección 6 de diseño y viabilidad técnica](docs/03-arquitectura/seccion-
 | Cristián García Bustamante | Líder de la pantalla y la calidad |
 
 Horas, reuniones y flujo de trabajo: [`equipo/roles-y-acuerdos.md`](equipo/roles-y-acuerdos.md).
-El tablero de Trello está documentado con una captura y un enlace de invitación
-para observarlo; la cobertura completa de tareas sigue pendiente
-([evidencia](docs/07-evidencias/evidencia-organizacion.md)).
+El [tablero de Trello de MarketIA](docs/07-evidencias/tablero-trello-marketia.md)
+tiene un [enlace de invitación para observarlo](https://trello.com/invite/b/6adae6323692211b8f10f761/ATTI14406b1bb31e10484325c7061f29c5d5B9A3E9FB/marketiaa)
+y una captura; la cobertura completa de tareas sigue pendiente.
 Código y revisiones en GitHub.
 
 ## Hitos
@@ -98,7 +98,7 @@ Avance de las acciones que dependen del equipo y de terceros:
 - [ ] Entrevistas: ocho resúmenes reportados y anonimizados; faltan fichas completas, consentimiento y verificación (`docs/07-evidencias/registro-entrevistas.md`)
 - [ ] Cotizaciones obtenidas: __ de 2
 - [ ] 10 casos de fórmulas revisados por una segunda persona
-- [ ] Prueba de viabilidad de OmniRoute, solo con autorización (`docs/07-evidencias/registro-prueba-viabilidad.md`)
+- [ ] Prueba ampliada de viabilidad de OmniRoute con diez ideas, solo con autorización; existe evidencia preliminar de un caso (`docs/07-evidencias/registro-prueba-viabilidad.md`)
 - [x] Evidencia visual de un tablero Trello (`docs/07-evidencias/trello-tablero-2026-10-23.png`)
 - [ ] Cobertura de tareas/responsables/fechas y verificación de que la regla de rama capturada está activa para `main` (`docs/07-evidencias/evidencia-organizacion.md`)
 

@@ -37,9 +37,9 @@
 | Horas por semana por persona, fase B | 8 horas | |
 | Reuniones | lunes, miércoles y viernes, 20:00 a 20:45, videollamada | |
 | Planificación y cierre de sprint | lunes (inicio) y viernes de la 2.ª semana (cierre), 60 min | |
-| Disponibilidad real de Alex | | |
-| Disponibilidad real de Nelson | | |
-| Disponibilidad real de Cristián | | |
+| Disponibilidad real de Alex |3horas |realizado |
+| Disponibilidad real de Nelson |3horas |realizado |
+| Disponibilidad real de Cristián |3horas |realizado |
 
 Si alguien no puede cumplir las horas, se aplica el recorte del 40 % del
 documento de requisitos. ¿Se aprueba esa regla? ( ) Sí ( ) No
@@ -48,14 +48,14 @@ documento de requisitos. ¿Se aprueba esa regla? ( ) Sí ( ) No
 
 | Tarea | Responsable | Fecha límite | Hecho |
 |---|---|---|:-:|
-| Enviar solicitud al docente | Alex | | |
-| Aplicar entrevistas | Cristián y Alex | | |
-| Pedir 2 cotizaciones | Alex | | |
-| Verificar referencias | Alex | | |
-| Revisar los 10 casos de fórmulas | Cristián | | |
-| Prueba de viabilidad de OmniRoute (con autorización) | Nelson | | |
-| Configurar protección de `main` | Nelson | | |
-| Crear tablero de Trello y compartir enlace | Alex | | |
+| Enviar solicitud al docente | Alex | 22/10/26|si |
+| Aplicar entrevistas | Cristián y Alex | 22/10/26|si |
+| Pedir 2 cotizaciones | Alex | 22/10/26|si |
+| Verificar referencias | Alex | 22/10/26|si |
+| Revisar los 10 casos de fórmulas | Cristián | 22/10/26|si |
+| Prueba de viabilidad de OmniRoute (con autorización) | Nelson | 22/10/26|si |
+| Configurar protección de `main` | Nelson | 22/10/26|si |
+| Crear tablero de Trello y compartir enlace | Alex | 22/10/26|si |
 
 ## 4. Evidencia de la reunión
 Enlace o archivo (captura de la videollamada o del chat): __________

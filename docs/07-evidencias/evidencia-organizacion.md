@@ -14,6 +14,7 @@
 | Campo | Dato |
 |---|---|
 | Enlace de invitación para observar el tablero | [Abrir tablero MarketIAa en Trello](https://trello.com/invite/b/6adae6323692211b8f10f761/ATTI14406b1bb31e10484325c7061f29c5d5B9A3E9FB/marketiaa) |
+| Fecha de creación reportada | 22/10/2026 |
 | Fecha visible de la captura | 23/10/2026 |
 | Listas visibles | Backlog, To Do, In Progress, Code Review / QA y Done |
 | Contadores visibles en la captura | Backlog: 4; To Do: 4; In Progress: 3; Code Review / QA: 3; Done: 8 |

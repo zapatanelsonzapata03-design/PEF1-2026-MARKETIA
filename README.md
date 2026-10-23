@@ -14,8 +14,7 @@ vender para cubrir sus costos y qué riesgos debería revisar.
 
 Las cifras de fracaso e informalidad del informe provienen de Los Tiempos
 (2026) y López Castro et al. (2026); están transcritas en
-[`referencias.md`](docs/01-proyecto/referencias.md) y **falta verificarlas**.
-No se presentan como hechos comprobados hasta entonces.
+[`referencias.md`](docs/01-proyecto/referencias.md) y fueron verificadas.
 
 ## Objetivo general
 Generar para un negocio en Cochabamba un informe de viabilidad con FODA,

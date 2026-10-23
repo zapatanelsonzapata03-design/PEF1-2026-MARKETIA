@@ -12,7 +12,7 @@ pendiente.
 |---|---|---|
 | Ratificación de D1 a D15 | Acta 01 sin completar; las decisiones siguen siendo propuestas | Reunión del equipo y registro de acuerdos reales en [`acta-01-ratificacion.md`](actas/acta-01-ratificacion.md) |
 | Autorización para prueba técnica y desarrollo | La solicitud registra el envío del enlace del repositorio el 15/10/2026; no consta respuesta escrita ni autorización | Consultar al equipo/docente si corresponde presentar una solicitud formal; esperar autorización escrita antes de probar o desarrollar |
-| Protocolo de entrevistas | Hay seis resúmenes reportados; no constan fichas completas, consentimiento ni autorización escrita | Verificar la documentación y permisos antes de presentar los resúmenes como evidencia validada |
+| Protocolo de entrevistas | Se aportaron ocho resúmenes; no constan fichas completas de las 24 preguntas, consentimiento ni autorización escrita | Verificar la documentación y permisos antes de presentar los resúmenes como evidencia validada |
 | Referencias y cifras del informe | Transcritas; verificación pendiente | Comprobar enlaces, cifras, población y ubicación en la fuente en [`verificacion-referencias.md`](06-auditoria/verificacion-referencias.md) |
 | Cotizaciones locales | Dos capturas muestran consultas enviadas; no registran respuestas ni cotizaciones recibidas | Obtener respuestas de dos proveedores distintos y guardar cotizaciones reales |
 | Datos y permisos para prueba de LLM | No registrados; prueba técnica no autorizada | No usar datos reales ni realizar la prueba antes de obtener autorización |

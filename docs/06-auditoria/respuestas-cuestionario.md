@@ -32,11 +32,11 @@ Emprendedor o microempresario de Cochabamba que planifica un negocio de comercio
 Fuente: [`alcance-mvp-y-requisitos.md`](../02-requisitos/alcance-mvp-y-requisitos.md). **Estado:** Documentado; D1 falta ratificar en el acta.
 
 **3. ¿Qué evidencia demuestra que el problema es real, relevante o necesario?**
-El repositorio contiene seis resúmenes de entrevistas reportados (E03–E08), sin fichas completas ni estado de consentimiento documentado; no se presentan como una muestra completa o validada. Dos capturas del 22/10 muestran el mismo texto de consulta enviado en conversaciones, pero no muestran respuestas, precios ni plazos, ni acreditan dos proveedores distintos. Las referencias siguen pendientes de verificación.
+El repositorio contiene ocho resúmenes de entrevistas reportados (E01–E08), con tres respuestas clave por entrevista, no fichas completas de las 24 preguntas. No constan fichas originales ni evidencia de consentimiento o autorización; no se presentan como una muestra completa verificada. Dos capturas del 22/10 muestran consultas enviadas, pero no respuestas, precios ni plazos, ni acreditan dos proveedores distintos. Las referencias siguen pendientes de verificación.
 Fuente: [`registro-entrevistas.md`](../07-evidencias/registro-entrevistas.md), [`guion-cotizaciones.md`](../07-evidencias/guion-cotizaciones.md), [`referencias.md`](../01-proyecto/referencias.md). **Estado:** Evidencia preliminar; validación pendiente.
 
 **4. ¿Qué consecuencias tiene actualmente ese problema?**
-Los seis resúmenes aportados describen dificultades relacionadas con competencia, planificación, costos y herramientas básicas. Son evidencia cualitativa preliminar; faltan fichas y consentimiento para valorar el procedimiento y no permiten generalizar a toda la población.
+Los ocho resúmenes aportados describen dificultades relacionadas con competencia, planificación, costos y herramientas básicas. Son evidencia cualitativa preliminar; faltan fichas completas y consentimiento para valorar el procedimiento y no permiten generalizar a toda la población.
 Fuente: [`registro-entrevistas.md`](../07-evidencias/registro-entrevistas.md), [`resumen-del-problema.md`](../01-proyecto/resumen-del-problema.md). **Estado:** Indicios preliminares; validación pendiente.
 
 **5. ¿Qué valor concreto aportará la solución al usuario?**
@@ -44,7 +44,7 @@ Un informe en menos de 5 minutos con punto de equilibrio calculado, FODA y estim
 Fuente: [`objetivos.md`](../02-requisitos/objetivos.md). **Estado:** Documentado; falta medir.
 
 **6. ¿Por qué la solución es una respuesta adecuada y no solo una aplicación interesante?**
-El diseño propone responder "¿cuánto debo vender para cubrir mis costos y qué riesgos revisar?" mediante fórmulas fijas y estimaciones de IA etiquetadas. Los resúmenes de entrevista expresan interés en claridad, rapidez o facilidad, pero la documentación es parcial y no demuestra todavía la adecuación de la solución. Las consultas de precio no tienen respuesta y las cifras de referencias no están verificadas.
+El diseño propone responder "¿cuánto debo vender para cubrir mis costos y qué riesgos revisar?" mediante fórmulas fijas y estimaciones de IA etiquetadas. Los ocho resúmenes expresan interés en claridad, rapidez o facilidad, pero la documentación es parcial y no demuestra todavía la adecuación de la solución. Las consultas de precio no tienen respuesta y las cifras de referencias no están verificadas.
 Fuente: [`resumen-del-problema.md`](../01-proyecto/resumen-del-problema.md), [`registro-entrevistas.md`](../07-evidencias/registro-entrevistas.md). **Estado:** Diseño documentado; validación pendiente.
 
 ## 2. Objetivos y éxito
@@ -68,11 +68,11 @@ Fuente: [`plan-validacion.md`](../05-estadistica/plan-validacion.md). **Estado:*
 ## 3. Usuarios y requisitos
 
 **11. ¿Usuarios y necesidades suficientemente definidos?**
-Cuatro necesidades propuestas: saber cuánto vender para cubrir costos, entender riesgos y oportunidades, describir la idea sin conocimientos técnicos y obtener un informe para evaluar el negocio. Seis resúmenes aportados mencionan algunas necesidades afines; faltan fichas completas y consentimiento documentado.
+Cuatro necesidades propuestas: saber cuánto vender para cubrir costos, entender riesgos y oportunidades, describir la idea sin conocimientos técnicos y obtener un informe para evaluar el negocio. Ocho resúmenes aportados mencionan algunas necesidades afines; faltan fichas completas y consentimiento documentado.
 Fuente: [`alcance-mvp-y-requisitos.md`](../02-requisitos/alcance-mvp-y-requisitos.md), [`registro-entrevistas.md`](../07-evidencias/registro-entrevistas.md). **Estado:** Documentado con indicios cualitativos preliminares; validación pendiente.
 
 **12. ¿Funcionalidades ligadas a necesidades reales?**
-Cada necesidad propuesta se vincula a un requisito RF-01 a RF-05; los resúmenes aportados son indicios, no una validación suficiente de esa correspondencia.
+Cada necesidad propuesta se vincula a un requisito RF-01 a RF-05; los ocho resúmenes aportados son indicios, no una validación suficiente de esa correspondencia.
 Fuente: [`alcance-mvp-y-requisitos.md`](../02-requisitos/alcance-mvp-y-requisitos.md), [`registro-entrevistas.md`](../07-evidencias/registro-entrevistas.md). **Estado:** Documentado como hipótesis; validar con fichas completas.
 
 **13. ¿Funcionalidades descritas para que otro integrante las desarrolle sin adivinar?**

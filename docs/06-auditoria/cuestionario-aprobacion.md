@@ -24,11 +24,17 @@ No consta autorización para entrevistas, prueba técnica o desarrollo.
 Las fechas propuestas anteriores al 22 de octubre ya vencieron; no se
 consideran tareas realizadas y deben reprogramarse si siguen pendientes.
 
+La coordinación reporta la aprobación del paquete documental por el equipo;
+ese reporte no acredita aprobaciones individuales en GitHub, no completa el
+acta de ratificación ni reemplaza la decisión del docente. Ver
+[`reporte-aprobacion-documental.md`](../actas/reporte-aprobacion-documental.md)
+y las [respuestas razonadas](respuestas-cuestionario.md).
+
 | N.º | Estado actual | Evidencia en el repositorio | Para cerrar el criterio | Fecha propuesta original (no acredita cumplimiento) |
 |---:|---|---|---|---|
 | 1 | Documentado | [Problema](../01-proyecto/resumen-del-problema.md) | Ensayar con cronómetro que se explica en menos de 30 s | Jue 22 oct |
 | 2 | Documentado; falta ratificar D1 | [Problema](../01-proyecto/resumen-del-problema.md), [Decisiones](../decisiones.md) | Ratificar D1 y confirmarlo con las entrevistas | Vie 16 oct / 20 oct |
-| 3 | Seis resúmenes de entrevista aportados; verificación, consentimiento, fichas faltantes y dos cotizaciones pendientes | [Registro anonimizado](../07-evidencias/registro-entrevistas.md), [Referencias](../01-proyecto/referencias.md), [Solicitudes de cotización](../07-evidencias/guion-cotizaciones.md) | Verificar fuentes y documentación de entrevistas; obtener dos cotizaciones reales | Reprogramar |
+| 3 | Seis resúmenes de entrevista aportados; consentimiento y fichas pendientes; capturas de consultas sin cotizaciones recibidas | [Registro anonimizado](../07-evidencias/registro-entrevistas.md), [Referencias](../01-proyecto/referencias.md), [Solicitudes de cotización](../07-evidencias/guion-cotizaciones.md) | Verificar fuentes y documentación de entrevistas; obtener dos cotizaciones reales | Reprogramar |
 | 4 | Hipótesis con indicios cualitativos preliminares; no validada | [Problema](../01-proyecto/resumen-del-problema.md), [Registro anonimizado](../07-evidencias/registro-entrevistas.md) | Verificar consentimientos y fichas; contrastar con muestra suficiente y límites explícitos | Reprogramar |
 | 5 | Importes relatados en resúmenes; no son cotizaciones ni medición de disposición a pagar | [Registro anonimizado](../07-evidencias/registro-entrevistas.md), [Resultados](../05-estadistica/resultados.md) | Obtener cotizaciones reales y medir costo/disposición de pago con datos documentados | Reprogramar |
 | 6 | Necesidades descritas en seis resúmenes anonimizados; fichas y consentimiento no aportados | [Registro anonimizado](../07-evidencias/registro-entrevistas.md), [Problema](../01-proyecto/resumen-del-problema.md) | Completar y verificar documentación; contrastar necesidades sin generalizar desde una muestra incompleta | Reprogramar |
@@ -58,7 +64,7 @@ consideran tareas realizadas y deben reprogramarse si siguen pendientes.
 | 30 | Documentado | [Arquitectura](../03-arquitectura/arquitectura-inicial.md) | Ratificar contrato de API | Vie 16 oct |
 | 31 | Documentado | [Datos y pruebas](../03-arquitectura/datos-seguridad-pruebas.md) | Confirmar fuentes y flujo hacia el proveedor | Vie 16 oct |
 | 32 | Documentado; falta ratificar D6 | [Datos y pruebas](../03-arquitectura/datos-seguridad-pruebas.md), [Decisiones](../decisiones.md) | Aprobar aviso, consentimiento, retención y borrado | Vie 16 oct |
-| 33 | **10 casos sintéticos documentados**; faltan 3 negocios reales y ejecución | [Datos y pruebas](../03-arquitectura/datos-seguridad-pruebas.md) | Revisión independiente (Cristián) y 3 casos reales anonimizados | Mié 21 oct |
+| 33 | Diez ejemplos sintéticos y recálculo aritmético preliminar; revisión independiente y ejecución del sistema no documentadas | [Datos y pruebas](../03-arquitectura/datos-seguridad-pruebas.md), [borrador de revisión](../03-arquitectura/revision-formulas-borrador.md) | Revisión independiente documentada por Cristián, pruebas del sistema y tres casos reales anonimizados con permiso | Reprogramar |
 | 34 | Documentado | [Datos y pruebas](../03-arquitectura/datos-seguridad-pruebas.md), [Plan de validación](../05-estadistica/plan-validacion.md) | Ratificar y registrar pruebas reales | Vie 16 oct |
 | 35 | Documentado (Fase A y B con fechas); falta ratificar | [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md), [Informe final](../01-proyecto/MarketIA_informe_final.pdf) | Ratificar fechas del plan y del informe | Vie 16 oct |
 | 36 | Documentado | [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md), [Roles y acuerdos](../../equipo/roles-y-acuerdos.md) | Ratificar asignaciones y corregir el informe (D11) | Vie 16 oct |

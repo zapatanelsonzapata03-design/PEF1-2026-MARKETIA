@@ -68,8 +68,9 @@ Código y revisiones en GitHub.
 5. [`docs/04-planificacion/`](docs/04-planificacion/plan-desarrollo-y-riesgos.md): Gantt, sprints, horas y riesgos.
 6. [`docs/05-estadistica/`](docs/05-estadistica/plan-validacion.md): validación y [resultados](docs/05-estadistica/resultados.md).
 7. [`docs/07-evidencias/`](docs/07-evidencias/README.md): entrevistas, cotizaciones y evidencias.
-8. [`docs/06-auditoria/`](docs/06-auditoria/cuestionario-aprobacion.md): estado de las 52 preguntas y [prueba de fracaso](docs/06-auditoria/prueba-de-fracaso.md).
-9. [`docs/09-preparacion.md`](docs/09-preparacion.md), [`docs/04-planificacion/plan-de-cierre-y-ruta-a-la-aprobacion.md`](docs/04-planificacion/plan-de-cierre-y-ruta-a-la-aprobacion.md) y [`docs/08-presentacion/`](docs/08-presentacion/README.md).
+8. [`docs/06-auditoria/`](docs/06-auditoria/cuestionario-aprobacion.md): [matriz de 52 preguntas](docs/06-auditoria/cuestionario-aprobacion.md), [respuestas razonadas](docs/06-auditoria/respuestas-cuestionario.md) y [prueba de fracaso](docs/06-auditoria/prueba-de-fracaso-tabla.md).
+9. Diseño: [wireframe propuesto](docs/03-arquitectura/wireframe-borrador.md), [borrador de recálculo de fórmulas](docs/03-arquitectura/revision-formulas-borrador.md) y [sección de viabilidad técnica](docs/03-arquitectura/seccion-6-diseno-viabilidad-tecnica.md).
+10. [Accesos y hosting](docs/09-accesos-y-hosting.md), [`docs/09-preparacion.md`](docs/09-preparacion.md), [ruta de cierre](docs/04-planificacion/plan-de-cierre-y-ruta-a-la-aprobacion.md), [`docs/08-presentacion/`](docs/08-presentacion/README.md) y [reporte de aprobación del equipo](docs/actas/reporte-aprobacion-documental.md).
 
 ## Qué construir primero
 El registro disponible documenta el envío del enlace del repositorio al

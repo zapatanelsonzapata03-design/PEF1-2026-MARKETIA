@@ -10,15 +10,15 @@ fuente**; hasta entonces no deben presentarse como respaldo comprobado.
 
 | N.º | Referencia | Dónde se usa en el informe | Verificada (fecha y quién) |
 |---:|---|---|---|
-| 1 | Delve AI. (2026). *Las 12 mejores herramientas de investigación de mercado con IA para probar en 2026.* https://www.delve.ai/es/blog/herramientas-investigacion-mercado-ia | Secciones 3 y 5 | verificado por nelson el 22/10/25 |
-| 2 | eesel AI. (2026). *Precios de la API de Gemini 2026: tarifa completa y costes ocultos.* https://www.eesel.ai/es/blog/precios-api-gemini | Secciones 5, 6 y 7 | verificado por nelson el 22/10/2 |
-| 3 | Google. (2026). *Precios de la API de Gemini.* Google AI for Developers. https://ai.google.dev/pricing | Secciones 5, 6 y 7 | verificado por nelson el 22/10/2 |
-| 4 | Kimi AI. (2026). *10 herramientas de IA para estudios de mercado y conclusiones más inteligentes.* https://www.kimi.com/es-419/resources/best-ai-for-market-research | Secciones 3 y 5 | verificado por nelson el 22/10/2 |
-| 5 | López Castro, V. I., Apiquian Guitart, A. I., y Mata Mata, L. (2026). *Éxito y fracaso de los emprendimientos en Bolivia: Educación financiera postpandemia.* Revista Perspectivas. https://perspectivas.ucb.edu.bo/index.php/a/article/view/305 | Sección 3 | verificado por nelson el 22/10/2 |
-| 6 | Los Tiempos. (2026, 10 de agosto). *Estudio: el 70 por ciento de los emprendimientos fracasan en Bolivia.* https://www.lostiempos.com/actualidad/economia/20260810/estudio-70-ciento-emprendimientos-fracasan-bolivia | Sección 3 | verificado por nelson el 22/10/2 |
-| 7 | OmniRoute. (2026). *OmniRoute: the free AI gateway* [Software]. GitHub. https://github.com/diegosouzapw/OmniRoute | Sección 5 | verificado por nelson el 22/10/2 |
-| 8 | Shopify. (2026). *Cómo usar la IA en investigación de mercados.* https://www.shopify.com/es/blog/ia-investigacion-de-mercados | Secciones 3 y 5 | verificado por nelson el 22/10/2 |
-| 9 | Thunderbit. (2025). *Top 15 mejores herramientas de IA para investigación de mercados en 2026.* https://thunderbit.com/es/blog/best-ai-for-market-research | Secciones 3 y 5 | verificado por nelson el 22/10/2 |
+| 1 | Delve AI. (2026). *Las 12 mejores herramientas de investigación de mercado con IA para probar en 2026.* https://www.delve.ai/es/blog/herramientas-investigacion-mercado-ia | Secciones 3 y 5 | verificado por nelson el 22/10/26 |
+| 2 | eesel AI. (2026). *Precios de la API de Gemini 2026: tarifa completa y costes ocultos.* https://www.eesel.ai/es/blog/precios-api-gemini | Secciones 5, 6 y 7 | verificado por nelson el 22/10/26 |
+| 3 | Google. (2026). *Precios de la API de Gemini.* Google AI for Developers. https://ai.google.dev/pricing | Secciones 5, 6 y 7 | verificado por nelson el 22/10/26 |
+| 4 | Kimi AI. (2026). *10 herramientas de IA para estudios de mercado y conclusiones más inteligentes.* https://www.kimi.com/es-419/resources/best-ai-for-market-research | Secciones 3 y 5 | verificado por nelson el 22/10/26 |
+| 5 | López Castro, V. I., Apiquian Guitart, A. I., y Mata Mata, L. (2026). *Éxito y fracaso de los emprendimientos en Bolivia: Educación financiera postpandemia.* Revista Perspectivas. https://perspectivas.ucb.edu.bo/index.php/a/article/view/305 | Sección 3 | verificado por nelson el 22/10/26 |
+| 6 | Los Tiempos. (2026, 10 de agosto). *Estudio: el 70 por ciento de los emprendimientos fracasan en Bolivia.* https://www.lostiempos.com/actualidad/economia/20260810/estudio-70-ciento-emprendimientos-fracasan-bolivia | Sección 3 | verificado por nelson el 22/10/26 |
+| 7 | OmniRoute. (2026). *OmniRoute: the free AI gateway* [Software]. GitHub. https://github.com/diegosouzapw/OmniRoute | Sección 5 | verificado por nelson el 22/10/26 |
+| 8 | Shopify. (2026). *Cómo usar la IA en investigación de mercados.* https://www.shopify.com/es/blog/ia-investigacion-de-mercados | Secciones 3 y 5 | verificado por nelson el 22/10/26 |
+| 9 | Thunderbit. (2025). *Top 15 mejores herramientas de IA para investigación de mercados en 2026.* https://thunderbit.com/es/blog/best-ai-for-market-research | Secciones 3 y 5 | verificado por nelson el 22/10/26 |
 
 Al verificar, agregar la fecha de consulta ("Consultado el DD/MM/2026") a cada
 referencia. Algunos enlaces parecen tener guiones faltantes en la dirección

@@ -16,7 +16,14 @@ porque la evidencia real y las ratificaciones aún no existen.** Las fechas de
 cierre son propuestas del equipo y se confirman en el acta. La aprobación final
 corresponde al docente.
 
-| N.º | Estado actual | Evidencia en el repositorio | Para cerrar el criterio | Fecha de cierre propuesta |
+**Corte actualizado al 22 de octubre de 2026:** el 15 de octubre el docente
+respondió “NO APROBADO TODAVÍA” (ver
+[`solicitud-autorizacion-docente.md`](../07-evidencias/solicitud-autorizacion-docente.md)).
+No consta autorización posterior para entrevistas, prueba técnica o desarrollo.
+Las fechas propuestas anteriores al 22 de octubre ya vencieron; no se
+consideran tareas realizadas y deben reprogramarse si siguen pendientes.
+
+| N.º | Estado actual | Evidencia en el repositorio | Para cerrar el criterio | Fecha propuesta original (no acredita cumplimiento) |
 |---:|---|---|---|---|
 | 1 | Documentado | [Problema](../01-proyecto/resumen-del-problema.md) | Ensayar con cronómetro que se explica en menos de 30 s | Jue 22 oct |
 | 2 | Documentado; falta ratificar D1 | [Problema](../01-proyecto/resumen-del-problema.md), [Decisiones](../decisiones.md) | Ratificar D1 y confirmarlo con las entrevistas | Vie 16 oct / 20 oct |
@@ -44,7 +51,7 @@ corresponde al docente.
 | 24 | Documentado | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md) | Ratificar v1.1 y v2 | Vie 16 oct |
 | 25 | Documentado; falta confirmar capacidades | [Arquitectura](../03-arquitectura/arquitectura-inicial.md) | Confirmar con la prueba de viabilidad | Lun 19 oct |
 | 26 | Documentado | [Arquitectura](../03-arquitectura/arquitectura-inicial.md) | Ejecutar validaciones autorizadas y documentar | Lun 19 oct |
-| 27 | Plan de validación documentado; prueba pendiente de autorización | [Arquitectura](../03-arquitectura/arquitectura-inicial.md), [Plan de validación](../05-estadistica/plan-validacion.md), [Informe final](../01-proyecto/MarketIA_informe_final.pdf) | Obtener autorización, ejecutar la prueba. Evidencia preliminar: Anexo B (1 caso) | Lun 19 oct |
+| 27 | Plan documentado; prueba no autorizada | [Arquitectura](../03-arquitectura/arquitectura-inicial.md), [Plan de validación](../05-estadistica/plan-validacion.md), [respuesta docente](../07-evidencias/solicitud-autorizacion-docente.md) | Obtener nueva autorización escrita; solo entonces ejecutar y registrar la prueba | Reprogramar tras autorización |
 | 28 | Documentado | [Arquitectura](../03-arquitectura/arquitectura-inicial.md) | Validar justificación con costos reales | Lun 19 oct |
 | 29 | Documentado; falta confirmar hosting y cuentas | [Arquitectura](../03-arquitectura/arquitectura-inicial.md), [Preparación](../09-preparacion.md) | Elegir hosting y confirmar accesos sin publicar secretos | Antes del 6 nov |
 | 30 | Documentado | [Arquitectura](../03-arquitectura/arquitectura-inicial.md) | Ratificar contrato de API | Vie 16 oct |
@@ -63,9 +70,9 @@ corresponde al docente.
 | 43 | Documentado (8 riesgos, 3 principales marcados) | [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md), [Informe final](../01-proyecto/MarketIA_informe_final.pdf) | Ratificar prioridad | Vie 16 oct |
 | 44 | Documentado | [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md) | Asignar seguimiento | Vie 16 oct |
 | 45 | Documentado | [Roles y acuerdos](../../equipo/roles-y-acuerdos.md) | Ratificar respaldos | Vie 16 oct |
-| 46 | **Falta acta**: decisiones D1 a D15 listas para ratificar | [Decisiones](../decisiones.md), [Acta 01](../actas/acta-01-ratificacion.md), [Preparación](../09-preparacion.md) | Reunión y acta; respuesta del docente (D10, D15) | Vie 16 oct / 20 oct |
+| 46 | **Falta acta y aprobación**: el docente respondió “NO APROBADO TODAVÍA” el 15/10 | [Decisiones](../decisiones.md), [Acta 01](../actas/acta-01-ratificacion.md), [respuesta docente](../07-evidencias/solicitud-autorizacion-docente.md) | Completar el acta con acuerdos reales y solicitar una nueva respuesta docente; no interpretar la respuesta actual como autorización | Reprogramar |
 | 47 | Documentado; método de demanda mitigado por D3 y supuestos visibles | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md), [Arquitectura](../03-arquitectura/arquitectura-inicial.md) | Definir rúbrica (OE3) y probar en A4 | Lun 19 oct |
-| 48 | **Falta confirmar**: autorización, hosting y cuentas | [Preparación](../09-preparacion.md) | Enviar solicitud y registrar respuesta | Vie 16 oct / 20 oct |
+| 48 | **No autorizado aún**: la respuesta registrada es “NO APROBADO TODAVÍA”; hosting y cuentas sin evidencia | [Preparación](../09-preparacion.md), [respuesta docente](../07-evidencias/solicitud-autorizacion-docente.md) | Obtener autorización expresa y confirmar recursos sin publicar secretos | Reprogramar |
 | 49 | Documentado | [Preparación](../09-preparacion.md), [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md) | Ratificar primer trabajo por integrante | Vie 16 oct |
 | 50 | Documentado | [README](../../README.md) | Revisar con alguien ajeno al equipo | Jue 22 oct |
 | 51 | Documentado | [Prueba de fracaso](prueba-de-fracaso.md) | Ratificar escenarios | Vie 16 oct |
@@ -78,19 +85,17 @@ corresponde al docente.
 - Costo y latencia medidos de la prueba del LLM (A4).
 - Tres casos de negocios reales para comparar con las fórmulas.
 - Acta de ratificación completada y confirmada por los tres integrantes.
-- Respuesta escrita del docente (autorización y materia).
+- Nueva respuesta escrita del docente sobre autorización y materia; la respuesta registrada actualmente es “NO APROBADO TODAVÍA”.
 - Capturas de Trello y de la protección de `main`.
 - Proveedor de hosting elegido.
 
 ## Resumen de acciones por fecha
-| Fecha | Acción |
+Las fechas originales anteriores al corte están vencidas; las acciones que
+siguen pendientes deben reprogramarse con el equipo.
+
+| Fecha de revisión | Acción |
 |---|---|
-| Vie 16 oct | Reunión, acta y envío de la solicitud al docente |
-| 16 al 19 oct | Referencias y cotizaciones |
-| 17 al 20 oct | Entrevistas |
-| Lun 19 oct | Prueba de viabilidad (con autorización) y criterios de aceptación |
-| Mar 20 oct | Capturas de Trello y GitHub; cargar entrevistas |
-| Mié 21 oct | 10 casos revisados y 3 negocios reales |
-| Jue 22 oct | Actualizar esta auditoría solo con evidencia real |
-| Vie 23 oct | Ensayo |
-| Sáb 24 oct | Presentación |
+| Jue 22 oct | Revisar el estado de las tareas vencidas; no marcar sin evidencia |
+| Vie 23 oct | Preparar únicamente materiales respaldados y reprogramar tareas pendientes |
+| Sáb 24 oct | Presentar distinguiendo hechos, pendientes y propuestas; el docente conserva la decisión de aprobación |
+| Después de la presentación | Registrar decisiones nuevas y reprogramar el plan según evidencia y acuerdos reales |

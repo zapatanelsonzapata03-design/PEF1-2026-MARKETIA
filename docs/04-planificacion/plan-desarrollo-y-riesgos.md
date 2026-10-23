@@ -76,8 +76,9 @@ gantt
     B2 Motor de cálculos y pruebas        :b2, 2026-10-28, 7d
     B4 Formulario React                   :b4, 2026-10-27, 9d
     B11 Visita a competidores y datos     :b11, 2026-10-26, 14d
-    section Sprint 2
+    section Cruza Sprint 1 y Sprint 2
     B3 Integración con LLM                :b3, 2026-11-02, 10d
+    section Sprint 2
     B5 Pantalla de informe                :b5, 2026-11-09, 8d
     B6 Persistencia mínima                :b6, 2026-11-12, 6d
     section Hito 80 %

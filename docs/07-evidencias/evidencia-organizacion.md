@@ -3,12 +3,16 @@
 > Respalda la pregunta 42 (mecanismo para revisar e integrar el trabajo). Guardar
 > las capturas en esta carpeta y anotar aquí su nombre. Mientras no existan,
 > estos acuerdos siguen siendo propuestas.
+>
+> La plantilla de prueba de OmniRoute está separada en
+> [`registro-prueba-viabilidad.md`](registro-prueba-viabilidad.md). La prueba
+> requiere autorización escrita del docente.
 
 ## 1. Tablero de Trello
 
 | Campo | Dato |
 |---|---|
-| Enlace del tablero (copiar también al README) | |
+| Enlace del tablero | |
 | Fecha de creación | |
 | Columnas: pendiente, en curso, en revisión, terminada | ( ) creadas |
 | Tarjetas creadas desde el plan (tareas A1 a A9 y B1 a B12) | ( ) sí |
@@ -48,77 +52,3 @@ quien administre esa cuenta debe hacer este cambio.
 |---|---|
 | Reuniones acordadas en el acta 01 | |
 | Notas de 3 líneas al cierre de cada reunión (avance, bloqueo, siguiente paso) | ( ) se están guardando en el grupo |
-
-
-# Registro de la prueba de viabilidad de OmniRoute
-
-> Hacer esta prueba **solo con autorización escrita del docente** y fuera de
-> `src/` (por ejemplo, en `spikes/omniroute/`). Usar ideas de ejemplo, sin datos
-> personales ni de negocios reales, y sin subir claves ni archivos `.env`.
-> Completar con mediciones reales; no estimar.
-
-## 1. Datos generales
-
-| Campo | Dato |
-|---|---|
-| Autorización del docente (fecha y medio) | |
-| Fecha de la prueba | |
-| Responsable | |
-| Proveedor y modelo usados vía OmniRoute | |
-| Versión de OmniRoute | |
-| Condiciones (red, hora, plan gratuito o de pago) | |
-
-## 2. Diez ideas de ejemplo
-
-Criterios propuestos: al menos 9 de 10 respuestas con el formato JSON acordado
-y mediana de latencia de 60 segundos o menos.
-
-| N.º | Idea de ejemplo (resumen, sin datos reales) | ¿JSON válido? | Latencia (s) | ¿Reintento? | Costo (Bs o USD) | Observaciones |
-|---:|---|:-:|---:|:-:|---:|---|
-| 1 | | | | | | |
-| 2 | | | | | | |
-| 3 | | | | | | |
-| 4 | | | | | | |
-| 5 | | | | | | |
-| 6 | | | | | | |
-| 7 | | | | | | |
-| 8 | | | | | | |
-| 9 | | | | | | |
-| 10 | | | | | | |
-
-## 3. Resumen
-
-| Indicador | Resultado | Criterio | ¿Cumple? |
-|---|---|---|:-:|
-| Respuestas con formato válido | ___ de 10 | 9 de 10 | |
-| Mediana de latencia | ___ s | 60 s o menos | |
-| Costo medio por informe | ___ | Comparar con OE5 | |
-| Solicitudes fallidas y cómo se manejaron | | Documentar | |
-| Términos y privacidad del proveedor revisados | Sí / No, fecha ___ | Antes de enviar datos reales | |
-
-## 4. Repetición del caso de la cafetería (Anexo B del informe)
-
-El ejemplo del informe (cafetería pequeña, inversión de Bs 20 000) no descontaba
-costos variables ni personal. Repetirlo con costos completos y calcular el
-punto de equilibrio con las **fórmulas fijas**, no con la IA.
-
-| Dato | Valor |
-|---|---|
-| Precio de venta por unidad (Bs) | |
-| Costo variable por unidad (Bs) | |
-| Costos fijos mensuales (Bs) | |
-| Punto de equilibrio en unidades (fórmula fija) | |
-| Punto de equilibrio en Bs (fórmula fija) | |
-| ¿La estimación de la IA es coherente con el cálculo? | |
-
- Decisión
-
-- [ ] OmniRoute es viable para el piloto
-- [ ] Activar el plan B de proveedor (indicar cuál: ____________)
-- [ ] La prueba queda pendiente (motivo: ____________)
-
-Pasar los resultados agregados a `docs/05-estadistica/resultados.md` y guardar
-las capturas en esta carpeta, sin credenciales.
-
-## 5. Cierre
-Verificado por: __________ · Fecha: ____/10/2026

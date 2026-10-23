@@ -14,6 +14,8 @@ reales.
 | [`registro-entrevistas.md`](registro-entrevistas.md) | Registro y resumen de entrevistas realizadas |
 | [`guion-cotizaciones.md`](guion-cotizaciones.md) | Cómo obtener 2 cotizaciones |
 | [`solicitud-autorizacion-docente.md`](solicitud-autorizacion-docente.md) | Borrador de solicitud y espacio para la respuesta |
+| [`registro-prueba-viabilidad.md`](registro-prueba-viabilidad.md) | Plantilla para la prueba de OmniRoute, solo tras autorización docente |
+| [`evidencia-organizacion.md`](evidencia-organizacion.md) | Registro de evidencia del tablero, GitHub y reuniones |
 
 ## Evidencia existente
 - Informe final: [`../01-proyecto/MarketIA_informe_final.pdf`](../01-proyecto/MarketIA_informe_final.pdf).
@@ -29,6 +31,10 @@ reales.
 - Cotizaciones reales con datos sensibles ocultos.
 - Registro de la prueba de viabilidad: fecha, modelo, tiempo, costo y resultado.
 - Respuesta escrita del docente a la solicitud de autorización.
+
+La prueba preliminar de un caso del Anexo B no sustituye la prueba de viabilidad
+con diez ideas. La nueva prueba requiere autorización escrita; al corte del
+22/10/2026 no consta esa autorización.
 
 ## Registro mínimo por evidencia
 Fecha, propósito, responsable, fuente, criterio del cuestionario que respalda y

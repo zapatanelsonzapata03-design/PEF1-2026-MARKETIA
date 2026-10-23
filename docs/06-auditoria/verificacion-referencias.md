@@ -19,8 +19,11 @@
 | 8 | Shopify (2026), IA en investigación de mercados | | | | |
 | 9 | Thunderbit (2025), herramientas de IA para investigación de mercados | | | | |
 
-Los enlaces de Los Tiempos y de Shopify parecen tener guiones faltantes. Si no
-abren, buscar el título exacto y corregir la dirección.
+**Estado al 22/10/2026: pendiente.** No se ha documentado aquí la apertura de
+las fuentes ni una comprobación de sus cifras. En particular, la observación
+previa sobre los enlaces de Los Tiempos y Shopify es solo una sospecha, no una
+verificación. No modificar URLs ni cifras hasta consultar las fuentes y
+registrar el resultado en la tabla.
 
 ## 2. Afirmaciones del informe
 
@@ -50,4 +53,4 @@ población es distinta) o **Quitar** (no hay respaldo).
 - Para el tipo de cambio, anotar la fuente, la fecha y si es oficial o paralelo.
 
 ## 4. Cierre
-Verificado por: __________ · Fecha: ____/10/2026 · Revisado por otra persona: __________
+Verificado por: __________ · Fecha: __________ · Revisado por otra persona: __________

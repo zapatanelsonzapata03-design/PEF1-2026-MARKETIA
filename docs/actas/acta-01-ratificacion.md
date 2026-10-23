@@ -58,7 +58,10 @@ documento de requisitos. ¿Se aprueba esa regla? ( ) Sí ( ) No
 | Crear tablero de Trello y compartir enlace | Alex | | |
 
 ## 4. Evidencia de la reunión
-Enlace o archivo (captura de la videollamada o del chat): __________
+Captura del chat de WhatsApp: [evidencia-coordinacion-reunion.png](evidencia-coordinacion-reunion.png).
+La imagen documenta la coordinación para realizar la reunión; por sí sola no
+confirma que se haya realizado ni acredita la fecha, la asistencia completa o
+los acuerdos tratados.
 
 ## 5. Confirmación de los asistentes
 - Alex Vásquez Pérez: ( ) confirmado el ____/____

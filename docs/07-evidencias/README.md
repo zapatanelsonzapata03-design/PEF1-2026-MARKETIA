@@ -11,7 +11,7 @@ reales.
 | [`consentimiento-informado.md`](consentimiento-informado.md) | Texto de consentimiento |
 | [`ficha-registro-entrevista.md`](ficha-registro-entrevista.md) | Ficha por entrevista |
 | [`plantilla-tabulacion.csv`](plantilla-tabulacion.csv) | Tabla para cargar respuestas |
-| [`registro-entrevistas.md`](registro-entrevistas.md) | Registro y resumen de entrevistas realizadas |
+| [`registro-entrevistas.md`](registro-entrevistas.md) | Seis resúmenes reportados, anonimizados; consentimiento y fichas originales no aportados |
 | [`guion-cotizaciones.md`](guion-cotizaciones.md) | Cómo obtener 2 cotizaciones |
 | [`solicitud-autorizacion-docente.md`](solicitud-autorizacion-docente.md) | Borrador de solicitud y espacio para la respuesta |
 | [`registro-prueba-viabilidad.md`](registro-prueba-viabilidad.md) | Plantilla para la prueba de OmniRoute, solo tras autorización docente |
@@ -28,7 +28,7 @@ reales.
 ## Evidencia por reunir
 - Capturas de Trello, de la protección de `main` en GitHub y de OmniRoute.
 - Resultados agregados de entrevistas (sin datos personales).
-- Cotizaciones reales con datos sensibles ocultos.
+- Respuestas a solicitudes de cotización; las capturas actuales solo muestran consultas enviadas.
 - Registro de la prueba de viabilidad: fecha, modelo, tiempo, costo y resultado.
 - Respuesta escrita del docente a la solicitud de autorización.
 

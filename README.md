@@ -91,9 +91,9 @@ ni autorización posterior.
 Avance de las acciones que dependen del equipo y de terceros:
 
 - [ ] Acta 01 completada (`docs/actas/acta-01-ratificacion.md`)
-- [ ] Nueva autorización docente para el desarrollo y la prueba técnica (`docs/07-evidencias/solicitud-autorizacion-docente.md`)
+- [ ] Autorización docente para el desarrollo y la prueba técnica (`docs/07-evidencias/solicitud-autorizacion-docente.md`)
 - [ ] Referencias verificadas (`docs/06-auditoria/verificacion-referencias.md`)
-- [ ] Entrevistas aplicadas: __ de 8 (`docs/07-evidencias/registro-entrevistas.md`)
+- [ ] Entrevistas: seis resúmenes reportados y anonimizados; faltan fichas E01–E02, consentimiento y verificación (`docs/07-evidencias/registro-entrevistas.md`)
 - [ ] Cotizaciones obtenidas: __ de 2
 - [ ] 10 casos de fórmulas revisados por una segunda persona
 - [ ] Prueba de viabilidad de OmniRoute, solo con autorización (`docs/07-evidencias/registro-prueba-viabilidad.md`)

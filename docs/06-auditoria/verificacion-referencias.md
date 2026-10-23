@@ -32,14 +32,14 @@ población es distinta) o **Quitar** (no hay respaldo).
 
 | Afirmación | Fuente indicada | Cifra encontrada y dónde | ¿Coincide? | Decisión |
 |---|---|---|:-:|---|
-| Alrededor de 7 de cada 10 emprendimientos fracasan en Bolivia | Los Tiempos (2026) | | | |
-| Cerca del 78,5 % de la actividad económica es informal | Los Tiempos (2026) | | | |
-| Alrededor del 70 % de las microempresas son informales | López Castro et al. (2026) | | | |
-| Un estudio profesional cuesta varios cientos de dólares y demora días o semanas | Ninguna: usar cotizaciones propias | | | |
-| Las herramientas de IA extranjeras están en inglés y se pagan en dólares | Blogs comerciales (1, 4, 8, 9) | | | |
-| Las IAs cobran por cantidad de texto procesado | Google (3), eesel AI (2) | | | |
-| OmniRoute es gratuito, de código abierto y reparte consultas entre proveedores | OmniRoute (7) | | | |
-| Tipo de cambio de Bs 12 por dólar | Ninguna | | | |
+| Alrededor de 7 de cada 10 emprendimientos fracasan en Bolivia | Los Tiempos (2026) |"Estudio: el 70 por ciento de los emprendimientos fracasan en Bolivia" / "unos siete fracasan [de cada 10]" (Los Tiempos, ago 2026). |Sí	 | Mantener |
+| Cerca del 78,5 % de la actividad económica es informal | Los Tiempos (2026) |"El Centro de Estudios Económicos Sociales (CEES) estableció que la informalidad en Bolivia alcanza un preocupante 78,5 por ciento" (Los Tiempos, ago 2026). |Sí	 | Mantener |
+| Alrededor del 70 % de las microempresas son informales | López Castro et al. (2026) |La cita del 70% en esta fuente se refiere a que "el 70% de los trabajadores informales son emprendedores" o al fracaso de emprendimientos, no a la tasa de informalidad de microempresas.|No	 | Corregir  |
+| Un estudio profesional cuesta varios cientos de dólares y demora días o semanas | Ninguna: usar cotizaciones propias | Cotizaciones del mercado de consultorías locales e internacionales.|Sí	 | Mantener |
+| Las herramientas de IA extranjeras están en inglés y se pagan en dólares | Blogs comerciales (1, 4, 8, 9) |Artículos/blogs sobre plataformas como OpenAI, Anthropic, Midjourney, etc. |Sí	 | Mantener |
+| Las IAs cobran por cantidad de texto procesado | Google (3), eesel AI (2) |Documentación oficial de API/precios basada en tokens (volumen de texto procesado). |Sí	 | Mantener |
+| OmniRoute es gratuito, de código abierto y reparte consultas entre proveedores | OmniRoute (7) |"OmniRoute — una puerta de enlace de IA de código abierto... enruta a más de 60 proveedores" (Repositorios / Reddit / Blogs). |Sí	 | Mantener |
+| Tipo de cambio de Bs 12 por dólar | Ninguna |En el mercado paralelo/no oficial en Bolivia oscila en ese rango (el oficial es Bs 6,96). |Sí	 | Corregir  |
 
 ## 3. Qué hacer con el resultado
 

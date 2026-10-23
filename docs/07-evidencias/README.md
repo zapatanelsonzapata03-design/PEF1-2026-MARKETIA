@@ -14,8 +14,9 @@ reales.
 | [`registro-entrevistas.md`](registro-entrevistas.md) | Ocho resúmenes reportados, anonimizados; consentimiento y fichas completas no aportados |
 | [`guion-cotizaciones.md`](guion-cotizaciones.md) | Cómo obtener 2 cotizaciones |
 | [`solicitud-autorizacion-docente.md`](solicitud-autorizacion-docente.md) | Borrador de solicitud y espacio para la respuesta |
-| [`registro-prueba-viabilidad.md`](registro-prueba-viabilidad.md) | Plantilla para la prueba de OmniRoute, solo tras autorización docente |
+| [`registro-prueba-viabilidad.md`](registro-prueba-viabilidad.md) | Plantilla para la prueba ampliada de OmniRoute con diez ideas; requiere autorización docente |
 | [`evidencia-organizacion.md`](evidencia-organizacion.md) | Registro de evidencia del tablero, GitHub y reuniones |
+| [`tablero-trello-marketia.md`](tablero-trello-marketia.md) | Enlace de invitación y estado documentado del tablero |
 | [`trello-tablero-2026-10-23.png`](trello-tablero-2026-10-23.png) | Captura del tablero Trello; evidencia de existencia, no de tareas completas ni protección de `main` |
 | [`proteccion-main-2026-10-23.png`](proteccion-main-2026-10-23.png) | Captura de ajustes de rama donde se ve el requisito de pull request y una aprobación; el recorte no muestra el patrón de rama |
 | [`pull-request-revisado-2026-10-23.png`](pull-request-revisado-2026-10-23.png) | Captura del listado de pull requests cerrados; incluye PR #9 como fusionada, sin mostrar revisiones individuales |
@@ -33,17 +34,37 @@ reales.
   prima) ni personal en la utilidad, y debe repetirse con costos completos y
   calcularse con las fórmulas fijas antes de usarla como resultado.
 
+## Prueba preliminar de OmniRoute
+
+Las siguientes capturas, fechadas el 08/10/2026, se aportaron como evidencia
+complementaria de la interacción con OmniRoute y del análisis de una cafetería
+de ejemplo:
+
+| Archivo | Contenido visible |
+|---|---|
+| [`prueba-omniroute-salida-2026-10-08.png`](prueba-omniroute-salida-2026-10-08.png) | Prompt de una cafetería y respuesta generada por IA |
+| [`prueba-omniroute-mercado-costos-2026-10-08.png`](prueba-omniroute-mercado-costos-2026-10-08.png) | Supuestos del mercado y estimaciones de costos iniciales |
+| [`prueba-omniroute-ingresos-rentabilidad-2026-10-08.png`](prueba-omniroute-ingresos-rentabilidad-2026-10-08.png) | Proyección de ingresos y análisis de rentabilidad |
+| [`prueba-omniroute-recomendaciones-2026-10-08.png`](prueba-omniroute-recomendaciones-2026-10-08.png) | Recomendaciones y conclusión del caso |
+| [`omniroute-topologia-2026-10-08.png`](omniroute-topologia-2026-10-08.png) | Topología y solicitudes recientes; muestra solicitudes exitosas y fallidas en esa vista |
+
+El costo de **Bs 0** para esta prueba es un dato reportado por Nelson; no se
+muestra en las capturas un contador de tokens, factura o medición de cargos.
+Por ello, no se presenta como medición verificable del costo por informe. Las
+capturas documentan un solo caso y no validan estabilidad, disponibilidad,
+conmutación de proveedor, fórmulas completas ni el sistema integrado.
+
 ## Evidencia por reunir
 - URL de consulta del tablero sin código de invitación y verificación de cobertura de tareas, responsables y fechas.
-- Evidencia adicional de OmniRoute y verificación de que la regla capturada se aplica a `main`.
+- Autorización documentada y resultados de la prueba ampliada de OmniRoute; verificación de que la regla capturada se aplica a `main`.
 - Evidencia de revisión individual de PRs; el listado de PRs cerrados no muestra aprobaciones de revisión.
 - Resultados agregados de entrevistas (sin datos personales).
 - Respuestas a solicitudes de cotización; las capturas actuales solo muestran consultas enviadas.
 - Registro de la prueba de viabilidad: fecha, modelo, tiempo, costo y resultado.
 - Respuesta escrita del docente a la solicitud de autorización.
 
-La prueba preliminar de un caso del Anexo B no sustituye la prueba de viabilidad
-con diez ideas. La nueva prueba requiere autorización escrita; al corte del
+La prueba preliminar de un caso no sustituye la prueba de viabilidad con diez
+ideas. Esa prueba ampliada requiere autorización escrita; al corte del
 22/10/2026 el repositorio no registra una autorización. Ver también la
 [sección 6 de diseño y viabilidad técnica](../03-arquitectura/seccion-6-diseno-viabilidad-tecnica.md).
 

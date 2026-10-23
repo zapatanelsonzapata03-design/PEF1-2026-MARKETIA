@@ -90,3 +90,15 @@ copia consultada el 23/10/2026 en
 La metodología del INE describe el PIB departamental como producción de las
 unidades residentes en cada departamento; este indicador no cuenta clientes
 potenciales ni mide la demanda de MarketIA.
+
+Instituto Nacional de Estadística (INE). (s. f.). *Cuadro 3.01.01:
+Cochabamba: producto interno bruto a precios corrientes, según actividad
+económica, 1988–2024* [hoja de cálculo; valores en miles de bolivianos
+corrientes; 2017–2024 preliminares]. Disponible en la [página de PIB
+departamental del INE](https://www.ine.gob.bo/index.php/estadisticas-economicas/pib-y-cuentas-nacionales/producto-interno-bruto-departamental/producto-interno-bruto-departamental/)
+y en su
+[archivo de descarga](https://nube.ine.gob.bo/index.php/s/19qyMAKbnrGxBhC/download);
+copia consultada el 23/10/2026 en
+[`INE-cuadro-03-01-01-PIB-Cochabamba-precios-corrientes-1988-2024.xlsx`](INE-cuadro-03-01-01-PIB-Cochabamba-precios-corrientes-1988-2024.xlsx).
+Estos valores nominales sirven como contexto económico regional y no son un
+conteo del mercado objetivo.

@@ -147,6 +147,23 @@ MarketIA. Estas cifras mejoran el contexto regional, pero no bastan para
 calcular el mercado objetivo, TAM/SAM/SOM, demanda del producto ni disposición
 de pago.
 
+Como complemento, el cuadro del PIB departamental a precios corrientes reporta
+las siguientes magnitudes nominales para Cochabamba:
+
+| Actividad económica | 2023 (preliminar) | 2024 (preliminar) |
+|---|---:|---:|
+| PIB departamental (precios de mercado) | 46.221.998,1 | 49.998.101,3 |
+| Comercio | 2.925.756,4 | 3.193.168,1 |
+| Servicios a las empresas | 1.222.662,0 | 1.341.435,3 |
+
+Valores en **miles de bolivianos corrientes**. No deben compararse directamente
+con la tabla anterior, expresada en bolivianos de 1990. La hoja marca con
+“(p)” los años 2017–2024 y se conserva en
+[`INE-cuadro-03-01-01-PIB-Cochabamba-precios-corrientes-1988-2024.xlsx`](INE-cuadro-03-01-01-PIB-Cochabamba-precios-corrientes-1988-2024.xlsx).
+Al igual que la serie a precios constantes, estos valores describen producción
+departamental agregada: no cuentan potenciales usuarios ni estiman por sí
+mismos el mercado de MarketIA.
+
 ## Valor esperado e indicadores
 
 El objetivo general del README plantea un informe de viabilidad en menos de

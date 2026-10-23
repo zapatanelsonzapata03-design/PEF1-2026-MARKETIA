@@ -12,8 +12,8 @@
 
 | Campo | Dato |
 |---|---|
-| Enlace del tablero | |
-| Fecha de creación | |
+| Enlace del tablero | https://trello.com/invite/b/6adae6323692211b8f10f761/ATTI14406b1bb31e10484325c7061f29c5d5B9A3E9FB/🧭-tablero-scrum-kanban-del-sprint|
+| Fecha de creación |22/10/26 |
 | Columnas: pendiente, en curso, en revisión, terminada | ( ) creadas |
 | Tarjetas creadas desde el plan (tareas A1 a A9 y B1 a B12) | ( ) sí |
 | Cada tarjeta tiene responsable y fecha | ( ) sí |

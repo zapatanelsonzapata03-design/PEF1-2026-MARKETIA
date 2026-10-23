@@ -33,3 +33,15 @@ universidades con servicio de asesoría. Pedir cotización a **al menos 2**.
 Guardar capturas en esta carpeta, ocultando nombres de personas y datos
 comerciales sensibles. Si no responden en 3 días, documentar el intento y buscar
 una tarifa publicada (con captura y fecha).
+
+## Solicitudes documentadas el 22/10/2026
+
+| Evidencia | Estado que muestra | Resultado |
+|---|---|---|
+| [`solicitud-cotizacion-01-2026-10-22.png`](solicitud-cotizacion-01-2026-10-22.png) | Captura de un mensaje de consulta informativa enviado | No muestra respuesta, precio ni plazo |
+| [`solicitud-cotizacion-02-2026-10-22.png`](solicitud-cotizacion-02-2026-10-22.png) | Captura del mismo texto de consulta en una conversación comercial | No muestra respuesta, precio ni plazo |
+
+Las dos capturas acreditan el envío de una consulta, no la recepción de una
+cotización. Muestran el mismo texto y no acreditan solicitudes a dos proveedores
+distintos; por tanto, no satisfacen el requisito de dos cotizaciones. Registrar
+respuesta y proveedor adicional cuando el equipo los obtenga.

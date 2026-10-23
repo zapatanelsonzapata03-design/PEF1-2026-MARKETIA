@@ -28,16 +28,16 @@ consideran tareas realizadas y deben reprogramarse si siguen pendientes.
 |---:|---|---|---|---|
 | 1 | Documentado | [Problema](../01-proyecto/resumen-del-problema.md) | Ensayar con cronómetro que se explica en menos de 30 s | Jue 22 oct |
 | 2 | Documentado; falta ratificar D1 | [Problema](../01-proyecto/resumen-del-problema.md), [Decisiones](../decisiones.md) | Ratificar D1 y confirmarlo con las entrevistas | Vie 16 oct / 20 oct |
-| 3 | Documentado; **falta evidencia real** | [Referencias](../01-proyecto/referencias.md), [Protocolo de entrevistas](../07-evidencias/protocolo-entrevistas.md), [Cotizaciones](../07-evidencias/guion-cotizaciones.md) | Verificar fuentes, 2 cotizaciones y entrevistas | 19 al 20 oct |
-| 4 | Documentado como hipótesis | [Problema](../01-proyecto/resumen-del-problema.md), [Protocolo de entrevistas](../07-evidencias/protocolo-entrevistas.md) | Contrastar con entrevistas (bloques B y C) | Mar 20 oct |
-| 5 | Documentado; falta medir | [Objetivos](../02-requisitos/objetivos.md), [Protocolo de entrevistas](../07-evidencias/protocolo-entrevistas.md) | Medir costo por informe (prueba de viabilidad) y disposición de pago (entrevistas) | Mar 20 oct |
-| 6 | Documentado; falta evidencia de usuarios | [Problema](../01-proyecto/resumen-del-problema.md), [Informe final](../01-proyecto/MarketIA_informe_final.pdf), [Protocolo de entrevistas](../07-evidencias/protocolo-entrevistas.md) | Respaldar con entrevistas (bloque E) y cotizaciones | Mar 20 oct |
+| 3 | Seis resúmenes de entrevista aportados; verificación, consentimiento, fichas faltantes y dos cotizaciones pendientes | [Registro anonimizado](../07-evidencias/registro-entrevistas.md), [Referencias](../01-proyecto/referencias.md), [Solicitudes de cotización](../07-evidencias/guion-cotizaciones.md) | Verificar fuentes y documentación de entrevistas; obtener dos cotizaciones reales | Reprogramar |
+| 4 | Hipótesis con indicios cualitativos preliminares; no validada | [Problema](../01-proyecto/resumen-del-problema.md), [Registro anonimizado](../07-evidencias/registro-entrevistas.md) | Verificar consentimientos y fichas; contrastar con muestra suficiente y límites explícitos | Reprogramar |
+| 5 | Importes relatados en resúmenes; no son cotizaciones ni medición de disposición a pagar | [Registro anonimizado](../07-evidencias/registro-entrevistas.md), [Resultados](../05-estadistica/resultados.md) | Obtener cotizaciones reales y medir costo/disposición de pago con datos documentados | Reprogramar |
+| 6 | Necesidades descritas en seis resúmenes anonimizados; fichas y consentimiento no aportados | [Registro anonimizado](../07-evidencias/registro-entrevistas.md), [Problema](../01-proyecto/resumen-del-problema.md) | Completar y verificar documentación; contrastar necesidades sin generalizar desde una muestra incompleta | Reprogramar |
 | 7 | Documentado | [README](../../README.md), [Objetivos](../02-requisitos/objetivos.md) | Ratificar condiciones de medición (D12) | Vie 16 oct |
 | 8 | Documentado | [Objetivos](../02-requisitos/objetivos.md) | Ratificar indicadores y umbrales | Vie 16 oct |
 | 9 | Documentado | [Objetivos](../02-requisitos/objetivos.md), [Informe final](../01-proyecto/MarketIA_informe_final.pdf) | Ratificar; contrastar con evidencia real | Vie 16 oct |
 | 10 | Documentado; OE5 pendiente de medir | [Objetivos](../02-requisitos/objetivos.md), [Plan de validación](../05-estadistica/plan-validacion.md) | Medir y registrar en `resultados.md` | Dic |
-| 11 | Documentado; falta validar | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md), [Protocolo de entrevistas](../07-evidencias/protocolo-entrevistas.md) | Confirmar necesidades con entrevistas | Mar 20 oct |
-| 12 | Documentado; falta validar | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md), [Protocolo de entrevistas](../07-evidencias/protocolo-entrevistas.md) | Confirmar correspondencia función-necesidad | Mar 20 oct |
+| 11 | Necesidades descritas en seis resúmenes aportados; evidencia preliminar | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md), [Registro anonimizado](../07-evidencias/registro-entrevistas.md) | Verificar fichas y consentimiento; contrastar con participantes diversos | Reprogramar |
+| 12 | Necesidades descritas cualitativamente; relación función-necesidad pendiente de validación | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md), [Registro anonimizado](../07-evidencias/registro-entrevistas.md) | Confirmar correspondencia con fichas completas y análisis documentado | Reprogramar |
 | 13 | Documentado | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md) | Ratificar campos, reglas y errores | Vie 16 oct |
 | 14 | Documentado | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md) | Convertir en casos de prueba (A6) | Lun 19 oct |
 | 15 | Documentado | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md) | Ratificar umbrales de RNF | Vie 16 oct |
@@ -47,7 +47,7 @@ consideran tareas realizadas y deben reprogramarse si siguen pendientes.
 | 19 | Documentado; falta confirmar disponibilidad | [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md), [Roles y acuerdos](../../equipo/roles-y-acuerdos.md) | Confirmar horas (21 h fase A; 8 h semanales) en el acta | Vie 16 oct |
 | 20 | Documentado | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md) | Ratificar el recorte del 40 % | Vie 16 oct |
 | 21 | Documentado; falta ratificar D2 | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md), [Decisiones](../decisiones.md) | Ratificar con el equipo y el docente | Vie 16 oct |
-| 22 | Documentado; falta validar | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md), [Protocolo de entrevistas](../07-evidencias/protocolo-entrevistas.md) | Validar con entrevistas | Mar 20 oct |
+| 22 | Un resumen expresa interés en una suscripción accesible, sin monto; disposición de pago no medida | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md), [Registro anonimizado](../07-evidencias/registro-entrevistas.md) | Completar fichas y documentar respuestas de pago sin atribuir montos no declarados | Reprogramar |
 | 23 | Documentado (hitos y 112 h estimadas); falta confirmar | [Plan](../04-planificacion/plan-desarrollo-y-riesgos.md), [Informe final](../01-proyecto/MarketIA_informe_final.pdf) | Confirmar calendario y autorización docente | Vie 16 oct |
 | 24 | Documentado | [Requisitos](../02-requisitos/alcance-mvp-y-requisitos.md) | Ratificar v1.1 y v2 | Vie 16 oct |
 | 25 | Documentado; falta confirmar capacidades | [Arquitectura](../03-arquitectura/arquitectura-inicial.md) | Confirmar con la prueba de viabilidad | Lun 19 oct |
@@ -81,8 +81,8 @@ consideran tareas realizadas y deben reprogramarse si siguen pendientes.
 
 ## Datos reales que aún no constan
 - Verificación de las referencias del informe (enlaces y cifras).
-- Cotizaciones de al menos dos proveedores locales.
-- Entrevistas a 8 o más emprendedores y su resumen agregado.
+- Dos cotizaciones reales de proveedores locales; las capturas actuales muestran solicitudes, no respuestas.
+- Fichas completas y consentimiento verificable para las entrevistas; E01–E02 no constan en el repositorio.
 - Costo y latencia medidos de la prueba del LLM (A4).
 - Tres casos de negocios reales para comparar con las fórmulas.
 - Acta de ratificación completada y confirmada por los tres integrantes.
